@@ -1,0 +1,116 @@
+[
+  {
+    "data": {
+      "chatHistoryProducts": {
+        "hasNext": false,
+        "minOrderTime": "1586273233",
+        "products": [
+          {
+            "categoryId": 1758,
+            "discountedPercentage": 90,
+            "imageUrl": "https://ecs7.tokopedia.net/img/cache/700/attachment/2020/4/23/32520341/32520341_b8b2d0fc-527b-421a-87ab-2c1e5cf9ca39.jpg.webp",
+            "isCampaignActive": true,
+            "listImageUrl": [
+              "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/2/18/12299749/12299749_147b4105-bd1a-4128-8828-98136290af18_795_795"
+            ],
+            "minOrder": 1,
+            "name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at feugiat ex, vel tempus turpis. Donec mollis dictum gravida. Nullam aliquet massa ac hendrerit semper. Nullam molestie in ex quis condimentum. Maecenas eleifend tristique nisl at varius. Nunc dapibus nisi ultricies erat finibus laoreet",
+            "playstoreStatus": "NORMAL",
+            "price": "Rp 500.000",
+            "priceBefore": "Rp 999.999.999",
+            "priceBeforeInt": 0,
+            "priceInt": 500,
+            "productId": "621535997",
+            "productUrl": "https://www.tokopedia.com/tumblersbux/f45h1on-w4n1t4",
+            "shopId": "1479278",
+            "status": 1,
+            "freeOngkir": {
+              "imageUrl": "https://ecs7.tokopedia.net/img/ic_bebas_ongkir.png",
+              "isActive": true
+            }
+          },
+          {
+            "categoryId": 8,
+            "discountedPercentage": 0,
+            "imageUrl": "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/4/16/6064990/6064990_5dec1aa8-52d7-45f8-bb1d-d35d86b349e8_1000_1000.webp",
+            "isCampaignActive": false,
+            "listImageUrl": [
+              "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/2/13/12299749/12299749_6a85a642-6e99-4c0a-9bf6-460c83135f61_1156_1156"
+            ],
+            "minOrder": 1,
+            "name": "hai there",
+            "playstoreStatus": "NORMAL",
+            "price": "Rp 100",
+            "priceBefore": "",
+            "priceBeforeInt": 0,
+            "priceInt": 100,
+            "productId": "408083893",
+            "productUrl": "https://www.tokopedia.com/tumblersbux/hai-there",
+            "shopId": "1479278",
+            "status": 3
+          },
+          {
+            "categoryId": 983,
+            "discountedPercentage": 0,
+            "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/12/17/12299749/12299749_a943a8f6-af0e-4507-8bbd-399f397a081a_300_300.jpg",
+            "isCampaignActive": false,
+            "listImageUrl": [
+              "https://ecs7.tokopedia.net/img/cache/700/product-1/2016/12/17/12299749/12299749_a943a8f6-af0e-4507-8bbd-399f397a081a_300_300.jpg"
+            ],
+            "minOrder": 1,
+            "name": "Product 48",
+            "playstoreStatus": "NORMAL",
+            "price": "Rp 1.000",
+            "priceBefore": "",
+            "priceBeforeInt": 0,
+            "priceInt": 1000,
+            "productId": "199047330",
+            "productUrl": "https://www.tokopedia.com/tumblersbux/product-48",
+            "shopId": "1479278",
+            "status": 1
+          },
+          {
+            "categoryId": 1759,
+            "discountedPercentage": 0,
+            "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/12/3/12299749/12299749_1058301f-ef57-412a-86a4-6abd315ee60f_315_315",
+            "isCampaignActive": false,
+            "listImageUrl": [
+              "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/12/3/12299749/12299749_1058301f-ef57-412a-86a4-6abd315ee60f_315_315"
+            ],
+            "minOrder": 1,
+            "name": "f45h10n Pr14",
+            "playstoreStatus": "NORMAL",
+            "price": "Rp 10.000",
+            "priceBefore": "",
+            "priceBeforeInt": 0,
+            "priceInt": 10000,
+            "productId": "621537030",
+            "productUrl": "https://www.tokopedia.com/tumblersbux/f45h10n-pr14",
+            "shopId": "1479278",
+            "status": 1
+          },
+          {
+            "categoryId": 60,
+            "discountedPercentage": 0,
+            "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2020/3/27/12299749/12299749_d2caa718-2ea2-4e93-ba21-c83dabcdef90_300_300",
+            "isCampaignActive": false,
+            "listImageUrl": [
+              "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/3/27/12299749/12299749_d2caa718-2ea2-4e93-ba21-c83dabcdef90_300_300"
+            ],
+            "minOrder": 1,
+            "name": "vape rasa boba",
+            "playstoreStatus": "SUSPICIOUS",
+            "price": "Rp 100",
+            "priceBefore": "",
+            "priceBeforeInt": 0,
+            "priceInt": 100,
+            "productId": "757982674",
+            "productUrl": "https://www.tokopedia.com/tumblersbux/vape-rasa-boba",
+            "shopId": "1479278",
+            "status": 1
+          }
+        ]
+      }
+    }
+  }
+]

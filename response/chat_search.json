@@ -1,0 +1,194 @@
+[
+  {
+    "data": {
+      "chatSearch": {
+        "contact": {
+          "hasNext": true,
+          "count": 7,
+          "data": [
+            {
+              "contact": {
+                "id": 5267414,
+                "role": "shop",
+                "attributes": {
+                  "domain": "veloveloshop",
+                  "name": "Velovelo Shop",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/5267414/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 7977933,
+              "createTimeStr": "1591088649000",
+              "lastMessage": "",
+              "msgId": 906549054,
+              "oppositeId": 5267414,
+              "oppositeType": 2
+            },
+            {
+              "contact": {
+                "id": 1960918,
+                "role": "shop",
+                "attributes": {
+                  "domain": "hefshop",
+                  "name": "HefShop",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/1960918/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 17211378,
+              "createTimeStr": "1591344529000",
+              "lastMessage": "",
+              "msgId": 92647875,
+              "oppositeId": 1960918,
+              "oppositeType": 2
+            },
+            {
+              "contact": {
+                "id": 6370771,
+                "role": "shop",
+                "attributes": {
+                  "domain": "txshoppm",
+                  "name": "TX Shop PM",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/6370771/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 7977933,
+              "createTimeStr": "1590488704000",
+              "lastMessage": "",
+              "msgId": 921462253,
+              "oppositeId": 6370771,
+              "oppositeType": 2
+            },
+            {
+              "contact": {
+                "id": 6370771,
+                "role": "shop",
+                "attributes": {
+                  "domain": "txshoppm",
+                  "name": "TX Shop PM",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/6370771/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 7977933,
+              "createTimeStr": "1590488704000",
+              "lastMessage": "",
+              "msgId": 921462253,
+              "oppositeId": 6370771,
+              "oppositeType": 2
+            },
+            {
+              "contact": {
+                "id": 6370771,
+                "role": "shop",
+                "attributes": {
+                  "domain": "txshoppm",
+                  "name": "TX Shop PM",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/6370771/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 7977933,
+              "createTimeStr": "1590488704000",
+              "lastMessage": "",
+              "msgId": 921462253,
+              "oppositeId": 6370771,
+              "oppositeType": 2
+            },
+            {
+              "contact": {
+                "id": 6370771,
+                "role": "shop",
+                "attributes": {
+                  "domain": "txshoppm",
+                  "name": "TX Shop PM",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/6370771/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 7977933,
+              "createTimeStr": "1590488704000",
+              "lastMessage": "",
+              "msgId": 921462253,
+              "oppositeId": 6370771,
+              "oppositeType": 2
+            },
+            {
+              "contact": {
+                "id": 6370771,
+                "role": "shop",
+                "attributes": {
+                  "domain": "txshoppm",
+                  "name": "TX Shop PM",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/6370771/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 7977933,
+              "createTimeStr": "1590488704000",
+              "lastMessage": "",
+              "msgId": 921462253,
+              "oppositeId": 6370771,
+              "oppositeType": 2
+            },
+            {
+              "contact": {
+                "id": 6370771,
+                "role": "shop",
+                "attributes": {
+                  "domain": "txshoppm",
+                  "name": "TX Shop PM",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/6370771/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 7977933,
+              "createTimeStr": "1590488704000",
+              "lastMessage": "",
+              "msgId": 921462253,
+              "oppositeId": 6370771,
+              "oppositeType": 2
+            },
+            {
+              "contact": {
+                "id": 6370771,
+                "role": "shop",
+                "attributes": {
+                  "domain": "txshoppm",
+                  "name": "TX Shop PM",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/6370771/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 7977933,
+              "createTimeStr": "1590488704000",
+              "lastMessage": "",
+              "msgId": 921462253,
+              "oppositeId": 6370771,
+              "oppositeType": 2
+            },
+            {
+              "contact": {
+                "id": 6370771,
+                "role": "shop",
+                "attributes": {
+                  "domain": "txshoppm",
+                  "name": "TX Shop PM",
+                  "tag": "",
+                  "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/6370771/shop_xs_thumbnail/desktop"
+                }
+              },
+              "createBy": 7977933,
+              "createTimeStr": "1590488704000",
+              "lastMessage": "",
+              "msgId": 921462253,
+              "oppositeId": 6370771,
+              "oppositeType": 2
+            }
+          ]
+        }
+      }
+    }
+  }
+]
