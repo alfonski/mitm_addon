@@ -1,4 +1,4 @@
-MITM Addons for Tokopedia usage only
+MITM Addons
 
 # Installation
 
