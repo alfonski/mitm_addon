@@ -1,0 +1,199 @@
+
+{
+    "data": {
+        "status": "OK",
+        "chatReplies": {
+            "minReplyTime": "1606804297695",
+            "maxReplyTime": "1606884614589",
+            "block": {
+                "blockedUntil": "2020-03-28T12:17:19.148546+07:00",
+                "isBlocked": false,
+                "isPromoBlocked": false
+            },
+            "hasNext": false,
+            "hasNextAfter": false,
+            "textareaReply": 1,
+            "attachmentIDs": "903104735",
+            "contacts": [
+                {
+                    "role": "User",
+                    "userId": 3660643,
+                    "shopId": 3987128,
+                    "interlocutor": true,
+                    "name": "Elly",
+                    "tag": "Pengguna",
+                    "thumbnail": "https://accounts.tokopedia.com/image/v1/u/3660643/user_thumbnail/desktop",
+                    "domain": "",
+                    "isOfficial": false,
+                    "isGold": false,
+                    "badge": "",
+                    "status": {
+                        "timestamp": 0,
+                        "timestampStr": "",
+                        "isOnline": false
+                    }
+                },
+                {
+                    "role": "Shop Owner",
+                    "userId": 39467501,
+                    "shopId": 3987128,
+                    "interlocutor": false,
+                    "name": "Meraih mimpi",
+                    "tag": "Penjual",
+                    "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/3987128/shop_xs_thumbnail/desktop",
+                    "domain": "totokaku",
+                    "isOfficial": false,
+                    "isGold": false,
+                    "badge": "",
+                    "status": {
+                        "timestamp": 1606992434,
+                        "timestampStr": "1606992434",
+                        "isOnline": false
+                    }
+                }
+            ],
+            "list": [
+                {
+                    "date": "1 Dec 2020",
+                    "chats": [
+                        {
+                            "time": "13:55",
+                            "replies": [
+                                {
+                                    "attachment": {
+                                        "id": 6,
+                                        "type": 24,
+                                        "attributes": "{\"review_card\":{\"product_name\":\"Bang Bili Auto Merge Bot\",\"product_id\":123,\"reputation_id\":1234123,\"buyer_id\":161234,\"allow_review\":false,\"is_reviewed\":true,\"rating\":4,\"review_url\":\"tokopedia.com\",\"feedback_id\":3457345, \"image_url\":\"https://emoji.slack-edge.com/T038RGMSP/kurir_ganja_cimahi/dfbc1938f4c320ba.png\"}}",
+                                        "fallback": {
+                                            "message": "Fallback review reminder",
+                                            "html": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>"
+                                        }
+                                    },
+                                    "blastId": 0,
+                                    "fraudStatus": 0,
+                                    "isHighlight": false,
+                                    "isOpposite": true,
+                                    "isRead": true,
+                                    "msg": "Reviewnya dong bang 😘",
+                                    "msgIdString": "1453576441",
+                                    "replyId": "15179754413",
+                                    "replyTime": "1617890952050016000",
+                                    "role": "User",
+                                    "senderId": 3660665,
+                                    "senderName": "Elly",
+                                    "source": "",
+                                    "status": 1,
+                                    "label": ""
+                                },
+                                {
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    },
+                                    "blastId": 0,
+                                    "fraudStatus": 0,
+                                    "isHighlight": false,
+                                    "isOpposite": true,
+                                    "isRead": true,
+                                    "msg": "Reviewnya dong bang 😘",
+                                    "msgIdString": "1453576441",
+                                    "replyId": "15179754414",
+                                    "replyTime": "1617890952050016000",
+                                    "role": "User",
+                                    "senderId": 3660665,
+                                    "senderName": "Elly",
+                                    "source": "",
+                                    "status": 1,
+                                    "label": ""
+                                },
+                                {
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    },
+                                    "blastId": 0,
+                                    "fraudStatus": 0,
+                                    "isHighlight": false,
+                                    "isOpposite": false,
+                                    "isRead": true,
+                                    "msg": "Udah ya sis Oles 😘 💋",
+                                    "msgIdString": "1453576442",
+                                    "replyId": "15179754415",
+                                    "replyTime": "1617890952050016001",
+                                    "role": "User",
+                                    "senderId": 3660665,
+                                    "senderName": "Elly",
+                                    "source": "",
+                                    "status": 1,
+                                    "label": ""
+                                },
+                                {
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    },
+                                    "blastId": 0,
+                                    "fraudStatus": 0,
+                                    "isHighlight": false,
+                                    "isOpposite": true,
+                                    "isRead": true,
+                                    "msg": "Kok ga bintang 5 bang? :(",
+                                    "msgIdString": "1453576442",
+                                    "replyId": "15179754416",
+                                    "replyTime": "1617890952050016001",
+                                    "role": "User",
+                                    "senderId": 3660666,
+                                    "senderName": "Elly",
+                                    "source": "replied_blast",
+                                    "status": 1,
+                                    "label": "Dikirim otomatis sesuai sto"
+                                },
+                                {
+                                    "attachment" : {
+                                        "id" : 903104735,
+                                        "fallback" : {
+                                          "message" : "<a rel=\"nofollow\" target=\"_blank\" href=\"hola\">hola</a>",
+                                          "html" : "<a rel=\"nofollow\" target=\"_blank\" href=\"hola\">hola</a>"
+                                        },
+                                        "type" : 3,
+                                        "attributes" : "{\"product_id\":128468724,\"product_profile\":{\"name\":\"NOMOR CANTIK INDOSAT (10 DIGIT) 0816 999 XXX\",\"price\":\"Rp 400.000\",\"price_int\":400000,\"price_before_int\":0,\"discounted_percentage\":0,\"is_campaign_active\":false,\"image_url\":\"https://ecs7.tokopedia.net/img/cache/200-square/product-1/2017/1/14/7555929/7555929_c6b64966-850d-406d-8c90-803d6c93c0ef_540_720.jpg\",\"category_breadcrumb\":\"\",\"url\":\"https://www.tokopedia.com/requestnomor/nomor-cantik-indosat-10-digit-0816-999-xxx-1\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":901993,\"status\":1,\"min_order\":1,\"category_id\":65,\"remaining_stock\":999984,\"category_breadcrumb\":\"\",\"variant\":[],\"free_ongkir\":{\"is_active\":false,\"image_url\":\"https://ecs7.tokopedia.net/img/ic_bebas_ongkir.png\"},\"rating\":{},\"icon_tokocabang\":\"\"}}"
+                                     },
+                                    "blastId": 0,
+                                    "fraudStatus": 0,
+                                    "isHighlight": false,
+                                    "isOpposite": false,
+                                    "isRead": true,
+                                    "msg": "Bintang 5 terlalu sempurna. Yang sempurna itu cuma kamu ",
+                                    "msgIdString": "1453576442",
+                                    "replyId": "15179754417",
+                                    "replyTime": "1617890952050016001",
+                                    "role": "User",
+                                    "senderId": 3660665,
+                                    "senderName": "Elly",
+                                    "source": "topbot",
+                                    "status": 1,
+                                    "label": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

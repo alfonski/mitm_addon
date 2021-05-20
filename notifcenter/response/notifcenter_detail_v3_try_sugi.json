@@ -1,0 +1,1160 @@
+[
+  {
+    "data": {
+      "notifcenter_detail_v3": {
+        "paging": { "has_next": true, "has_prev": false },
+        "new_paging": { "has_next": false, "has_prev": false },
+        "new_list": [
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "test ✨ test Really long widget tittle name test 123 456 7809",
+              "description": "+2 lainnya",
+              "message": "✨ Dana akan dikembalikan ke Saldo (1x24 jam) atau ke limit kartu kredit (14 hari kerja).",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "Selesai",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Konfirmasi penerimaan pesananmu sekarang ⭐️",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Pesananmu sudah sampai! 🏠",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Pesananmu dalam perjalanan! 🚛",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 2,
+            "widget": {
+              "title": "<b>Jakarta (GMR)</b> ke <b>Davy Jones (RIP)</b>",
+              "description": "+2 lainnya",
+              "message": "✨ Dana akan dikembalikan ke Saldo (1x24 jam) atau ke limit kartu kredit (14 hari kerja). ✨ Dana akan dikembalikan ke Saldo (1x24 jam) atau ke limit kartu kredit (14 hari kerja).",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "type_widget_history": 0,
+            "widget": {
+              "title": "test ✨ test Really long widget tittle name test 123 456 7809",
+              "description": "+2 lainnya",
+              "message": "✨ Dana akan dikembalikan ke Saldo (1x24 jam) atau ke limit kartu kredit (14 hari kerja).",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "Selesai",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Konfirmasi penerimaan pesananmu sekarang ⭐️",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Pesananmu sudah sampai! 🏠",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Pesananmu dalam perjalanan! 🚛",
+                "create_time_unix": 1609992427
+              },
+              {
+                "title": "Dsiapin dulu gan! 🚛",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "<b>this is short desc</b> Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "type_widget_history": 0,
+            "widget": {
+              "title": "test ✨ test Really long widget tittle name test 123 456 7809",
+              "description": "+2 lainnya",
+              "message": "✨ Dana akan dikembalikan ke Saldo (1x24 jam) atau ke limit kartu kredit (14 hari kerja).",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "Selesai",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "<b>this is short desc</b> Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "notif_order_type": 1,
+            "widget": {
+              "title": "Kursi cantik ala modern minimalis hoho",
+              "description": "+2 lainnya",
+              "message": "message",
+              "image": "https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/12/2/40768394/40768394_8f7d7e5f-b0a3-4122-aa45-913795fb1855.jpg",
+              "button_text": "TEXT",
+              "desktop_button_link": "https://www.tokopedia.com/order-list?detail=102",
+              "mobile_button_link": "https://m.tokopedia.com/order-details/marketplace/102?backBtn=true&upstream=MARKETPLACE",
+              "android_button_link": "tokopedia://marketplace/order/102",
+              "ios_button_link": "tokopedia://marketplace/order/102"
+            },
+            "track_history": [
+              {
+                "title": "Ketiga",
+                "create_time_unix": 1611649402
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992525
+              },
+              {
+                "title": "Final",
+                "create_time_unix": 1609992427
+              }
+            ],
+            "notif_id": "a97296db-5ec0-11eb-a7c0-00163e00e61a",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_reject",
+            "title": "Tulis ulasan buat belanjaanmu, yuk!",
+            "button_text": "Klik di sini",
+            "short_description": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "short_description_html": "Hai Try, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "10:51",
+            "create_time_unix": 1611546713,
+            "update_time": "2021-01-25 10:51:53.294005525 +0700 WIB",
+            "update_time_unix": 1611546713,
+            "expire_time": "2021-02-09 10:51:53.294018921 +0700 WIB",
+            "expire_time_unix": 1612842713,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/689697358",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "type_widget_history": 0,
+            "notif_id": "d02c9142-5eaa-11eb-861e-00163e0077ce",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "promotion",
+            "section_key": "Promo",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/promo.png",
+            "subsection_key": "",
+            "template_key": "buyerinfo_create_3326",
+            "title": "Diskon Gede-Gedean s.d. 50% di WIB! 💻",
+            "button_text": "Klik di sini",
+            "short_description": "Headphone Gaming hingga Mixer, Semua Ada di WIB! Cek Sekarang!",
+            "short_description_html": "Headphone Gaming hingga Mixer, Semua Ada di WIB! Cek Sekarang!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 4,
+            "create_time": "08:15",
+            "create_time_unix": 1611537329,
+            "update_time": "2021-01-25 08:29:59.883569904 +0700 WIB",
+            "update_time_unix": 1611538199,
+            "expire_time": "2021-01-25 23:59:00 +0700 WIB",
+            "expire_time_unix": 1611593940,
+            "status": 0,
+            "read_status": 2,
+            "image": [
+              {
+                "url": "https://ecs7.tokopedia.net/img/cache/480/AqyecK/2021/1/22/f484daa9-b89d-4b85-88e7-723fb3665c12.jpg?b=UcK-L%3Ax%2BR%40WF9OD%5Br%5BWA4jx.X3WEWBoZRRxt",
+                "width": 1200,
+                "height": 630,
+                "ratio": { "x": 1.9, "y": 1 }
+              }
+            ],
+            "data_notification": {
+              "app_link": "tokopedia://discovery/waktu-indonesia-belanja",
+              "desktop_link": "",
+              "info_thumbnail_url": "https://ecs7.tokopedia.net/img/cache/480/AqyecK/2021/1/22/f484daa9-b89d-4b85-88e7-723fb3665c12.jpg?b=UcK-L%3Ax%2BR%40WF9OD%5Br%5BWA4jx.X3WEWBoZRRxt",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          }
+        ],
+        "list": [
+          {
+            "type_widget_history": 0,
+            "notif_id": "7f89c11c-5c98-11eb-bf29-00163e0077ce",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "transaction",
+            "section_key": "Transaksi",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/digital/bills.png",
+            "subsection_key": "",
+            "template_key": "tokopoints_rewards_progress_mp",
+            "title": "🎉 Cihuy! Progres transaksimu meningkat",
+            "button_text": "Klik di sini",
+            "short_description": "Progres transaksimu di level Member Gold makin tinggi setelah belanja dari Tumbler Starbucks 123. Cek detailnya di sini!",
+            "short_description_html": "Progres transaksimu di level Member Gold makin tinggi setelah belanja dari Tumbler Starbucks 123. Cek detailnya di sini!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "22 Jan",
+            "create_time_unix": 1611309560,
+            "update_time": "2021-01-22 16:59:20.484000651 +0700 WIB",
+            "update_time_unix": 1611309560,
+            "expire_time": "2021-02-06 16:59:20.484013322 +0700 WIB",
+            "expire_time_unix": 1612605560,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://webview?allow_override=false\u0026url=https%3A%2F%2Fwww.tokopedia.com%2Frewards%2Fmembership",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          },
+          {
+            "type_widget_history": 0,
+            "notif_id": "e18ebffc-5c91-11eb-a587-00163e0077ce",
+            "user_id": 12299592,
+            "shop_id": 0,
+            "section_id": "physical_goods",
+            "section_key": "Belanja",
+            "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+            "subsection_key": "",
+            "template_key": "orderapp_notify_buyer_order_shipped",
+            "title": "Pesananmu sedang dalam perjalanan! ⛴️",
+            "button_text": "Klik di sini",
+            "short_description": "“Product 6” telah dikirim oleh penjual. Lacak barang pesananmu di sini!",
+            "short_description_html": "“Product 6” telah dikirim oleh penjual. Lacak barang pesananmu di sini!",
+            "is_longer_content": false,
+            "show_bottomsheet": false,
+            "type_bottomsheet": 0,
+            "content": "",
+            "type_of_user": 1,
+            "type_link": 8,
+            "create_time": "22 Jan",
+            "create_time_unix": 1611306718,
+            "update_time": "2021-01-22 16:11:57.965328656 +0700 WIB",
+            "update_time_unix": 1611306717,
+            "expire_time": "2021-02-06 16:11:57.965341462 +0700 WIB",
+            "expire_time_unix": 1612602717,
+            "status": 0,
+            "read_status": 2,
+            "image": [],
+            "data_notification": {
+              "app_link": "tokopedia://marketplace/order/691645795",
+              "desktop_link": "",
+              "info_thumbnail_url": "",
+              "mobile_link": "",
+              "product_name": "",
+              "product_url": "",
+              "checkout_url": ""
+            },
+            "total_product": 0,
+            "product_data": [],
+            "bottomsheet": {
+              "title": "",
+              "button_cta": { "type": 0, "text": "", "link": "", "data": "" },
+              "components": []
+            }
+          }
+        ],
+        "user_info": {
+          "user_id": 12299592,
+          "shop_id": 1465130,
+          "email": "",
+          "fullname": "Try Sugiharto Automation Testing"
+        },
+        "options": { "longer_content": 150 },
+        "empty_state_content": {
+          "content": "",
+          "link": {
+            "desktop_link": "",
+            "mobile_link": "",
+            "android_link": "",
+            "ios_link": ""
+          }
+        }
+      }
+    }
+  }
+]

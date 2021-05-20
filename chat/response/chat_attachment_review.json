@@ -1,0 +1,16 @@
+{
+    "data": {
+        "chatAttachments": {
+            "list": [
+                {
+                    "attributes": "{\"review_card\":{\"product_id\":1317524953,\"image_url\":\"https://ecs7.tokopedia.net/img/cache/200-square/VqbcmM/2020/11/5/e75a64dc-4231-475d-93b6-c71dbfa208d4.jpg\",\"product_name\":\"LOL\",\"reputation_id\":524873079,\"buyer_id\":103335694,\"allow_review\":true,\"review_url\":\"tokopedia://webview?url=https%3A%2F%2Fm.tokopedia.com%2Finbox-reputation%2Freview%2F524873079%2F1317524953%3Futm_source%3Dios_topchat\"}}",
+                    "fallback": {
+                        "message": "[link produk untuk diulas pembeli]"
+                    },
+                    "id": 812195983,
+                    "type": 24
+                }
+            ]
+        }
+    }
+}

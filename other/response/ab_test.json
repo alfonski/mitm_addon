@@ -1,0 +1,40 @@
+[
+  {
+    "data": {
+      "RolloutFeatureVariants": {
+        "featureVariants": [
+          { "feature": "Benefit Highlighter", "variant": "" },
+          { "feature": "ExpAutomigrateImage", "variant": "" },
+          { "feature": "4_AB_Ranking_Logic", "variant": "" },
+          { "feature": "Navigation P0.1", "variant": "Navigation Revamp" },
+          { "feature": "Inbox Talk Release", "variant": "" },
+          { "feature": "MultiTask_Aug_BMS", "variant": "" },
+          { "feature": "2_AB_Ranking_Logic", "variant": "" },
+          { "feature": "25_pop_aug_exp_21", "variant": "Aug_BMS_Exp_21_25" },
+          { "feature": "Reset Password AND", "variant": "Reset Password AND" },
+          { "feature": "Advance Filter", "variant": "" },
+          { "feature": "4_AB_Ranking_Algo", "variant": "" },
+          { "feature": "Review Incentive TF", "variant": "" },
+          { "feature": "Liveness Detection 2", "variant": "" },
+          { "feature": "Review Incentive 2", "variant": "" },
+          { "feature": "Product Card Info", "variant": "" },
+          { "feature": "Review Incentive 3", "variant": "" },
+          { "feature": "ovo_auto_account", "variant": "" },
+          { "feature": "CTA Phone Verify 2", "variant": "" },
+          { "feature": "StatsOverApp", "variant": "StatsOverApp" },
+          { "feature": "InboxUlasanRevamp2", "variant": "" },
+          { "feature": "uoh_android", "variant": "" },
+          { "feature": "SetWinningTest", "variant": "" },
+          { "feature": "3 Dots Search", "variant": "" },
+          { "feature": "uoh_android_v2", "variant": "uoh_android_v2" },
+          { "feature": "BenefitHighlighter2", "variant": "" },
+          { "feature": "Inbox Revamp", "variant": "Inbox Revamp" },
+          { "feature": "home_POC1", "variant": "" },
+          { "feature": "Home DC 1", "variant": "" }
+        ],
+        "globalRev": 373,
+        "status": true
+      }
+    }
+  }
+]

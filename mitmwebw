@@ -1,0 +1,2 @@
+#!/bin/bash
+mitmweb --ignore-hosts '^(?![0-9\.]+:)(?!([^\.:]+\.)*tokopedia\.(com|net):)' -s main.py $(for i in **/*.py; do if [[ $i != "main.py" && $i != *"__init__"* && $i != "base/"* ]]; then echo "-s $i"; fi; done)

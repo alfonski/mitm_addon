@@ -1,0 +1,33 @@
+[
+   {
+      "data":{
+         "chatOrderProgress":{
+            "enable":true,
+            "state":"new_order",
+            "orderId":"483741415",
+            "invoiceId":"INV/20200420/XX/IV/525301173",
+            "shipment":{
+               "id":23,
+               "name":"AnterAja",
+               "productId":45,
+               "productName":"Reguler",
+               "awb":""
+            },
+            "imageUrl":"https://ecs7.tokopedia.net/img/cache/200-square/product-1/2020/2/18/12299749/12299749_564f3e3f-e8c1-47da-a23c-15abce8e548b_1156_1156",
+            "name":"hai there, i\u0026#39;m overthinking \u0026#39;bout you [HAH]",
+            "status":"Menunggu Konfirmasi",
+            "statusId":220,
+            "label":{
+               "title":"Batal Otomatis",
+               "value":"4 Jam"
+            },
+            "button":{
+               "key":"",
+               "label":"",
+               "uri":""
+            },
+            "uri":"tokopedia://marketplace/order/483741415"
+         }
+      }
+   }
+]

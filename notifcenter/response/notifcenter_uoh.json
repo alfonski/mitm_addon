@@ -1,0 +1,32 @@
+{
+    "data": {
+        "notifcenter_notifOrderList": {
+            "list": [
+                {
+                    "icon": "https://images.tokopedia.net/img/notif-center/transaction_ongoing.png",
+                    "text": "Transaksi berlangsung",
+                    "counter": 101,
+                    "counter_str": "99+",
+                    "link": {
+                        "desktop_link": "https://www.tokopedia.com/order-list?status=Dalam%20Proses&page=1",
+                        "mobile_link": "https://m.tokopedia.com/order-list?status=Dalam%20Proses&from=&to=",
+                        "android_link": "tokopedia://buyer/processed",
+                        "ios_link": "https://m.tokopedia.com/order-list?status=Dalam%20Proses&from=&to="
+                    }
+                },
+                {
+                    "icon": "",
+                    "text": "Lihat semua dasd adasd asd as",
+                    "counter": 0,
+                    "counter_str": "0",
+                    "link": {
+                        "desktop_link": "https://www.tokopedia.com/order-list",
+                        "mobile_link": "https://m.tokopedia.com/order-list",
+                        "android_link": "tokopedia://buyer/order",
+                        "ios_link": "tokopedia://buyer/order"
+                    }
+                }
+            ]
+        }
+    }
+}

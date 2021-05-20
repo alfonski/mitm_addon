@@ -1,0 +1,14 @@
+{
+  "code": 204,
+  "data": {
+    "msg_id": 76403088,
+    "from": "Try",
+    "from_uid": 12299749,
+    "from_user_name": "Try",
+    "from_role": "Shop Owner",
+    "is_opposite": true,
+    "to_uid": 12299592,
+    "to_buyer": true,
+    "client_connect_time": "0001-01-01T00:00:00Z"
+  }
+}

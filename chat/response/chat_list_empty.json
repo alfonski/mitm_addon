@@ -1,0 +1,15 @@
+[
+      {
+            "data": {
+                  "status": "OK",
+                  "chatListMessage": {
+                        "list": [
+                              
+                        ],
+                        "hasNext": false,
+                        "pagingNext": false,
+                        "showTimeMachine": 0
+                  }
+            }
+      }
+]

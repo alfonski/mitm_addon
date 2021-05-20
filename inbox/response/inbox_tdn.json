@@ -1,0 +1,58 @@
+{
+    "status": {
+        "error_code": 0,
+        "message": "OK"
+    },
+    "header": {
+        "total_data": 1,
+        "process_time": 0.01219585,
+        "meta": {
+            "ab_test": "N",
+            "display": "banner"
+        },
+        "pagination": {
+            "kind": "scroll",
+            "next_page_token": "8a-pyR-5QchwPsJi6SDiQcVpPVYaQRri6sVYwe"
+        }
+    },
+    "data": [
+        {
+            "id": 74297634,
+            "banner": {
+                "name": "",
+                "images": [
+                    {
+                        "image_dimension": {
+                            "dimen_id": 4,
+                            "height": 240,
+                            "width": 960
+                        },
+                        "full_ecs": "https://ecs7.tokopedia.net/img/attachment/2020/11/2/50989218/50989218_32005861-2166-4454-93cf-3e15454d2c19"
+                    }
+                ],
+                "shop": {
+                    "id": 2918636,
+                    "name": "AQUA Official Store",
+                    "domain": "aqua-store",
+                    "tagline": "Kebaikan Alam, Kebaikan Hidup",
+                    "city": "Kab. Tangerang",
+                    "shop_is_official": true,
+                    "power_merchant": true,
+                    "power_merchant_badge": true,
+                    "image_shop": {
+                        "cover": "",
+                        "s_url": "",
+                        "xs_url": "",
+                        "cover_ecs": "",
+                        "s_ecs": "",
+                        "xs_ecs": ""
+                    }
+                }
+            },
+            "ad_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEopea6_rfHpeDUMVj9RzNrc1i6srDUSC5rfB7q3YXUsthbm-7q3OBUsthosn76_KRHAydbm-xgVYpyfYagZUEHs17bsH7osnd6AjhHAKp6AJObm-pHOYDQfri6i-B812OysUOqB2_Z_g-qB2D3BzcQVBEqcxHu71a_32CPJNI3_uoepn7_3OgH7h1z_z68BuE3uzqQJY9z9xgq1BpZ3N6qMUpZMhyHj2Nysoj8B2_Z_g-qjjh_jH78jNJ39PvzcrO_uzCoJOEgRx617BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjh_3j7H7Y139xo8MDp_uzg8jY1gpC6e7tNUiFiP9oBrBY2gmUEUsHfosnfoAHibm-pg9opq3YX9fBjUstiyRKf6cUheRzeZ1jEeuCC6_VizugwyMzqgSJNruCmb9xUQs-EHpzsyO-zo17d8_Bs69CMruzirJBNH1VD_R-G3uoc_1WEQuYIy9oEQ7gp33o_gu2gb3-1u3-jyfohQurdQIPe1ugDq_omH3gAqBPXeuoEou2B1JoFqfKNq1ukyuPkyuC5PjVqZO2BQMYRP347z7OJosxtQOUibm-xQcri6i-iy3NXg9-wy3zpUiFiQSuWyMua9fYM9fVjraUEHZFiQSuWyMua9fVjrOYag9Ji6sJDUMNwyfVXgcBjy9zB9fVjraUEHZFiPMuarfB5QiUEUSyaUS7?t=android&sid=cx68b1CtPII%3AAPA91bEV_bdZfq9qPB-xHn2z34ccRQ5M8y9c9pfqTbpIy1AlOrJYSFMKzm_GaszoFsYcSeZY-bTUbdccqmW8lwPQVli3B1fCjWnASz5ZePCpkh9iEjaWjaPovAZKZenowuo4GMD68hoR&src=inbox&page=1&click_ad_type=1&uid=3660643&r=https%3A%2F%2Fwww.tokopedia.com%2Faqua-store",
+            "ad_view_url": "https://ta.tokopedia.com/promo/v1/views/8a-xgVY2gmUEopea6_rfHpeDUMVj9RzNrc1i6srDUSC5rfB7q3YXUsthbm-7q3OBUsthosn76_KRHAydbm-Fy9ztUstig3opoaN7QfW5rcujq3JXQMu7bfBWgaYxPIzxyfxWg3N7bpUFHsn5H_J5Hi4OHAjd6_Uh6m4OHAjd6_Uh6VYsypH7yfoiyi7a63U7b_zjy_yWy_CxgZ7FH_eNoAeFgce7HMyXqSCSUiFiyRCWUsthHiFiy3zwrfo5rM1i6sUOomdpoAyF6AKNH_ndHpKhoZFirpowQcYSUstig9BGP3Uao32q17jfZ32qQV21zMhg8Mxt_VPVHjOke9z6zOjO_1HFoJOW3_oHuJ17_S2u8BB13Mhvu7ud33B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32-H1NAoI26zVBR_7zSo1O1e_zo8MPd_Bo-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-H1O2oAovuVBd_920H7O1392vucrF_joG6ZUDUSupg9-wq3ei6iUposyFosepUiFirfuprfB5QBY2gmUEUModosxiH1o71JB-6jVee_jhyju39f-j3Mgh69VeeiOdZcda8sH7yfoZ1_uo6IjNypBFgSV1ySC-8_VCQJYaZBB_zjOb8MOwzfVp8MYcrOBs1fuq3ZOiuVuigcosr3O96chR1VV3QcjpesVMef29QjV_8suqguCArcWt63BVqMV9qMVeQRgC3jWqg3N5PRu5oJPozAydqcYZUiFiy3hSUstiyMVXQMua9fVjraUDUMNOQ3-BrBY5gBYxgIHi6sJDUMNOQ3-BrBYxgIowrMuhUsthbm-X9foxQMz2gcV7guYxgIHi6sJDUSgBrSo2Qfdi6i-fHi-Y?sid=cx68b1CtPII%3AAPA91bEV_bdZfq9qPB-xHn2z34ccRQ5M8y9c9pfqTbpIy1AlOrJYSFMKzm_GaszoFsYcSeZY-bTUbdccqmW8lwPQVli3B1fCjWnASz5ZePCpkh9iEjaWjaPovAZKZenowuo4GMD68hoR&uid=3660643&src=inbox&page=1&t=android",
+            "redirect": "https://www.tokopedia.com/aqua-store",
+            "applinks": "tokopedia://shop/2918636"
+        }
+    ]
+}

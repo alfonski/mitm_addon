@@ -1,0 +1,40 @@
+[
+      {
+          "data": {
+              "notifcenter_detail_v3": {
+                  "paging": {
+                      "has_next": true,
+                      "has_prev": false
+                  },
+                  "new_paging": {
+                      "has_next": true,
+                      "has_prev": false
+                  },
+                  "new_list": [
+                        
+                  ],
+                  "list": [
+                        
+                  ],
+                  "user_info": {
+                      "user_id": 3660643,
+                      "shop_id": 463446,
+                      "email": "",
+                      "fullname": "Elly Delapan Sembilans"
+                  },
+                  "options": {
+                      "longer_content": 150
+                  },
+                  "empty_state_content": {
+                      "content": "",
+                      "link": {
+                          "desktop_link": "",
+                          "mobile_link": "",
+                          "android_link": "",
+                          "ios_link": ""
+                      }
+                  }
+              }
+          }
+      }
+  ]

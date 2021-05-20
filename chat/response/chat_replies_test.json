@@ -1,0 +1,246 @@
+{
+    "data": {
+        "chatReplies": {
+            "attachmentIDs": "792143486,801750262,801768944",
+            "block": {
+                "blockedUntil": "2021-07-26T11:25:52.954708+07:00",
+                "isBlocked": false,
+                "isPromoBlocked": true
+            },
+            "contacts": [
+                {
+                    "badge": "https://ecs7.tokopedia.net/chat/tc_os_icon.png",
+                    "interlocutor": true,
+                    "isGold": true,
+                    "isOfficial": true,
+                    "name": "artemisia amarant",
+                    "role": "Shop Owner",
+                    "shopId": 9880142,
+                    "status": {
+                        "isOnline": false,
+                        "timestamp": 1613926825,
+                        "timestampStr": "1613926825"
+                    },
+                    "tag": "Penjual",
+                    "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/9880142/shop_xs_thumbnail/desktop",
+                    "userId": 103335994
+                },
+                {
+                    "badge": "",
+                    "interlocutor": false,
+                    "isGold": false,
+                    "isOfficial": false,
+                    "name": "evy",
+                    "role": "User",
+                    "shopId": 9880142,
+                    "status": {
+                        "isOnline": false,
+                        "timestamp": 0,
+                        "timestampStr": ""
+                    },
+                    "tag": "Pengguna",
+                    "thumbnail": "https://accounts.tokopedia.com/image/v1/u/77816542/user_thumbnail/desktop",
+                    "userId": 77816542
+                }
+            ],
+            "hasNext": false,
+            "hasNextAfter": false,
+            "list": [
+                {
+                    "chats": [
+                        {
+                            "replies": [
+                                {
+                                    "attachment": {
+                                        "attributes": "{\"invoice_link\":{\"type_id\":0,\"type\":\"marketplace\",\"attributes\":{\"id\":658428347,\"code\":\"INV/20201214/XX/XII/699989088\",\"title\":\"Pr0duct T3st1n6 M0us3p4d\",\"description\":\"\",\"create_time\":\"14 Dec 2020\",\"image_url\":\"https://ecs7.tokopedia.net/img/cache/100-square/VqbcmM/2020/10/27/5546c4e2-9d1c-48d7-8338-fe5d1b8a91d7.jpg\",\"href_url\":\"tokopedia://marketplace/order/658428347\",\"status_id\":700,\"status\":\"Pesanan Selesai\",\"total_amount\":\"Rp 100\"}}}",
+                                        "fallback": {
+                                            "html": "<div><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/invoice.pl?id=658428347&pdf=Invoice-77816542-9880142-20201214144705-enp6enp6eno1\">https://www.tokopedia.com/invoice.pl?id=658428347&pdf=Invoice-77816542-9880142-20201214144705-enp6enp6eno1</a></div>",
+                                            "message": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/invoice.pl?id=658428347&pdf=Invoice-77816542-9880142-20201214144705-enp6enp6eno1\">https://www.tokopedia.com/invoice.pl?id=658428347&pdf=Invoice-77816542-9880142-20201214144705-enp6enp6eno1</a>"
+                                        },
+                                        "id": 792143486,
+                                        "type": 7
+                                    },
+                                    "blastId": 0,
+                                    "fraudStatus": 0,
+                                    "isHighlight": false,
+                                    "isOpposite": false,
+                                    "isRead": false,
+                                    "msg": "&lt;a rel=&#34;nofollow&#34; target=&#34;_blank&#34; href=&#34;<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/invoice.pl?id=658428347&pdf=Invoice-77816542-9880142-20201214144705-enp6enp6eno1\">https://www.tokopedia.com/invoice.pl?id=658428347&pdf=Invoice-77816542-9880142-20201214144705-enp6enp6eno1</a>&#34;&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/invoice.pl?id=658428347&pdf=Invoice-77816542-9880142-20201214144705-enp6enp6eno1\">https://www.tokopedia.com/invoice.pl?id=658428347&pdf=Invoice-77816542-9880142-20201214144705-enp6enp6eno1</a>&lt;/a&gt;",
+                                    "msgIdString": "1315010667",
+                                    "replyId": "13668223235",
+                                    "replyTime": "1613016104401023000",
+                                    "role": "User",
+                                    "senderId": 77816542,
+                                    "senderName": "evy",
+                                    "source": "inbox",
+                                    "status": 1
+                                },
+                                {
+                                    "msgIdString": "767633123",
+                                    "replyId": "11882373965",
+                                    "senderId": 3660643,
+                                    "senderName": "Elly",
+                                    "role": "User",
+                                    "msg": "This is Review Reminder responses",
+                                    "fraudStatus": 0,
+                                    "replyTime": "1606884614589785000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": false,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgIdString": "767633164",
+                                    "replyId": "11882373968",
+                                    "senderId": 3660643,
+                                    "senderName": "Elly",
+                                    "role": "User",
+                                    "msg": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>",
+                                    "fraudStatus": 0,
+                                    "replyTime": "1606884614579239000",
+                                    "status": 1,
+                                    "attachmentID": 671130720,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": false,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 1,
+                                        "type": 24,
+                                        "attributes": "{\"review_card\":{\"product_name\":\"Really long product\",\"product_id\":123,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/8/24/40768394/40768394_52efc3c1-34c2-460b-90d6-3a6e57210b17.jpg.webp\",\"reputation_id\":1234123,\"buyer_id\":161234,\"allow_review\":false,\"is_reviewed\":true,\"rating\":4,\"review_url\":\"tokopedia.com\",\"feedback_id\":3457345}}",
+                                        "fallback": {
+                                            "message": "Fallback review reminder",
+                                            "html": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>"
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgIdString": "767633165",
+                                    "replyId": "11882373969",
+                                    "senderId": 3660643,
+                                    "senderName": "Elly",
+                                    "role": "User",
+                                    "msg": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>",
+                                    "fraudStatus": 0,
+                                    "replyTime": "1606884614579239000",
+                                    "status": 1,
+                                    "attachmentID": 671130720,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": false,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 1,
+                                        "type": 24,
+                                        "attributes": "{\"review_card\":{\"product_name\":\"Really long product\",\"product_id\":123,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/8/24/40768394/40768394_52efc3c1-34c2-460b-90d6-3a6e57210b17.jpg.webp\",\"reputation_id\":1234123,\"buyer_id\":161234,\"allow_review\":true,\"is_reviewed\":false,\"rating\":4,\"review_url\":\"tokopedia.com\",\"feedback_id\":3457345}}",
+                                        "fallback": {
+                                            "message": "Fallback review reminder",
+                                            "html": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>"
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgIdString": "767633166",
+                                    "replyId": "11882373970",
+                                    "senderId": 3660643,
+                                    "senderName": "Elly",
+                                    "role": "User",
+                                    "msg": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>",
+                                    "fraudStatus": 0,
+                                    "replyTime": "1606884614579239000",
+                                    "status": 1,
+                                    "attachmentID": 671130720,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": false,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 1,
+                                        "type": 24,
+                                        "attributes": "{\"review_card\":{\"product_name\":\"Really long productsdfsdfsdfdfdsfdsfsdfdsfdsfdsfds\",\"product_id\":123,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/8/24/40768394/40768394_52efc3c1-34c2-460b-90d6-3a6e57210b17.jpg.webp\",\"reputation_id\":1234123,\"buyer_id\":161234,\"allow_review\":false,\"is_reviewed\":false,\"rating\":4,\"review_url\":\"tokopedia.com\",\"feedback_id\":3457345}}",
+                                        "fallback": {
+                                            "message": "Fallback review reminder",
+                                            "html": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>"
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgIdString": "767633167",
+                                    "replyId": "11882373971",
+                                    "senderId": 3660643,
+                                    "senderName": "Elly",
+                                    "role": "User",
+                                    "msg": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>",
+                                    "fraudStatus": 0,
+                                    "replyTime": "1606884614579239000",
+                                    "status": 1,
+                                    "attachmentID": 671130720,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": false,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 1,
+                                        "type": 24,
+                                        "attributes": "{\"review_card\":{\"product_name\":\"Really long productsdfsdfsdfdfdsfdsfsdfdsfdsfdsfds\",\"product_id\":123,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/8/24/40768394/40768394_52efc3c1-34c2-460b-90d6-3a6e57210b17.jpg.webp\",\"reputation_id\":1234123,\"buyer_id\":161234,\"allow_review\":false,\"is_reviewed\":false,\"rating\":4,\"review_url\":\"tokopedia.com\",\"feedback_id\":3457345}}",
+                                        "fallback": {
+                                            "message": "Fallback review reminder",
+                                            "html": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>"
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgIdString": "767633167",
+                                    "replyId": "11882373972",
+                                    "senderId": 3660643,
+                                    "senderName": "Elly",
+                                    "role": "User",
+                                    "msg": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>",
+                                    "fraudStatus": 0,
+                                    "replyTime": "1606884614579239000",
+                                    "status": 1,
+                                    "attachmentID": 671130720,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": false,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 1,
+                                        "type": 24,
+                                        "attributes": "{\"review_card\":{\"product_name\":\"Really long product\",\"product_id\":123,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/350/attachment/2020/8/24/40768394/40768394_52efc3c1-34c2-460b-90d6-3a6e57210b17.jpg.webp\",\"reputation_id\":1234123,\"buyer_id\":161234,\"allow_review\":true,\"is_reviewed\":false,\"rating\":4,\"review_url\":\"tokopedia.com\",\"feedback_id\":3457345}}",
+                                        "fallback": {
+                                            "message": "Fallback review reminder",
+                                            "html": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0\">https://www.tokopedia.com/totokaku/shoes-multiple-variant-different-size-type-only-37?whid=0</a>"
+                                        }
+                                    }
+                                }
+                            ],
+                            "time": "2020-05-15T11:11:12.0487352+07:00"
+                        },
+                    ],
+                    "date": "11 Feb 2021"
+                }
+            ],
+            "maxReplyTime": "1613532483022",
+            "minReplyTime": "1613016104401",
+            "textareaReply": 1
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "code": 103,
+  "data": {
+    "msg_id": 76403088,
+    "from": "Tumbler Starbucks 123",
+    "from_uid": 12299749,
+    "from_user_name": "Tumbler Starbucks 123",
+    "from_role": "Shop Owner",
+    "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/1479278/shop_xs_thumbnail/desktop",
+    "is_opposite": true,
+    "to_uid": 12299592,
+    "message": {
+      "censored_reply": "p",
+      "original_reply": "p",
+      "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+      "timestamp_fmt": "03 February 2021, 22:14 WIB",
+      "timestamp_unix": 1612365241465,
+      "timestamp_unix_nano": 1612365241465986000
+    },
+    "start_time": "2021-02-03T15:14:00.799Z",
+    "show_rating": false,
+    "to_buyer": true,
+    "client_connect_time": "0001-01-01T00:00:00Z",
+    "source": "inbox"
+  }
+}

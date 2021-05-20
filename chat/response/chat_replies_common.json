@@ -1,0 +1,1469 @@
+[
+  {
+    "data": {
+      "status": "OK",
+      "chatReplies": {
+        "minReplyTime": "1602560812795",
+        "maxReplyTime": "1602565134964",
+        "block": {
+          "blockedUntil": "",
+          "isBlocked": false,
+          "isPromoBlocked": false
+        },
+        "hasNext": true,
+        "hasNextAfter": false,
+        "textareaReply": 1,
+        "attachmentIDs": "",
+        "contacts": [
+          {
+            "role": "Shop Owner",
+            "userId": 19016250,
+            "shopId": 2155436,
+            "interlocutor": false,
+            "name": "cancanshop",
+            "tag": "Penjual",
+            "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/2155436/shop_xs_thumbnail/desktop",
+            "domain": "cancanshop",
+            "isOfficial": false,
+            "isGold": true,
+            "badge": "https://ecs7.tokopedia.net/chat/tc_pm_icon.png",
+            "status": {
+              "timestamp": 0,
+              "timestampStr": "",
+              "isOnline": false
+            }
+          },
+          {
+            "role": "Shop Admin",
+            "userId": 32094284,
+            "shopId": 2155436,
+            "interlocutor": false,
+            "name": "cancanshop",
+            "tag": "Penjual",
+            "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/2155436/shop_xs_thumbnail/desktop",
+            "domain": "cancanshop",
+            "isOfficial": false,
+            "isGold": true,
+            "badge": "https://ecs7.tokopedia.net/chat/tc_pm_icon.png",
+            "status": {
+              "timestamp": 0,
+              "timestampStr": "",
+              "isOnline": false
+            }
+          },
+          {
+            "role": "User",
+            "userId": 47676617,
+            "shopId": 2155436,
+            "interlocutor": true,
+            "name": "Velovea",
+            "tag": "Pengguna",
+            "thumbnail": "https://accounts.tokopedia.com/image/v1/u/47676617/user_thumbnail/desktop",
+            "domain": "",
+            "isOfficial": false,
+            "isGold": false,
+            "badge": "",
+            "status": {
+              "timestamp": 1603259956,
+              "timestampStr": "1603259956",
+              "isOnline": false
+            }
+          }
+        ],
+        "list": [
+          {
+            "date": "13 Oct 2020",
+            "chats": [
+              {
+                "time": "10:46",
+                "replies": [
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10742400761",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "uu",
+                    "replyTime": "1602560812795792000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "time": "10:53",
+                "replies": [
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10742560224",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "test",
+                    "replyTime": "1602561193523756000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  },
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10742577102",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "p",
+                    "replyTime": "1602561233605237000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "time": "10:54",
+                "replies": [
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10742588533",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "x",
+                    "replyTime": "1602561257121487000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "time": "10:57",
+                "replies": [
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10742659048",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "s",
+                    "replyTime": "1602561433451808000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "time": "11:26",
+                "replies": [
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10743568198",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "a",
+                    "replyTime": "1602563180412050000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "time": "11:27",
+                "replies": [
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10743610828",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "a",
+                    "replyTime": "1602563271173966000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "time": "11:28",
+                "replies": [
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10743643800",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "a",
+                    "replyTime": "1602563326340820000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "time": "11:49",
+                "replies": [
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10744184798",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "a",
+                    "replyTime": "1602564555557443000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "time": "11:58",
+                "replies": [
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10744411674",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "a",
+                    "replyTime": "1602565119591210000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  },
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10744417582",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "b",
+                    "replyTime": "1602565134964099000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  },
+                  {
+                    "msgId": 958559711,
+                    "replyId": "10744417582",
+                    "senderId": 19016250,
+                    "senderName": "ennoseller",
+                    "role": "Shop Owner",
+                    "msg": "Pesanan \"SWEATER PRIA JAPANESE STREETWEAR...\" telah dikembalikan.\r<br>Lihat detail pesanan <a href=\"https://chat.tokopedia.com/tc/v1/redirect/de8ac5669209dfc6557d8c4951fac6a4772da72ed0c8f1edb2202840c405f95cadbe53bc28153b83c8849a37dfdf225ea8e95d849f40b772ef9e4b4e8d7d9afc5707d6ba9685f4528cdedf7f166f48e0817e14558e7d9678f7f36fac3a254175413a440530007386a1753326d5f58d5d8bcf6858c48fc07dfe4b2190930ead76c9bcbd118b5f14a666321c52b9128af8cc5b4b42199bdaf226a3d7ae3fcc26b83248f41553af69c93c2d0407b5e53edece42f1343dcb3f97c23c8945c941826c874a55cb45031557283ded0407e793f4727223bedaea8351dded7f9104f07dd112f72a6805044c74e5a8e9f7a4aa3ace4443cc363960b4f96fe120295cd851fb54f3deb4c224ed8be0946db2ee7cfa4797ad299671647f3e74c1a6299d75c6dbebc6d199d77675d003e6784c4b757702dc5a84e9bbe680dc4cbc846a17015c9e12ff5348c54f1eb929178e22473912d1af7c93f2b2782f10cba5bd6ec8b6127fa1ea9e109dc65371\">disini</a>\r<br>\r<br>Terima kasih.",
+                    "replyTime": "1602565134964099000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": true,
+                    "isHighlight": false,
+                    "isRead": false,
+                    "blastId": 0,
+                    "source": "replied_blast",
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://images.tokopedia.net/img/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"image_url\":\"https://effigis.com/wp-content/themes/effigis_2014/img/GeoEye_GeoEye1_50cm_8bit_RGB_DRA_Mining_2009FEB14_8bits_sub_r_15.jpg\",\"image_url_thumbnail\":\"https://images.tokopedia.net/img/cache/100-square/LUZQDL/2021/1/21/bc98baee-20a8-47c0-80cb-934e07c719bc.jpg\"}",
+                      "fallback": {
+                        "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>",
+                        "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar."
+                      },
+                      "id": 755947470,
+                      "type": 2
+                    },
+                    "attachmentID": 755947470,
+                    "blastId": 0,
+                    "fraudStatus": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "Uploaded Image",
+                    "msgId": 1259906530,
+                    "replyId": "13101394822",
+                    "replyTime": "1611240162320255000",
+                    "role": "User",
+                    "senderId": 12299592,
+                    "senderName": "Try",
+                    "source": "",
+                    "status": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

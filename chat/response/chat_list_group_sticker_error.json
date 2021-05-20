@@ -1,0 +1,14 @@
+{
+  "errors": [
+    {
+      "message": "Cannot query field \"chatBundleSticker\" on type \"Query\".",
+      "locations": [
+        {
+          "line": 2,
+          "column": 3
+        }
+      ],
+      "extensions": {}
+    }
+  ]
+}

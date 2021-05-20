@@ -1,0 +1,60 @@
+{
+    "data": {
+        "status": "OK",
+        "chatListMessage": {
+            "list": [
+                {
+                    "msgID": 841591582,
+                    "messageKey": "user-1125521~shop-2155436",
+                    "attributes": {
+                        "contact": {
+                            "id": 1125521,
+                            "role": "user",
+                            "domain": "",
+                            "name": "Oles Store",
+                            "shopStatus": 0,
+                            "tag": "Pengguna",
+                            "thumbnail": "data:image/jpeg;base64,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"
+                        },
+                        "lastReplyMessage": "ei",
+                        "lastReplyTimeStr": "1601207239270",
+                        "readStatus": 2,
+                        "unreads": 0,
+                        "unreadsreply": 0,
+                        "fraudStatus": 0,
+                        "pinStatus": 1,
+                        "isReplyByTopbot": false,
+                        "label": ""
+                    }
+                },
+                {
+                    "msgID": 958559711,
+                    "messageKey": "user-47676617~shop-2155436",
+                    "attributes": {
+                        "contact": {
+                            "id": 47676617,
+                            "role": "user",
+                            "domain": "",
+                            "name": "Velovea",
+                            "shopStatus": 0,
+                            "tag": "Pengguna",
+                            "thumbnail": "https://accounts.tokopedia.com/image/v1/u/47676617/user_thumbnail/android"
+                        },
+                        "lastReplyMessage": "jsjsjsjwjwksl",
+                        "lastReplyTimeStr": "1597054354656",
+                        "readStatus": 2,
+                        "unreads": 0,
+                        "unreadsreply": 0,
+                        "fraudStatus": 0,
+                        "pinStatus": 0,
+                        "isReplyByTopbot": false,
+                        "label": ""
+                    }
+                }
+            ],
+            "hasNext": false,
+            "pagingNext": false,
+            "showTimeMachine": 0
+        }
+    }
+}

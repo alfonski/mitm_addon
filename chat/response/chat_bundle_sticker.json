@@ -1,0 +1,60 @@
+[
+  {
+    "data": {
+      "chatBundleSticker": {
+        "list": [
+          {
+            "imageUrl": "https://ecs7.tokopedia.net/img/chat/sticker/buyer_1.png",
+            "intention": "Ready?",
+            "stickerUUID": "c6a02920-9695-11ea-aa61-000000000003",
+            "groupUUID": "47d36030-9695-11ea-aa61-000000000003"
+          },
+          {
+            "imageUrl": "https://ecs7.tokopedia.net/img/chat/sticker/buyer_2.png",
+            "intention": "Bisa kirim hari ini?",
+            "stickerUUID": "c6a2e840-9695-11ea-aa61-000000000003",
+            "groupUUID": "47d36030-9695-11ea-aa61-000000000003"
+          },
+          {
+            "imageUrl": "https://ecs7.tokopedia.net/img/chat/sticker/buyer_3.png",
+            "intention": "Mohon diproses ya",
+            "stickerUUID": "c6a58050-9695-11ea-aa61-000000000003",
+            "groupUUID": "47d36030-9695-11ea-aa61-000000000003"
+          },
+          {
+            "imageUrl": "https://ecs7.tokopedia.net/img/chat/sticker/buyer_4.png",
+            "intention": "Kapan restock?",
+            "stickerUUID": "c6a83f70-9695-11ea-aa61-000000000003",
+            "groupUUID": "47d36030-9695-11ea-aa61-000000000003"
+          },
+          {
+            "imageUrl": "https://ecs7.tokopedia.net/img/chat/sticker/buyer_5.png",
+            "intention": "Terima kasih!",
+            "stickerUUID": "c6ab73c0-9695-11ea-aa61-000000000003",
+            "groupUUID": "47d36030-9695-11ea-aa61-000000000003"
+          },
+          {
+            "imageUrl": "https://ecs7.tokopedia.net/img/chat/sticker/buyer_6.png",
+            "intention": "Yaaaaaaaaaah",
+            "stickerUUID": "c6ade4c0-9695-11ea-aa61-000000000003",
+            "groupUUID": "47d36030-9695-11ea-aa61-000000000003"
+          },
+          {
+            "imageUrl": "https://ecs7.tokopedia.net/img/chat/sticker/buyer_7.png",
+            "intention": "Love",
+            "stickerUUID": "c6b007a0-9695-11ea-aa61-000000000003",
+            "groupUUID": "47d36030-9695-11ea-aa61-000000000003"
+          },
+          {
+            "imageUrl": "https://ecs7.tokopedia.net/img/chat/sticker/buyer_8.png",
+            "intention": "Ok!",
+            "stickerUUID": "c70860d0-9695-11ea-aa61-000000000003",
+            "groupUUID": "47d36030-9695-11ea-aa61-000000000003"
+          }
+        ],
+        "hasNext": false,
+        "maxUUID": "c70860d0-9695-11ea-aa61-000000000003"
+      }
+    }
+  }
+]

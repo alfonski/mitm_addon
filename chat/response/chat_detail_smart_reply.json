@@ -1,0 +1,19 @@
+{
+    "data": {
+      "chatSmartReplyQuestion": {
+        "isSuccess": true,
+        "hasQuestion": true,
+        "title": "Tanya ke Chupacup Indonesia",
+        "list": [
+            {
+              "content": "Apakah stok tersedia?",
+              "intent": "stock_availability"
+            },
+            {
+              "content": "Apakah baranag ini asli?",
+              "intent": "stock_availability"
+            }
+        ]
+      }
+    }
+}

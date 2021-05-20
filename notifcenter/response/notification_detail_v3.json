@@ -1,0 +1,1161 @@
+[
+    {
+        "data": {
+            "notifcenter_detail_v3": {
+                "paging": {
+                    "has_next": true,
+                    "has_prev": false
+                },
+                "new_paging": {
+                    "has_next": true,
+                    "has_prev": false
+                },
+                "new_list": [
+                    {
+                        "notif_id": "05569dc3-1d75-11eb-91df-00163e02b0aa",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "a",
+                        "section_key": "Promo",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/promo.png",
+                        "subsection_key": "",
+                        "template_key": "buyerinfo_create_2317",
+                        "title": "Pasti Kaget Deh Kalau diklik 😱",
+                        "button_text": "Klik di sini",
+                        "short_description": "Selamat, ada Diskon 100% s.d. 75Rb untuk kamu spesial untuk belanja kebutuhan. Yuk Belanja!",
+                        "short_description_html": "Selamat, ada Diskon 100% s.d. 75Rb untuk kamu spesial untuk belanja kebutuhan. Yuk Belanja!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 4,
+                        "create_time": "08:36",
+                        "create_time_unix": 1604367400,
+                        "update_time": "2020-11-03 12:06:07.325120843 +0700 WIB",
+                        "update_time_unix": 1604379967,
+                        "expire_time": "2020-11-05 23:59:59 +0700 WIB",
+                        "expire_time_unix": 1605183003,
+                        "status": 0,
+                        "read_status": 1,
+                        "image": [
+                            {
+                                "height": 400,
+                                "ratio": {
+                                    "x": 2,
+                                    "y": 1
+                                },
+                                "url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/11/12/71746569/71746569_680d38bc-8b27-408e-b40c-734b736b0129.jpg",
+                                "width": 800
+                            }
+                        ],
+                        "data_notification": {
+                            "app_link": "tokopedia://discovery/promo-spesial-kpk",
+                            "desktop_link": "https://www.tokopedia.com/discovery/promo-spesial-kpk",
+                            "info_thumbnail_url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/11/2/89135878/89135878_f3a6837a-28ed-4dc5-9455-ba48fe24a2f8.jpg",
+                            "mobile_link": "https://www.tokopedia.com/discovery/promo-spesial-kpk",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "05569dc3-1d75-11eb-91df-00163e02b0aa",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "promotion",
+                        "section_key": "Promo",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/promo.png",
+                        "subsection_key": "",
+                        "template_key": "buyerinfo_create_2317",
+                        "title": "Pasti Kaget Deh Kalau diklik 😱",
+                        "button_text": "Klik di sini",
+                        "short_description": "Selamat, ada Diskon 100% s.d. 75Rb untuk kamu spesial untuk belanja kebutuhan. Yuk Belanja!",
+                        "short_description_html": "Selamat, ada Diskon 100% s.d. 75Rb untuk kamu spesial untuk belanja kebutuhan. Yuk Belanja!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 4,
+                        "create_time": "08:36",
+                        "create_time_unix": 1604367400,
+                        "update_time": "2020-11-03 12:06:07.325120843 +0700 WIB",
+                        "update_time_unix": 1604379967,
+                        "expire_time": "2020-11-05 23:59:59 +0700 WIB",
+                        "expire_time_unix": 2604597599,
+                        "status": 0,
+                        "read_status": 1,
+                        "image": [
+                            {
+                                "height": 400,
+                                "ratio": {
+                                    "x": 3,
+                                    "y": 1
+                                },
+                                "url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/11/12/71746569/71746569_680d38bc-8b27-408e-b40c-734b736b0129.jpg",
+                                "width": 800
+                            }
+                        ],
+                        "data_notification": {
+                            "app_link": "tokopedia://discovery/promo-spesial-kpk",
+                            "desktop_link": "https://www.tokopedia.com/discovery/promo-spesial-kpk",
+                            "info_thumbnail_url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/11/2/89135878/89135878_f3a6837a-28ed-4dc5-9455-ba48fe24a2f8.jpg",
+                            "mobile_link": "https://www.tokopedia.com/discovery/promo-spesial-kpk",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "05569dc3-1d75-11eb-91df-00163e02b0aa",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "promotion",
+                        "section_key": "Promo",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/promo.png",
+                        "subsection_key": "",
+                        "template_key": "buyerinfo_create_2317",
+                        "title": "Pasti Kaget Deh Kalau diklik 😱",
+                        "button_text": "Klik di sini",
+                        "short_description": "Selamat, ada Diskon 100% s.d. 75Rb untuk kamu spesial untuk belanja kebutuhan. Yuk Belanja!",
+                        "short_description_html": "Selamat, ada Diskon 100% s.d. 75Rb untuk kamu spesial untuk belanja kebutuhan. Yuk Belanja!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 4,
+                        "create_time": "08:36",
+                        "create_time_unix": 1604367400,
+                        "update_time": "2020-11-03 12:06:07.325120843 +0700 WIB",
+                        "update_time_unix": 1604379967,
+                        "expire_time": "2020-11-05 23:59:59 +0700 WIB",
+                        "expire_time_unix": 1604595599,
+                        "status": 0,
+                        "read_status": 1,
+                        "image": [
+                            {
+                                "height": 400,
+                                "ratio": {
+                                    "x": 4,
+                                    "y": 1
+                                },
+                                "url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/11/12/71746569/71746569_680d38bc-8b27-408e-b40c-734b736b0129.jpg",
+                                "width": 800
+                            }
+                        ],
+                        "data_notification": {
+                            "app_link": "tokopedia://discovery/promo-spesial-kpk",
+                            "desktop_link": "https://www.tokopedia.com/discovery/promo-spesial-kpk",
+                            "info_thumbnail_url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/11/2/89135878/89135878_f3a6837a-28ed-4dc5-9455-ba48fe24a2f8.jpg",
+                            "mobile_link": "https://www.tokopedia.com/discovery/promo-spesial-kpk",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "8ee85421-1da0-11eb-890e-00163e04bc82",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "event",
+                        "section_key": "Aktivitas",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/aktivitas.png",
+                        "subsection_key": "",
+                        "template_key": "test_product_checkout",
+                        "title": "Product Checkout",
+                        "button_text": "Klik di sini",
+                        "short_description": "Semangat sambut Kemerdekaan dengan produk pilihan HP cashback hingga Rp300rb!",
+                        "short_description_html": "Semangat sambut Kemerdekaan dengan produk pilihan HP cashback hingga Rp300rb!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": true,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 5,
+                        "create_time": "13:48",
+                        "create_time_unix": 1604386099,
+                        "update_time": "2020-11-03 13:48:57.082904464 +0700 WIB",
+                        "update_time_unix": 1604386137,
+                        "expire_time": "2020-11-18 13:48:18.736648539 +0700 WIB",
+                        "expire_time_unix": 1605682098,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://product/270849249",
+                            "desktop_link": "https://www.tokopedia.com/okechuku/chris-okechuku-celana-chino-motif-army-loreng-celana-cargo-pria",
+                            "info_thumbnail_url": "",
+                            "mobile_link": "https://m.tokopedia.com/okechuku/chris-okechuku-celana-chino-motif-army-loreng-celana-cargo-pria",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": "tokopedia://cart"
+                        },
+                        "total_product": 3,
+                        "product_data": [
+                            {
+                                "product_id": 830868897,
+                                "name": "Homemade Chocolate",
+                                "url": "https://www.tokopedia.com/harfondy/homemade-chocolate",
+                                "image_url": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2020/5/6/23548065/23548065_e0b18283-609c-4958-b1f7-93601b2f16b9_728_728",
+                                "department_id": 0,
+                                "min_order": 1,
+                                "price": 1000000,
+                                "price_fmt": "Rp1.000.000",
+                                "currency": "IDR",
+                                "price_idr": 1000000,
+                                "is_buyable": true,
+                                "is_topads": false,
+                                "is_wishlist": false,
+                                "rating": 0,
+                                "count_review": 0,
+                                "has_reminder": false,
+                                "labels": [],
+                                "campaign": {
+                                    "active": false,
+                                    "original_price": 1000000,
+                                    "original_price_fmt": "Rp1.000.000",
+                                    "discount_percentage": 0,
+                                    "discount_price": 1000000,
+                                    "discount_price_fmt": "Rp1.000.000"
+                                },
+                                "variant": [],
+                                "shop": {
+                                    "id": 2603104,
+                                    "name": "Harfondy Shop",
+                                    "location": "Taman Sari",
+                                    "is_gold": false,
+                                    "is_official": false,
+                                    "badges": [
+                                        {
+                                            "title": "Regular Merchant",
+                                            "image_url": ""
+                                        }
+                                    ],
+                                    "free_shipping_icon": ""
+                                },
+                                "stock": 0,
+                                "type_button": 1,
+                                "is_show": true,
+                                "is_reminded": false
+                            },
+                            {
+                                "product_id": 830863300,
+                                "name": "Bola Basket Molten GG7X",
+                                "url": "https://www.tokopedia.com/harfondy/bola-basket-molten-gg7x",
+                                "image_url": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2020/5/6/23548065/23548065_c327dea0-5ae1-4af2-a4eb-8293f7e4b99b_340_340",
+                                "department_id": 0,
+                                "min_order": 1,
+                                "price": 10000000,
+                                "price_fmt": "Rp10.000.000",
+                                "currency": "IDR",
+                                "price_idr": 10000000,
+                                "is_buyable": true,
+                                "is_topads": false,
+                                "is_wishlist": false,
+                                "rating": 0,
+                                "count_review": 0,
+                                "labels": [],
+                                "campaign": {
+                                    "active": false,
+                                    "original_price": 10000000,
+                                    "original_price_fmt": "Rp10.000.000",
+                                    "discount_percentage": 0,
+                                    "discount_price": 10000000,
+                                    "discount_price_fmt": "Rp10.000.000"
+                                },
+                                "variant": [],
+                                "shop": {
+                                    "id": 2603104,
+                                    "name": "Harfondy Shop",
+                                    "location": "Taman Sari",
+                                    "is_gold": false,
+                                    "is_official": false,
+                                    "badges": [
+                                        {
+                                            "title": "Regular Merchant",
+                                            "image_url": ""
+                                        }
+                                    ],
+                                    "free_shipping_icon": ""
+                                },
+                                "stock": 1,
+                                "type_button": 0,
+                                "is_show": false,
+                                "is_reminded": false
+                            },
+                            {
+                                "product_id": 831868897,
+                                "name": "Homemade Chocolate 123",
+                                "url": "https://www.tokopedia.com/harfondy/homemade-chocolate",
+                                "image_url": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2020/5/6/23548065/23548065_e0b18283-609c-4958-b1f7-93601b2f16b9_728_728",
+                                "department_id": 0,
+                                "min_order": 1,
+                                "price": 1000000,
+                                "price_fmt": "Rp1.000.000",
+                                "currency": "IDR",
+                                "price_idr": 1000000,
+                                "is_buyable": true,
+                                "is_topads": false,
+                                "is_wishlist": false,
+                                "rating": 0,
+                                "count_review": 0,
+                                "labels": [],
+                                "has_reminder": true,
+                                "campaign": {
+                                    "active": false,
+                                    "original_price": 1000000,
+                                    "original_price_fmt": "Rp1.000.000",
+                                    "discount_percentage": 0,
+                                    "discount_price": 1000000,
+                                    "discount_price_fmt": "Rp1.000.000"
+                                },
+                                "variant": [],
+                                "shop": {
+                                    "id": 2603104,
+                                    "name": "Harfondy Shop",
+                                    "location": "Taman Sari",
+                                    "is_gold": false,
+                                    "is_official": false,
+                                    "badges": [
+                                        {
+                                            "title": "Regular Merchant",
+                                            "image_url": ""
+                                        }
+                                    ],
+                                    "free_shipping_icon": ""
+                                },
+                                "stock": 0,
+                                "type_button": 1,
+                                "is_show": true,
+                                "is_reminded": false
+                            }
+                        ],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "6f7e85fb-1da0-11eb-8e20-00163e04bc82",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "digital_goods",
+                        "section_key": "Deals",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/digital/deals.png",
+                        "subsection_key": "",
+                        "template_key": "eventapp_deals_order_success_new",
+                        "title": "Hore! Voucher Deals kamu siap pakai 🎉",
+                        "button_text": "Klik di sini",
+                        "short_description": "Pembelian Deals Anda berhasil. Yuk, cek e-voucher kamu di Detail Pesanan!",
+                        "short_description_html": "Pembelian Deals Anda berhasil. Yuk, cek e-voucher kamu di Detail Pesanan!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 0,
+                        "create_time": "13:47",
+                        "create_time_unix": 1604386046,
+                        "update_time": "2020-11-03 13:48:55.550866009 +0700 WIB",
+                        "update_time_unix": 1604386135,
+                        "expire_time": "2020-11-18 13:47:26.413458107 +0700 WIB",
+                        "expire_time_unix": 1605682046,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://order/17919838",
+                            "desktop_link": "https://m.tokopedia.com/order-details/orders/17919838?backBtn=true&upstream=OMS",
+                            "info_thumbnail_url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2019/11/5/47672011/47672011_eeafc203-862b-419f-b578-54b293fb5595.png",
+                            "mobile_link": "https://m.tokopedia.com/order-details/orders/17919838?backBtn=true&upstream=OMS",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "e3114290-1d9f-11eb-890c-00163e04bc82",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "event",
+                        "section_key": "Aktivitas",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/aktivitas.png",
+                        "subsection_key": "",
+                        "template_key": "test_product_checkout",
+                        "title": "Product Checkout with campaign",
+                        "button_text": "Klik di sini",
+                        "short_description": "Semangat sambut Kemerdekaan dengan produk pilihan HP cashback hingga Rp300rb!",
+                        "short_description_html": "Semangat sambut Kemerdekaan dengan produk pilihan HP cashback hingga Rp300rb!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 5,
+                        "create_time": "13:43",
+                        "create_time_unix": 1604385811,
+                        "update_time": "2020-11-03 13:48:57.082904464 +0700 WIB",
+                        "update_time_unix": 1604386137,
+                        "expire_time": "2020-11-18 13:43:30.6000814 +0700 WIB",
+                        "expire_time_unix": 1605681810,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://product/270849249",
+                            "desktop_link": "https://www.tokopedia.com/okechuku/chris-okechuku-celana-chino-motif-army-loreng-celana-cargo-pria",
+                            "info_thumbnail_url": "",
+                            "mobile_link": "https://m.tokopedia.com/okechuku/chris-okechuku-celana-chino-motif-army-loreng-celana-cargo-pria",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": "tokopedia://cart"
+                        },
+                        "total_product": 1,
+                        "product_data": [
+                            {
+                                "product_id": 830863300,
+                                "name": "Bola Basket Molten GG7X",
+                                "url": "https://www.tokopedia.com/harfondy/bola-basket-molten-gg7x",
+                                "image_url": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2020/5/6/23548065/23548065_c327dea0-5ae1-4af2-a4eb-8293f7e4b99b_340_340",
+                                "department_id": 0,
+                                "min_order": 1,
+                                "price": 10000000,
+                                "price_fmt": "Rp10.000.000",
+                                "currency": "IDR",
+                                "price_idr": 10000000,
+                                "is_buyable": true,
+                                "is_topads": false,
+                                "is_wishlist": false,
+                                "rating": 0,
+                                "count_review": 0,
+                                "labels": [],
+                                "campaign": {
+                                    "active": true,
+                                    "original_price": 10000000,
+                                    "original_price_fmt": "Rp10.000.000",
+                                    "discount_percentage": 70,
+                                    "discount_price": 10000000,
+                                    "discount_price_fmt": "Rp8.000.000"
+                                },
+                                "variant": [],
+                                "shop": {
+                                    "id": 2603104,
+                                    "name": "Harfondy Shop",
+                                    "location": "Taman Sari",
+                                    "is_gold": false,
+                                    "is_official": false,
+                                    "badges": [
+                                        {
+                                            "title": "Regular Merchant",
+                                            "image_url": ""
+                                        }
+                                    ],
+                                    "free_shipping_icon": "https://ecs7.tokopedia.net/img/ic_bebas_ongkir.png"
+                                },
+                                "stock": 1,
+                                "type_button": 0,
+                                "is_show": false,
+                                "is_reminded": false
+                            }
+                        ],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "e3114290-1d9f-11eb-890c-00163e04bc82",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "event",
+                        "section_key": "Aktivitas",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/aktivitas.png",
+                        "subsection_key": "",
+                        "template_key": "test_product_checkout",
+                        "title": "Product Checkout no campaign",
+                        "button_text": "Klik di sini",
+                        "short_description": "Semangat sambut Kemerdekaan dengan produk pilihan HP cashback hingga Rp300rb!",
+                        "short_description_html": "Semangat sambut Kemerdekaan dengan produk pilihan HP cashback hingga Rp300rb!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 5,
+                        "create_time": "13:43",
+                        "create_time_unix": 1604385811,
+                        "update_time": "2020-11-03 13:48:57.082904464 +0700 WIB",
+                        "update_time_unix": 1604386137,
+                        "expire_time": "2020-11-18 13:43:30.6000814 +0700 WIB",
+                        "expire_time_unix": 1605681810,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://product/270849249",
+                            "desktop_link": "https://www.tokopedia.com/okechuku/chris-okechuku-celana-chino-motif-army-loreng-celana-cargo-pria",
+                            "info_thumbnail_url": "",
+                            "mobile_link": "https://m.tokopedia.com/okechuku/chris-okechuku-celana-chino-motif-army-loreng-celana-cargo-pria",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": "tokopedia://cart"
+                        },
+                        "total_product": 1,
+                        "product_data": [
+                            {
+                                "product_id": 830863300,
+                                "name": "Bola Basket Molten GG7X",
+                                "url": "https://www.tokopedia.com/harfondy/bola-basket-molten-gg7x",
+                                "image_url": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2020/5/6/23548065/23548065_c327dea0-5ae1-4af2-a4eb-8293f7e4b99b_340_340",
+                                "department_id": 0,
+                                "min_order": 1,
+                                "price": 10000000,
+                                "price_fmt": "Rp10.000.000",
+                                "currency": "IDR",
+                                "price_idr": 10000000,
+                                "is_buyable": true,
+                                "is_topads": false,
+                                "is_wishlist": false,
+                                "rating": 0,
+                                "count_review": 0,
+                                "labels": [],
+                                "campaign": {
+                                    "active": false,
+                                    "original_price": 10000000,
+                                    "original_price_fmt": "Rp10.000.000",
+                                    "discount_percentage": 0,
+                                    "discount_price": 10000000,
+                                    "discount_price_fmt": "Rp8.000.000"
+                                },
+                                "variant": [],
+                                "shop": {
+                                    "id": 2603104,
+                                    "name": "Harfondy Shop",
+                                    "location": "Taman Sari",
+                                    "is_gold": false,
+                                    "is_official": false,
+                                    "badges": [
+                                        {
+                                            "title": "Regular Merchant",
+                                            "image_url": ""
+                                        }
+                                    ],
+                                    "free_shipping_icon": ""
+                                },
+                                "stock": 1,
+                                "type_button": 2,
+                                "is_show": true,
+                                "is_reminded": false
+                            }
+                        ],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "e3114290-1d9f-11eb-890c-00163e04bc82",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "event",
+                        "section_key": "Aktivitas",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/aktivitas.png",
+                        "subsection_key": "",
+                        "template_key": "test_product_checkout",
+                        "title": "Product Checkout no campaign",
+                        "button_text": "Klik di sini",
+                        "short_description": "Semangat sambut Kemerdekaan dengan produk pilihan HP cashback hingga Rp300rb!",
+                        "short_description_html": "Semangat sambut Kemerdekaan dengan produk pilihan HP cashback hingga Rp300rb!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 5,
+                        "create_time": "13:43",
+                        "create_time_unix": 1604385811,
+                        "update_time": "2020-11-03 13:48:57.082904464 +0700 WIB",
+                        "update_time_unix": 1604386137,
+                        "expire_time": "2020-11-18 13:43:30.6000814 +0700 WIB",
+                        "expire_time_unix": 1605681810,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://product/270849249",
+                            "desktop_link": "https://www.tokopedia.com/okechuku/chris-okechuku-celana-chino-motif-army-loreng-celana-cargo-pria",
+                            "info_thumbnail_url": "",
+                            "mobile_link": "https://m.tokopedia.com/okechuku/chris-okechuku-celana-chino-motif-army-loreng-celana-cargo-pria",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": "tokopedia://cart"
+                        },
+                        "total_product": 1,
+                        "product_data": [
+                            {
+                                "product_id": 830863300,
+                                "name": "Bola Basket Molten GG7X",
+                                "url": "https://www.tokopedia.com/harfondy/bola-basket-molten-gg7x",
+                                "image_url": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2020/5/6/23548065/23548065_c327dea0-5ae1-4af2-a4eb-8293f7e4b99b_340_340",
+                                "department_id": 0,
+                                "min_order": 1,
+                                "price": 10000000,
+                                "price_fmt": "Rp10.000.000",
+                                "currency": "IDR",
+                                "price_idr": 10000000,
+                                "is_buyable": true,
+                                "is_topads": false,
+                                "is_wishlist": false,
+                                "rating": 0,
+                                "count_review": 0,
+                                "labels": [],
+                                "has_reminder": true,
+                                "campaign": {
+                                    "active": false,
+                                    "original_price": 10000000,
+                                    "original_price_fmt": "Rp10.000.000",
+                                    "discount_percentage": 0,
+                                    "discount_price": 10000000,
+                                    "discount_price_fmt": "Rp8.000.000"
+                                },
+                                "variant": [],
+                                "shop": {
+                                    "id": 2603104,
+                                    "name": "Harfondy Shop",
+                                    "location": "Taman Sari",
+                                    "is_gold": false,
+                                    "is_official": false,
+                                    "badges": [
+                                        {
+                                            "title": "Regular Merchant",
+                                            "image_url": ""
+                                        }
+                                    ],
+                                    "free_shipping_icon": ""
+                                },
+                                "stock": 1,
+                                "type_button": 0,
+                                "is_show": true,
+                                "is_reminded": false
+                            }
+                        ],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "eb0a5bb8-1d96-11eb-88fe-00163e04bc82",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "promotion",
+                        "section_key": "Promo",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/promo.png",
+                        "subsection_key": "",
+                        "template_key": "buyerinfo_create_6",
+                        "title": "Really short longer content",
+                        "button_text": "Klik disini",
+                        "short_description": "123 123 123 123 1231 23 123 abcasdfasdf asdf asdf asdf asdf de abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde",
+                        "short_description_html": "abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde",
+                        "is_longer_content": true,
+                        "show_bottomsheet": true,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 0,
+                        "create_time": "12:39",
+                        "create_time_unix": 1604381959,
+                        "update_time": "2020-11-03 13:48:57.082904464 +0700 WIB",
+                        "update_time_unix": 1604386137,
+                        "expire_time": "2020-11-18 12:39:18.539735823 +0700 WIB",
+                        "expire_time_unix": 1605677958,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://webview?allow_override=false&url=https%3A%2F%2Fwww.tokopedia.com",
+                            "desktop_link": "https://www.tokopedia.com",
+                            "info_thumbnail_url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/2/14/22796090/22796090_d744a928-620d-43b4-bcd3-84269323b0de.png",
+                            "mobile_link": "https://www.tokopedia.com",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "Hai Toppers, ada promo menarik nih untuk kamu",
+                            "button_cta": {
+                                "type": 1,
+                                "text": "abcde abcde",
+                                "link": "tokopedia://webview?allow_override=false&url=https%3A%2F%2Fwww.tokopedia.com",
+                                "data": ""
+                            },
+                            "components": [
+                                {
+                                    "identifier": "banner-image",
+                                    "data_components": "{\"image_url\":\"https://ecs7.tokopedia.net/img/cache/480/attachment/2020/2/14/22796090/22796090_d744a928-620d-43b4-bcd3-84269323b0de.png\",\"ratio\":\"1:1\"}"
+                                },
+                                {
+                                    "identifier": "text-description",
+                                    "data_components": "{\"text\":\"abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde\"}"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "notif_id": "eb0a5bb8-1d96-11eb-88fe-00163e04bc82",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "promotion",
+                        "section_key": "Promo",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/promo.png",
+                        "subsection_key": "",
+                        "template_key": "buyerinfo_create_6",
+                        "title": "Really long longer content",
+                        "button_text": "",
+                        "short_description": "123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde 123 abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde",
+                        "short_description_html": "abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde",
+                        "is_longer_content": true,
+                        "show_bottomsheet": true,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 0,
+                        "create_time": "12:39",
+                        "create_time_unix": 1604381959,
+                        "update_time": "2020-11-03 13:48:57.082904464 +0700 WIB",
+                        "update_time_unix": 1604386137,
+                        "expire_time": "2020-11-18 12:39:18.539735823 +0700 WIB",
+                        "expire_time_unix": 1605677958,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://webview?allow_override=false&url=https%3A%2F%2Fwww.tokopedia.com",
+                            "desktop_link": "https://www.tokopedia.com",
+                            "info_thumbnail_url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/2/14/22796090/22796090_d744a928-620d-43b4-bcd3-84269323b0de.png",
+                            "mobile_link": "https://www.tokopedia.com",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "Hai Toppers, ada promo menarik nih untuk kamu",
+                            "button_cta": {
+                                "type": 1,
+                                "text": "abcde abcde",
+                                "link": "tokopedia://webview?allow_override=false&url=https%3A%2F%2Fwww.tokopedia.com",
+                                "data": ""
+                            },
+                            "components": [
+                                {
+                                    "identifier": "banner-image",
+                                    "data_components": "{\"image_url\":\"https://ecs7.tokopedia.net/img/cache/480/attachment/2020/2/14/22796090/22796090_d744a928-620d-43b4-bcd3-84269323b0de.png\",\"ratio\":\"1:1\"}"
+                                },
+                                {
+                                    "identifier": "text-description",
+                                    "data_components": "{\"text\":\"abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde abcde\"}"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "notif_id": "7b6a8dee-1d92-11eb-9807-00163e066869",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "physical_goods",
+                        "section_key": "Belanja",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+                        "subsection_key": "",
+                        "template_key": "paymentapp_buyer_new_order",
+                        "title": "Pembayaranmu sudah kami terima",
+                        "button_text": "Klik di sini",
+                        "short_description": "Pesanan telah diteruskan ke penjual. Tunggu barangnya diproses, ya~",
+                        "short_description_html": "Pesanan telah diteruskan ke penjual. Tunggu barangnya diproses, ya~",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 0,
+                        "create_time": "12:07",
+                        "create_time_unix": 1604380053,
+                        "update_time": "2020-11-03 12:08:53.193689819 +0700 WIB",
+                        "update_time_unix": 1604380133,
+                        "expire_time": "2020-11-18 12:07:32.929958614 +0700 WIB",
+                        "expire_time_unix": 1605676052,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://buyer/history?filter_id=5",
+                            "desktop_link": "https://www.tokopedia.com/order-list?filter=5",
+                            "info_thumbnail_url": "",
+                            "mobile_link": "https://m.tokopedia.com/order-list?status=5&tab=MARKETPLACE",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "05569dc3-1d75-11eb-91df-00163e02b0aa",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "promotion",
+                        "section_key": "Promo",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/promo.png",
+                        "subsection_key": "",
+                        "template_key": "buyerinfo_create_2317",
+                        "title": "Pasti Kaget Deh Kalau diklik 😱",
+                        "button_text": "Klik di sini",
+                        "short_description": "Selamat, ada Diskon 100% s.d. 75Rb untuk kamu spesial untuk belanja kebutuhan. Yuk Belanja!",
+                        "short_description_html": "Selamat, ada Diskon 100% s.d. 75Rb untuk kamu spesial untuk belanja kebutuhan. Yuk Belanja!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 4,
+                        "create_time": "08:36",
+                        "create_time_unix": 1604367400,
+                        "update_time": "2020-11-03 12:06:07.325120843 +0700 WIB",
+                        "update_time_unix": 1604379967,
+                        "expire_time": "2020-11-05 23:59:59 +0700 WIB",
+                        "expire_time_unix": 1604595599,
+                        "status": 0,
+                        "read_status": 1,
+                        "image": [
+                            {
+                                "height": 400,
+                                "ratio": {
+                                    "x": 2,
+                                    "y": 1
+                                },
+                                "url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/11/12/71746569/71746569_680d38bc-8b27-408e-b40c-734b736b0129.jpg",
+                                "width": 800
+                            }
+                        ],
+                        "data_notification": {
+                            "app_link": "tokopedia://discovery/promo-spesial-kpk",
+                            "desktop_link": "https://www.tokopedia.com/discovery/promo-spesial-kpk",
+                            "info_thumbnail_url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2020/11/2/89135878/89135878_f3a6837a-28ed-4dc5-9455-ba48fe24a2f8.jpg",
+                            "mobile_link": "https://www.tokopedia.com/discovery/promo-spesial-kpk",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "c639afc4-1d67-11eb-9f44-00163e00b22f",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "for_you",
+                        "section_key": "Info",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/info.png",
+                        "subsection_key": "",
+                        "template_key": "rechargeapp_subscription_inactive_notification",
+                        "title": "Aktifkan langganan BPJS yuk!",
+                        "button_text": "Klik di sini",
+                        "short_description": "Bayar tagihan lebih praktis pakai fitur langganan, lho. Klik di sini untuk aktifkan langgananmu!",
+                        "short_description_html": "Bayar tagihan lebih praktis pakai fitur langganan, lho. Klik di sini untuk aktifkan langgananmu!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 0,
+                        "create_time": "07:01",
+                        "create_time_unix": 1604361710,
+                        "update_time": "2020-11-03 12:06:07.325120843 +0700 WIB",
+                        "update_time_unix": 1604379967,
+                        "expire_time": "2020-11-18 07:01:51.018385865 +0700 WIB",
+                        "expire_time_unix": 1605657711,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://webview?allow_override=false&url=https%3A%2F%2Fwww.tokopedia.com%2Fmybills%2Fedit%3Fbill_id%3Duuid_pls_3660643_279_0000099994301111",
+                            "desktop_link": "https://www.tokopedia.com/langganan/detail/uuid_pls_3660643_279_0000099994301111",
+                            "info_thumbnail_url": "https://ecs7.tokopedia.net/img/recharge/langganan_icon_720.png",
+                            "mobile_link": "https://www.tokopedia.com/langganan/detail/uuid_pls_3660643_279_0000099994301111",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "4f55a0ed-1d2d-11eb-9b9c-00163e04bc82",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "physical_goods",
+                        "section_key": "Belanja",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+                        "subsection_key": "",
+                        "template_key": "orderapp_notify_buyer_order_reject",
+                        "title": "Pesananmu tidak diproses penjual",
+                        "button_text": "Klik di sini",
+                        "short_description": "Hai Elly, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+                        "short_description_html": "Hai Elly, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 0,
+                        "create_time": "00:03",
+                        "create_time_unix": 1604336600,
+                        "update_time": "2020-11-03 12:06:07.325042221 +0700 WIB",
+                        "update_time_unix": 1604379967,
+                        "expire_time": "2020-11-18 00:03:19.877678942 +0700 WIB",
+                        "expire_time_unix": 1605632599,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://marketplace/order/621784668",
+                            "desktop_link": "https://www.tokopedia.com/order-list?detail=621784668",
+                            "info_thumbnail_url": "",
+                            "mobile_link": "https://m.tokopedia.com/order-details/marketplace/621784668?backBtn=true&upstream=MARKETPLACE",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    }
+                ],
+                "list": [
+                    {
+                        "notif_id": "aad4f375-1d08-11eb-89e7-00163e02b0aa",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "physical_goods",
+                        "section_key": "Belanja",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/belanja.png",
+                        "subsection_key": "",
+                        "template_key": "orderapp_notify_buyer_order_reject",
+                        "title": "Pesananmu tidak diproses penjual",
+                        "button_text": "Klik di sini",
+                        "short_description": "Hai Elly, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+                        "short_description_html": "Hai Elly, Penjual sedang tidak dapat menerima pesananmu. Yuk cari produk rekomendasi di halaman produk serupa!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 0,
+                        "create_time": "Kemarin",
+                        "create_time_unix": 1604320862,
+                        "update_time": "2020-11-03 12:06:07.325042221 +0700 WIB",
+                        "update_time_unix": 1604379967,
+                        "expire_time": "2020-11-17 19:41:02.436192354 +0700 WIB",
+                        "expire_time_unix": 1605616862,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://marketplace/order/620410283",
+                            "desktop_link": "https://www.tokopedia.com/order-list?detail=620410283",
+                            "info_thumbnail_url": "",
+                            "mobile_link": "https://m.tokopedia.com/order-details/marketplace/620410283?backBtn=true&upstream=MARKETPLACE",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    },
+                    {
+                        "notif_id": "fdf245c9-1d07-11eb-8b6f-00163e00b22f",
+                        "user_id": 3660643,
+                        "shop_id": 0,
+                        "section_id": "digital_goods",
+                        "section_key": "Deals",
+                        "section_icon": "https://cdn.tokopedia.net/img/notif-center/digital/deals.png",
+                        "subsection_key": "",
+                        "template_key": "eventapp_deals_order_success_new",
+                        "title": "Hore! Voucher Deals kamu siap pakai 🎉",
+                        "button_text": "Klik di sini",
+                        "short_description": "Pembelian Deals Anda berhasil. Yuk, cek e-voucher kamu di Detail Pesanan!",
+                        "short_description_html": "Pembelian Deals Anda berhasil. Yuk, cek e-voucher kamu di Detail Pesanan!",
+                        "is_longer_content": false,
+                        "show_bottomsheet": false,
+                        "type_bottomsheet": 0,
+                        "content": "",
+                        "type_of_user": 1,
+                        "type_link": 0,
+                        "create_time": "Kemarin",
+                        "create_time_unix": 1604320572,
+                        "update_time": "2020-11-03 12:06:07.325042221 +0700 WIB",
+                        "update_time_unix": 1604379967,
+                        "expire_time": "2020-11-17 19:36:11.9110258 +0700 WIB",
+                        "expire_time_unix": 1605616571,
+                        "status": 0,
+                        "read_status": 1,
+                        "data_notification": {
+                            "app_link": "tokopedia://order/17895046",
+                            "desktop_link": "https://m.tokopedia.com/order-details/orders/17895046?backBtn=true&upstream=OMS",
+                            "info_thumbnail_url": "https://ecs7.tokopedia.net/img/cache/480/attachment/2019/11/5/47672011/47672011_eeafc203-862b-419f-b578-54b293fb5595.png",
+                            "mobile_link": "https://m.tokopedia.com/order-details/orders/17895046?backBtn=true&upstream=OMS",
+                            "product_name": "",
+                            "product_url": "",
+                            "checkout_url": ""
+                        },
+                        "total_product": 0,
+                        "product_data": [],
+                        "bottomsheet": {
+                            "title": "",
+                            "button_cta": {
+                                "type": 0,
+                                "text": "",
+                                "link": "",
+                                "data": ""
+                            },
+                            "components": []
+                        }
+                    }
+                ],
+                "user_info": {
+                    "user_id": 3660643,
+                    "shop_id": 463446,
+                    "email": "",
+                    "fullname": "Elly Delapan Sembilans"
+                },
+                "options": {
+                    "longer_content": 150
+                },
+                "empty_state_content": {
+                    "content": "",
+                    "link": {
+                        "desktop_link": "",
+                        "mobile_link": "",
+                        "android_link": "",
+                        "ios_link": ""
+                    }
+                }
+            }
+        }
+    }
+]

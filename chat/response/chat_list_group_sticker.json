@@ -1,0 +1,16 @@
+[
+  {
+    "data": {
+      "chatListGroupSticker": {
+        "list": [
+          {
+            "groupUUID": "47d36030-9695-11ea-aa61-000000000003",
+            "lastUpdate": "1587536126",
+            "thumbnail": "https://ecs7.tokopedia.net/img/chat/sticker/tokopedia_sticker.png",
+            "title": "Tokopedia User"
+          }
+        ]
+      }
+    }
+  }
+]

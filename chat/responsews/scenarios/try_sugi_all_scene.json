@@ -1,0 +1,342 @@
+[
+  {
+    "code": 203,
+    "data": {
+      "msg_id": 76403088,
+      "from": "Try",
+      "from_uid": 12299749,
+      "from_user_name": "Try",
+      "from_role": "Shop Owner",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 76403088,
+      "from": "Tumbler Starbucks 123",
+      "from_uid": 12299749,
+      "from_user_name": "Tumbler Starbucks 123",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/1479278/shop_xs_thumbnail/desktop",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 204,
+    "data": {
+      "msg_id": 76403088,
+      "from": "Try",
+      "from_uid": 12299749,
+      "from_user_name": "Try",
+      "from_role": "Shop Owner",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 11111,
+      "from": "Injection Bot 1",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 1",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 22222,
+      "from": "Injection Bot 2",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 1",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 33333,
+      "from": "Injection Bot 3",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 3",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 4444,
+      "from": "Injection Bot 4",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 4",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 55555,
+      "from": "Injection Bot 5",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 5",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 66666,
+      "from": "Injection Bot 6",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 6",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 77777,
+      "from": "Injection Bot 7",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 7",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 88888,
+      "from": "Injection Bot 8",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 8",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 99999,
+      "from": "Injection Bot 9",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 9",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 101010,
+      "from": "Injection Bot 10",
+      "from_uid": 12299749,
+      "from_user_name": "Injection Bot 10",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://www.sideshow.com/storage/product-images/903445/t-800-endoskeleton_terminator_square.jpg",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, This is message injection, This is message injection, This is message injection",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  },
+  {
+    "code": 103,
+    "data": {
+      "msg_id": 76403088,
+      "from": "Tumbler Starbucks 123",
+      "from_uid": 12299749,
+      "from_user_name": "Tumbler Starbucks 123",
+      "from_role": "Shop Owner",
+      "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/1479278/shop_xs_thumbnail/desktop",
+      "is_opposite": true,
+      "to_uid": 12299592,
+      "message": {
+        "censored_reply": "This is message injection, I'm back all the way to the top beybeh",
+        "original_reply": "p",
+        "timestamp": "2021-02-03T22:14:01.46598561+07:00",
+        "timestamp_fmt": "03 February 2021, 22:14 WIB",
+        "timestamp_unix": 1612365241465,
+        "timestamp_unix_nano": 1612365241465986000
+      },
+      "start_time": "2021-02-03T15:14:00.799Z",
+      "show_rating": false,
+      "to_buyer": true,
+      "client_connect_time": "0001-01-01T00:00:00Z",
+      "source": "inbox"
+    }
+  }
+]

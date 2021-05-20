@@ -1,0 +1,1059 @@
+{
+    "data": {
+        "ace_search_product_v4": {
+            "header": {
+                "additionalParams": "",
+                "defaultView": 1,
+                "errorMessage": "",
+                "keywordProcess": "4",
+                "responseCode": 0,
+                "totalData": 1488320,
+                "totalDataText": "1.4jt+"
+            },
+            "productBody": {
+                "autocompleteApplink": "tokopedia://search-autocomplete?navsource=home&q=sd",
+                "banner": {
+                    "applink": "",
+                    "imageUrl": "",
+                    "position": 0,
+                    "text": ""
+                },
+                "isQuerySafe": true,
+                "products": [
+                    {
+                        "ads": {
+                            "id": "",
+                            "productClickUrl": "",
+                            "productViewUrl": "",
+                            "productWishlistUrl": ""
+                        },
+                        "badges": [
+                            {
+                                "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                "show": true,
+                                "title": "Official Store"
+                            }
+                        ],
+                        "boosterList": "-1",
+                        "categoryBreadcrumb": "komputer-laptop/memory-card/sd-card",
+                        "categoryId": 297,
+                        "categoryName": "Komputer & Laptop",
+                        "countReview": 257,
+                        "count_sold": "Terjual 558",
+                        "departmentId": 3876,
+                        "discountExpired": "2022-04-23T14:17:21Z",
+                        "discountPercentage": 40,
+                        "free_ongkir": {
+                            "img_url": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                            "is_active": true
+                        },
+                        "id": 1362594365,
+                        "imageUrl": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c9/Colossal_Titan_%28Anime%29_character_image_%28Bertholdt_Hoover%29.png/revision/latest?cb=20170513151438",
+                        "imageUrl300": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c9/Colossal_Titan_%28Anime%29_character_image_%28Bertholdt_Hoover%29.png/revision/latest?cb=20170513151438",
+                        "imageUrl700": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c9/Colossal_Titan_%28Anime%29_character_image_%28Bertholdt_Hoover%29.png/revision/latest?cb=20170513151438",
+                        "labelGroupVariant": [],
+                        "labelGroups": [
+                            {
+                                "position": "promo",
+                                "title": "Cashback",
+                                "type": "lightGreen",
+                                "url": ""
+                            },
+                            {
+                                "position": "integrity",
+                                "title": "Terjual 558",
+                                "type": "textDarkGrey",
+                                "url": ""
+                            },
+                            {
+                                "position": "eta",
+                                "title": "Tiba 20 - 21 May",
+                                "type": "textDarkGrey",
+                                "url": ""
+                            }
+                        ],
+                        "minOrder": 1,
+                        "name": "Titan Colossal Bagus Banget oiiiiiiii",
+                        "originalPrice": "Rp100.000.000.000..000...0asdsdhasudhaskjdhaskudhasky",
+                        "price": "Rp162.000asdasd",
+                        "rating": 5,
+                        "ratingAverage": "5",
+                        "shop": {
+                            "city": "Paradis Island adasdasdas sd as",
+                            "id": 2718880,
+                            "name": "AOT Official",
+                            "rating_average": "<b>4.9</b> Rating Toko"
+                        },
+                        "source_engine": "0",
+                        "url": "https://www.tokopedia.com/sandisk-official/sandisk-ultra-sdxc-card-class-10-64gb-garansi-resmi?whid=0",
+                        "warehouseIdDefault": 0,
+                        "wishlist": false
+                    },
+                    {
+                        "ads": {
+                            "id": "",
+                            "productClickUrl": "",
+                            "productViewUrl": "",
+                            "productWishlistUrl": ""
+                        },
+                        "badges": [
+                            {
+                                "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                "show": true,
+                                "title": "Official Store"
+                            }
+                        ],
+                        "boosterList": "-1",
+                        "categoryBreadcrumb": "komputer-laptop/memory-card/sd-card",
+                        "categoryId": 297,
+                        "categoryName": "Komputer & Laptop",
+                        "countReview": 257,
+                        "count_sold": "Terjual 558",
+                        "departmentId": 3876,
+                        "discountExpired": "2022-04-23T14:17:21Z",
+                        "discountPercentage": 40,
+                        "free_ongkir": {
+                            "img_url": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                            "is_active": true
+                        },
+                        "id": 1362594365,
+                        "imageUrl": "https://1.bp.blogspot.com/-bOyLbCnPOlk/YBdevn59KBI/AAAAAAAAsyM/DvvJsWHJnv8ButY2X35G6qrgutSJvL6zACLcBGAsYHQ/s650/attack-on-titan-1_169.png",
+                        "imageUrl300": "https://1.bp.blogspot.com/-bOyLbCnPOlk/YBdevn59KBI/AAAAAAAAsyM/DvvJsWHJnv8ButY2X35G6qrgutSJvL6zACLcBGAsYHQ/s650/attack-on-titan-1_169.png",
+                        "imageUrl700": "https://1.bp.blogspot.com/-bOyLbCnPOlk/YBdevn59KBI/AAAAAAAAsyM/DvvJsWHJnv8ButY2X35G6qrgutSJvL6zACLcBGAsYHQ/s650/attack-on-titan-1_169.png",
+                        "labelGroupVariant": [],
+                        "labelGroups": [
+                            {
+                                "position": "promo",
+                                "title": "Cashback",
+                                "type": "lightGreen",
+                                "url": ""
+                            },
+                            {
+                                "position": "integrity",
+                                "title": "Terjual 558",
+                                "type": "textDarkGrey",
+                                "url": ""
+                            },
+                            {
+                                "position": "eta",
+                                "title": "Tiba 20 - 21 May",
+                                "type": "textDarkGrey",
+                                "url": ""
+                            }
+                        ],
+                        "minOrder": 1,
+                        "name": "Titan Zirah",
+                        "originalPrice": "Rp99.000.000",
+                        "price": "Rp120.000",
+                        "rating": 5,
+                        "ratingAverage": "4.4",
+                        "shop": {
+                            "city": "Paradis Island",
+                            "id": 2718880,
+                            "name": "AOT Official",
+                            "rating_average": "<b>4.9</b> Rating Toko"
+                        },
+                        "source_engine": "0",
+                        "url": "https://www.tokopedia.com/sandisk-official/sandisk-ultra-sdxc-card-class-10-64gb-garansi-resmi?whid=0",
+                        "warehouseIdDefault": 0,
+                        "wishlist": false
+                    },
+                    {
+                        "ads": {
+                            "id": "",
+                            "productClickUrl": "",
+                            "productViewUrl": "",
+                            "productWishlistUrl": ""
+                        },
+                        "badges": [
+                            {
+                                "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                "show": true,
+                                "title": "Official Store"
+                            }
+                        ],
+                        "boosterList": "-1",
+                        "categoryBreadcrumb": "komputer-laptop/memory-card/sd-card",
+                        "categoryId": 297,
+                        "categoryName": "Komputer & Laptop",
+                        "countReview": 257,
+                        "count_sold": "Terjual 558",
+                        "departmentId": 3876,
+                        "discountExpired": "2022-04-23T14:17:21Z",
+                        "discountPercentage": 40,
+                        "free_ongkir": {
+                            "img_url": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                            "is_active": true
+                        },
+                        "id": 1362594365,
+                        "imageUrl": "https://1.bp.blogspot.com/-bOyLbCnPOlk/YBdevn59KBI/AAAAAAAAsyM/DvvJsWHJnv8ButY2X35G6qrgutSJvL6zACLcBGAsYHQ/s650/attack-on-titan-1_169.png",
+                        "imageUrl300": "https://i1.sndcdn.com/avatars-000039282463-w5c3fg-t500x500.jpg",
+                        "imageUrl700": "https://1.bp.blogspot.com/-bOyLbCnPOlk/YBdevn59KBI/AAAAAAAAsyM/DvvJsWHJnv8ButY2X35G6qrgutSJvL6zACLcBGAsYHQ/s650/attack-on-titan-1_169.png",
+                        "labelGroupVariant": [],
+                        "labelGroups": [
+                            {
+                                "position": "promo",
+                                "title": "Cashback",
+                                "type": "lightGreen",
+                                "url": ""
+                            },
+                            {
+                                "position": "integrity",
+                                "title": "Terjual 558",
+                                "type": "textDarkGrey",
+                                "url": ""
+                            },
+                            {
+                                "position": "eta",
+                                "title": "Tiba 20 - 21 May",
+                                "type": "textDarkGrey",
+                                "url": ""
+                            }
+                        ],
+                        "minOrder": 1,
+                        "name": "Titan Zirah",
+                        "originalPrice": "Rp99.000.000",
+                        "price": "Rp120.000",
+                        "rating": 5,
+                        "ratingAverage": "4.4",
+                        "shop": {
+                            "city": "Paradis Island",
+                            "id": 2718880,
+                            "name": "AOT Official",
+                            "rating_average": "<b>4.9</b> Rating Toko"
+                        },
+                        "source_engine": "0",
+                        "url": "https://www.tokopedia.com/sandisk-official/sandisk-ultra-sdxc-card-class-10-64gb-garansi-resmi?whid=0",
+                        "warehouseIdDefault": 0,
+                        "wishlist": false
+                    }
+                ],
+                "redirection": {
+                    "redirectApplink": "",
+                    "redirectUrl": ""
+                },
+                "related": {
+                    "otherRelated": [
+                        {
+                            "applink": "tokopedia://search?q=sd+card+reader&source=related_keyword&st=product",
+                            "keyword": "sd card reader",
+                            "product": [
+                                {
+                                    "ads": {
+                                        "id": "41806931",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEoAJdHAyNHpJDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhHpjdopypbm-srcHi6seFHmFiy3zwrfo5rM1i6sUfHmdOHpHpoAedo_eFoAHNoZFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z_C-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjV2_JoGP3Uao32q17jfZ32GQ1NJQcBoqjBd_VzoHB21z9z6zcDh3MjhqVB1ypVHuO1O3MOcq1Y11MxguJ22_Oo-r7BW69BxufzFyMFNqO2yeMgxuOV2_fB-P7B2PfBiH72F3s-DPuKpeSBiHBUh3_oZgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Ao6QfUpeMgxuOV2_fB-P7B2PfBs3VgDyfNDgMzIzMNs81jfZ3B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32-HjOAoAVo8jOE_jzzoJN119P6zJ7O_Bo-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-H7ONoIxvzJOR_920o1YJu9BoqB17_9BG6ZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpHdbAHOHB7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUstpoAed6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&is_search=1&keywords=sd&page=1&dv=ios&src=topads_dynamic_reverse_broadmatch&management_type=1&r=https%3A%2F%2Fwww.tokopedia.com%2Fkingmaindonesia%2Fusb-3-0-card-reader-kingma-all-in-1-with-storage-support-tf-sd-cf-card%3Fsrc%3Dtopads",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6seh6Anf6_Hhbm-xgVY789CBUsthbm-FQRo2PcB5QiUEHZFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJNbpJFbpJ5opUhHpjF6AH5opUhHpjF6AowyMux6cH76c1W6_gsya77g_1Ob_jaHM1W6cJdgMeFoA1aHMep9pJFHACwH_nFHmUDUMVj9RosQR-BUstaosnXo_HpHpe76A17HAep6_1DUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1jFZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32Cq1hAZSuiHsuk3Bo-ojBkZMO6zch2_32-8Jh1__-quJu7_jz0Hu22H3xgucHh_VPuou2WzMBvuV-t3uzGq1Y_Z9o-Q_BNyuPjrc-D63Wq3J-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7-Nys-ZHujp1MgxuOV2_fB-P7B2PfBiH72F3s-DPuKp_MYiH7-MyuPzq1Y2Z9P-q9P2yOx3QcoXQcgjz7gXyRB-ojB2Z9o-QjNkysoGQVKaZSBiHfzE3Bo-ojBkZ_-oepeh_92o8jNJ1_z6uVVR_jzoo1N_Z9o-QjNkysoGQVKp_Mhg3J2ky1o-ojBkZ_oo8_zd_7zoP7OEqpuvzVuN_32uoJONZsjibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6s1DUMNOQ3-BrBYxgIowrMuhUstObm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUs2QUSoDQRz7q3NS9RoBy9-sqm-Pbm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUstpoAed6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?page=1&dv=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=topads_dynamic_reverse_broadmatch&is_search=1&t=ios&keywords=sd&management_type=1",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEoAJdHAyNHpJDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhHpjdopypbm-srcHi6seFHmFiy3zwrfo5rM1i6sUfHmdOHpHpoAedo_eFoAHNoZFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z_C-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjV2_JoGP3Uao32q17jfZ32GQ1NJQcBoqjBd_VzoHB21z9z6zcDh3MjhqVB1ypVHuO1O3MOcq1Y11MxguJ22_Oo-r7BW69BxufzFyMFNqO2yeMgxuOV2_fB-P7B2PfBiH72F3s-DPuKpeSBiHBUh3_oZgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Ao6QfUpeMgxuOV2_fB-P7B2PfBs3VgDyfNDgMzIzMNs81jfZ3B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32-HjOAoAVo8jOE_jzzoJN119P6zJ7O_Bo-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-H7ONoIxvzJOR_920o1YJu9BoqB17_9BG6ZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpHdbAHOHB7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUstpoAed6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?dv=ios&r=https%3A%2F%2Fwww.tokopedia.com%2Fkingmaindonesia%2Fusb-3-0-card-reader-kingma-all-in-1-with-storage-support-tf-sd-cf-card%3Fsrc%3Dtopads&management_type=1&keywords=sd&is_search=1&product_id=575650342&page=1&t=ios&uid=148201400&src=topads_dynamic_reverse_broadmatch&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0"
+                                    },
+                                    "applink": "tokopedia://product/575650342",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 284,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 575650342,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/product-1/2019/10/1/72139083/72139083_bea8c48e-96cc-4e55-922e-8a8fd04522d3_1000_1000",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 641",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "USB 3.0 Card Reader KINGMA All in 1 with Storage Support TF SD CF card",
+                                    "price": 112500,
+                                    "priceStr": "Rp112.500",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Utara",
+                                        "name": "Kingma Indonesia"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "28994373",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEHsKN6_epopHDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstabm-7q3OBUsthosUhHpjdopypbm-srcHi6sHFHmFiy3zwrfo5rM1i6sHFoZdaos1R6AjOopyaHsHDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1Bd_Mj7HjNk3_-6qBja_M2gHjNk3_-6qBV2_JoGrB2yQAoiH7203Ao6qMUpZMh-qMY2_1o-r7BWo9giQ1NDZ325q1OW3_Cvu7BN_32VPJOE3Mho1pnF_Oz3Q1h9zMx68Bu73BzDQuB9Z_u6z7gt_3O-o1B2PfBiH72F3s-DPuKa1MhszsBF3jo-ojBke3BHe72fyfODQMV9o3gsZJ2f3jx3qMzc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMHaqIgszsBF3jo-ojBke3BHe72dgVP383u36_CgufzEZ325q1B2PfBsHjNfyfO3gBBXZSgjH7NDZ325q1OEe_VHqjja_BzsoJY1u_o6qjBN_9B-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-HjY_oACvzJja_uzsP7NE1_-68jOd_MBG6ZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpHdbAHOHB7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUsthosJN6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?management_type=1&keywords=sd&page=1&dv=ios&r=https%3A%2F%2Fwww.tokopedia.com%2Fba-wang%2F7in1-usb-3-0-card-reader-3-ports-usb-hub-ms-micro-sd-mmc-m2-tf%3Fsrc%3Dtopads&src=topads_dynamic_reverse_broadmatch&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&is_search=1",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sUd6_j7Hprpbm-xgVY789CBUsthbm-FQRo2PcB5QiUEHiFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJdbpK5HsH5HpyaoprdoAj5HpyaoprdoABwocy7gMUdgAnWy3eOHa77ocUpb_BsyfUWH_eOy3osypeFgMea9pJFHACwH_nFHmNkrcribm-xgVYpyfYagZUEHpnObsUfo_rd6_1RosUaHaFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z9x6q_ea_M2gHjNk3_-6qBja_M2gHjNk13BHe72a3BxDHfUpZMWyH7NkysoGQJBkQfBoe7BpZ37OPM-W_Mh-qMY2_3OgHJY9Z9Boqju7_92qQJO_HACvuVgW_VPcqJNEu9zquchW3uP-o1NIzMxoQ1jOZ3BRq3UpZSCqHMhO3A-ZQcoc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMoUZSgqZVgkgJyNrV2AZ_g-qjV2_JoGPMoWQcNxupuMyp-tPMoc69Cqe7jfZ32Cq1hAZSxjuOgNguyNHVB9gI2-qMY2Z3BRq3Ha_SgsQugM33NGPMep_Mh-qMY2_92CH1hkZ_-6ucH7_OzuH7NkZ9Bo81BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjja_OH7HJYJZ_-oucoR_S2zHjNE_9x6q1tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstObm-XP3Oig9-wy3zp9R-BrZUEoZFiQBYsy3Njq3zxPcuwy3zpUstObm-FQRo79fVDgaUE3a-pQcY7PcBXgOYpg3VayfKi9ZFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEH_yh6_jDUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?page=1&management_type=1&keywords=sd&dv=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=topads_dynamic_reverse_broadmatch&t=ios&is_search=1",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEHsKN6_epopHDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstabm-7q3OBUsthosUhHpjdopypbm-srcHi6sHFHmFiy3zwrfo5rM1i6sHFoZdaos1R6AjOopyaHsHDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1Bd_Mj7HjNk3_-6qBja_M2gHjNk3_-6qBV2_JoGrB2yQAoiH7203Ao6qMUpZMh-qMY2_1o-r7BWo9giQ1NDZ325q1OW3_Cvu7BN_32VPJOE3Mho1pnF_Oz3Q1h9zMx68Bu73BzDQuB9Z_u6z7gt_3O-o1B2PfBiH72F3s-DPuKa1MhszsBF3jo-ojBke3BHe72fyfODQMV9o3gsZJ2f3jx3qMzc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMHaqIgszsBF3jo-ojBke3BHe72dgVP383u36_CgufzEZ325q1B2PfBsHjNfyfO3gBBXZSgjH7NDZ325q1OEe_VHqjja_BzsoJY1u_o6qjBN_9B-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-HjY_oACvzJja_uzsP7NE1_-68jOd_MBG6ZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpHdbAHOHB7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUsthosJN6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?src=topads_dynamic_reverse_broadmatch&is_search=1&page=1&management_type=1&t=ios&keywords=sd&uid=148201400&r=https%3A%2F%2Fwww.tokopedia.com%2Fba-wang%2F7in1-usb-3-0-card-reader-3-ports-usb-hub-ms-micro-sd-mmc-m2-tf%3Fsrc%3Dtopads&dv=ios&product_id=321804848&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0"
+                                    },
+                                    "applink": "tokopedia://product/321804848",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/power_merchant_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 387,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 321804848,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/product-1/2018/8/23/36277849/36277849_4f4fb8d0-ad53-44b3-9ccb-145accc40fd2_1000_1000.jpg",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 837",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "7in1 USB 3.0 Card Reader & 3 Ports USB Hub MS Micro SD MMC M2 TF",
+                                    "price": 99600,
+                                    "priceStr": "Rp99.600",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Pusat",
+                                        "name": "Ba-Wang"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "37159890",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEHprho_jd6_nDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstpbm-7q3OBUsthosUhHpjdopypbm-srcHi6syOHmFiy3zwrfo5rM1i6sHdHZdho_URo_Hf6_HdoAJfoZFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBo1peaZ3BRqujp1SByH7ND3uxGqMVAZ_g-qjBO_7zuH7O119BvzV1p_uzz81YJu_o-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjV2_JoGP3Uao32q17jfZ32GQ1NJQcBoqjBd_VzoHB21z9z6zcDh3MjhqVB1ypVHuO1O3MOcq1Y11MxguJ22_Oo-r7BW69BxufzFyMFNqO2yeMgxuOV2_fB-P7B2PfBiH72F3s-DPuKpeSBiHBUh3_oZgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Ao6QfUpeMgxuOV2_fB-P7B2PfBs3VgDyfNDgMzIzMNs81jfZ3B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32ooJO_oIx6uJjp_BzoHjY1__z6zJ1a_Bo-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-oJN_oAu6zcHa_M20HjNkypCozcrOZ3dFvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpHdbAHOHB7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUstaHpnFoaFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?page=1&is_search=1&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&dv=ios&r=https%3A%2F%2Fwww.tokopedia.com%2Fgavintoys%2Fusb-c-card-reader-2-0-micro-usb-3-in-1-micro-sd-card-reader-usb-c-otg%3Fsrc%3Dtopads&src=topads_dynamic_reverse_broadmatch&management_type=2&keywords=sd&t=ios",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sHRH_1N6AjFbm-xgVY789CBUsthbm-FQRo2PcB5QiUEHaFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAUFbpe5Ha4foAraH_Kp6m4foAraH_Kp6V4Rg3-sofJOoZ7pHcefb_edopHW6_nNHm7OHfos6AyhgM1pHMzw6AnF9pKFHmUDUMVj9RosQR-BUstp6AJXH_1aop1posjp6Aehos1DUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_uH7HjB2PfBgHO-N3Ao6QVByZM2xe7jfZ32-P1YJu_oouVVN_7zuH7O119BvzV1pZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32Cq1hAZSuiHsuk3Bo-ojBkZMO6zch2_32-8Jh1__-quJu7_jz0Hu22H3xgucHh_VPuou2WzMBvuV-t3uzGq1Y_Z9o-Q_BNyuPjrc-D63Wq3J-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7-Nys-ZHujp1MgxuOV2_fB-P7B2PfBiH72F3s-DPuKp_MYiH7-MyuPzq1Y2Z9P-q9P2yOx3QcoXQcgjz7gXyRB-ojB2Z9o-QjNkysoGQVKaZSBiHfzE3Bo-ojBk__zo1pzd_Bz-H7N1__-vuJ77_jzVHjN_Z9o-QjNkysoGQVKp_Mhg3J2ky1o-ojBkZ_z61peO_jzsHjNkqp-6qMHF_1zSo1BXHA7ibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6s1DUMNOQ3-BrBYxgIowrMuhUstObm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUs2QUSoDQRz7q3NS9RoBy9-sqm-Pbm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUstaHpnFoaFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?management_type=2&t=ios&dv=ios&keywords=sd&page=1&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=topads_dynamic_reverse_broadmatch&is_search=1",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEHprho_jd6_nDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstpbm-7q3OBUsthosUhHpjdopypbm-srcHi6syOHmFiy3zwrfo5rM1i6sHdHZdho_URo_Hf6_HdoAJfoZFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBo1peaZ3BRqujp1SByH7ND3uxGqMVAZ_g-qjBO_7zuH7O119BvzV1p_uzz81YJu_o-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjV2_JoGP3Uao32q17jfZ32GQ1NJQcBoqjBd_VzoHB21z9z6zcDh3MjhqVB1ypVHuO1O3MOcq1Y11MxguJ22_Oo-r7BW69BxufzFyMFNqO2yeMgxuOV2_fB-P7B2PfBiH72F3s-DPuKpeSBiHBUh3_oZgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Ao6QfUpeMgxuOV2_fB-P7B2PfBs3VgDyfNDgMzIzMNs81jfZ3B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32ooJO_oIx6uJjp_BzoHjY1__z6zJ1a_Bo-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-oJN_oAu6zcHa_M20HjNkypCozcrOZ3dFvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpHdbAHOHB7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUstaHpnFoaFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?t=ios&keywords=sd&page=1&is_search=1&dv=ios&uid=148201400&product_id=491197954&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&r=https%3A%2F%2Fwww.tokopedia.com%2Fgavintoys%2Fusb-c-card-reader-2-0-micro-usb-3-in-1-micro-sd-card-reader-usb-c-otg%3Fsrc%3Dtopads&src=topads_dynamic_reverse_broadmatch&management_type=2"
+                                    },
+                                    "applink": "tokopedia://product/491197954",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/power_merchant_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 2064,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 491197954,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/4/3/64721838/64721838_7ebc7a55-30d6-4873-9090-53cc861fe32d_800_800",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 5,3 rb",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "USB C Card Reader 2.0 Micro USB 3 in 1 Micro SD Card Reader USB-C OTG",
+                                    "price": 50000,
+                                    "priceStr": "Rp50.000",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Barat",
+                                        "name": "gavintoys"
+                                    },
+                                    "wishlist": false
+                                }
+                            ],
+                            "url": "https://www.tokopedia.com/search?q=sd+card+reader&source=related_keyword&st=product"
+                        },
+                        {
+                            "applink": "tokopedia://search?q=sd+card+32gb&source=related_keyword&st=product",
+                            "keyword": "sd card 32gb",
+                            "product": [
+                                {
+                                    "ads": {
+                                        "id": "21368542",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEHsJposKOoAUDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhHpjdopypbm-srcHi6s1FHmFiy3zwrfo5rM1i6sHfoZdFH_jho_jFH_17H_Ufbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1O_oA-6uJj7_Oz-H1Nkz_uvzJ7F_S2V8JB2PfBgHO-N3Ao6QVByZM2xe7jfZ32-q1hAZS-q3cFpysoGqOKp_M2iH72DZ325q1OAZ9o-Q_ufyMO6QJBkQfBoqjgD_1zzH1OWz9zqzcWN_BHFHJOIZ_-HucWE_7PuPJOEZ_zvzJVN3uPcQ1NJ1MB-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBo8Bjh_c2C8JY1z_VvuJVd_Bzz8JOk33BHe72E3_UN8u23692qu7gN3_-Sq1Y2Z9B6qjOO_Oz08JYJZ_VouJVR_7zuP7N_Zsjibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6s1DUMNOQ3-BrBYxgIowrMuhUstObm-sy9zwq3zpUs2QHsjRbAHdoseDHpKR6V7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUstao_1N6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?r=https%3A%2F%2Fwww.tokopedia.com%2Fsandisk-official%2Fsandisk-ultra-microsd-32gb-a1-120mb-s-microsdhc-uhs-i-micro-sd%3Fsrc%3Dtopads&is_search=1&page=1&t=ios&dv=ios&src=topads_dynamic_reverse_broadmatch&management_type=1&keywords=sd&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sUhHpydo_eabm-xgVY789CBUsthbm-FQRo2PcB5QiUEHZFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbOghyMoW_Z4aHAUFbpJhbpU7bprFopnagMyhb_Hf6AKWocHRgm7dH_rhb_usgMHh6Ae7Hpgx6ZNkrcribm-xgVYpyfYagZUEHpyObsnh6_JO6_nho_ehHsyDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_uH7HjN1Z_zvuJjh_M2Vo1YJ__C68judZ3BRqujp1SByH7ND3uxGqMVAZ_g-qjB2_JoGrB2yQAoiH7203Ao6qMUpZMh-qMY2_1o-r7BWo9giQ1NDZ325q1OkzMhozVJh_3OVPV2JqRB61pnF_1P-Hjh1qR2vzOu7_92-oJYJe9Bgu7gW_jzZq1B2PfBiH72F3s-DPuKa1MhszsBF3jo-ojBke3BHe72fyfODQMV9o3gsZJ2f3jx3qMzc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMHaqIgszsBF3jo-ojBke3BHe72dgVP383u36_CgufzEZ325q1B2PfBsHjNfyfO3gBBXZSgjH7NDZ325q1OE3_VHqjVd_OzVH1Y1e9x6uVVd_32gq1hAZS2gHsBN3ByN8B29zSBgHMP2_fB-81Nk_9uvucWd_7z-H1O1e9PvzVuR_BoG6ZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6BDirfh5PIz2QMPwrfuxrMotUB7DUSgBrSo2Qfdi6i-fHiUDUMoDP9o7g9-wq3zwPsUi6sUOo_jNbm-2rOYj83NxQ3Bs9RoDQRz7q3NSUs27rSuBwe?sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=topads_dynamic_reverse_broadmatch&page=1&t=ios&keywords=sd&dv=ios&is_search=1&management_type=1",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEHsJposKOoAUDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhHpjdopypbm-srcHi6s1FHmFiy3zwrfo5rM1i6sHfoZdFH_jho_jFH_17H_Ufbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1O_oA-6uJj7_Oz-H1Nkz_uvzJ7F_S2V8JB2PfBgHO-N3Ao6QVByZM2xe7jfZ32-q1hAZS-q3cFpysoGqOKp_M2iH72DZ325q1OAZ9o-Q_ufyMO6QJBkQfBoqjgD_1zzH1OWz9zqzcWN_BHFHJOIZ_-HucWE_7PuPJOEZ_zvzJVN3uPcQ1NJ1MB-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBo8Bjh_c2C8JY1z_VvuJVd_Bzz8JOk33BHe72E3_UN8u23692qu7gN3_-Sq1Y2Z9B6qjOO_Oz08JYJZ_VouJVR_7zuP7N_Zsjibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6s1DUMNOQ3-BrBYxgIowrMuhUstObm-sy9zwq3zpUs2QHsjRbAHdoseDHpKR6V7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUstao_1N6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?t=ios&product_id=237116420&uid=148201400&is_search=1&page=1&r=https%3A%2F%2Fwww.tokopedia.com%2Fsandisk-official%2Fsandisk-ultra-microsd-32gb-a1-120mb-s-microsdhc-uhs-i-micro-sd%3Fsrc%3Dtopads&management_type=1&dv=ios&keywords=sd&src=topads_dynamic_reverse_broadmatch&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0"
+                                    },
+                                    "applink": "tokopedia://product/237116420",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 9927,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 237116420,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2020/11/24/70702ff1-3688-4c7d-8171-5cfc184436a9.jpg",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 21 rb",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "SanDisk Ultra MicroSD 32GB A1 120MB/s MicroSDHC UHS-I Micro SD",
+                                    "price": 89400,
+                                    "priceStr": "Rp89.400",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Pusat",
+                                        "name": "SanDisk Official"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "59047181",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEo_jFoArh6AJDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstabm-7q3OBUsthosUhHpjdopypbm-srcHi6seOHmFiy3zwrfo5rM1i6sUdoadd6_U7H_UpH_jhHs1pbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBke3BHe72OysUOqB2_Z_g-qjBd3BzCHJN1ZMxHuOJO_32uPJNJeMB6q_nO_92tQJh1_9BvzcPR_3OcqV2k1_Cgq1BpZ37N83V9gICiQAB03BxmgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Aom83Ua1sVgHO-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7N5ysomgMV913Bvq1BRZ3BRq3oyuMhsQMhMgJPcQMoNZ_g-q1BpZ3N6qMUpZMhyHj2Nysoj8B2_Z_g-qjj7_Sj7oJY1Z_CouJBE_uz08JOku92-q9P2yp-6PMoWuMgsHBgtyfO6Q7BkQfBoqMod_c2ooJN11_u6uJj7_320o1O1z3BM1_7YUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstObm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopxPbm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEHs1O6_jDUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?page=1&is_search=1&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&keywords=sd&management_type=1&t=ios&dv=ios&r=https%3A%2F%2Fwww.tokopedia.com%2Fdaxofficial%2Fsandisk-ultra-microsd-32gb-a1-98mb-s-microsdhc-uhs-i-micro-sd-9f70%3Fsrc%3Dtopads&src=topads_dynamic_reverse_broadmatch",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6s1NHAeRH_Khbm-xgVY789CBUsthbm-FQRo2PcB5QiUEHiFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbfV7PcVsqcOBQSe5HsnaHZ4pbpU7bpyOo_KFoAJFbpyOo_KFoAJF9fHfop-jHfzjb3J76cyWoAJRyaOigcgjb3-BoMJf6A1pHcos6ZNkrcribm-xgVYpyfYagZUEHsKRbsKNHsehHsHh6_Jao_HDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BRZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32Cq1hAZSuiHsuk3Bo-ojBkZ9xquJJF_BzGqJh91_uoqBu7_jzmq1N2HAuo8MxD_Vzo81YJgRPoQ1gt3M2zHVB2Z9o-Q_BNyuPjrc-D63Wq3J-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7-Nys-ZHujp1MgxuOV2_fB-P7B2PfBiH72F3s-DPuKp_MYiH7-MyuPzq1Y2Z9P-q9P2yOx3QcoXQcgjz7gXyRB-ojB2Z9o-QjNkysoGQVKaZSBiHfzE3Bo-ojBkZ_z68_e7_Oz-HJO1Z92oucWd_32u8jB2PfBsHjNfyfO3gMHauMxsQ1N5Z325q1OkyRxHqj77_Bzzo1N1Z_zoqMDO_uzVq3gzv_7ibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6s1DUMNOQ3-BrBYxgIowrMuhUstObm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUs2QUSoDQRz7q3NS9RoBy9-sqm-Pbm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUstao_1N6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&is_search=1&dv=ios&page=1&t=ios&keywords=sd&management_type=1&src=topads_dynamic_reverse_broadmatch",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEo_jFoArh6AJDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstabm-7q3OBUsthosUhHpjdopypbm-srcHi6seOHmFiy3zwrfo5rM1i6sUdoadd6_U7H_UpH_jhHs1pbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBke3BHe72OysUOqB2_Z_g-qjBd3BzCHJN1ZMxHuOJO_32uPJNJeMB6q_nO_92tQJh1_9BvzcPR_3OcqV2k1_Cgq1BpZ37N83V9gICiQAB03BxmgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Aom83Ua1sVgHO-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7N5ysomgMV913Bvq1BRZ3BRq3oyuMhsQMhMgJPcQMoNZ_g-q1BpZ3N6qMUpZMhyHj2Nysoj8B2_Z_g-qjj7_Sj7oJY1Z_CouJBE_uz08JOku92-q9P2yp-6PMoWuMgsHBgtyfO6Q7BkQfBoqMod_c2ooJN11_u6uJj7_320o1O1z3BM1_7YUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstObm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopxPbm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEHs1O6_jDUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?keywords=sd&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&uid=148201400&page=1&r=https%3A%2F%2Fwww.tokopedia.com%2Fdaxofficial%2Fsandisk-ultra-microsd-32gb-a1-98mb-s-microsdhc-uhs-i-micro-sd-9f70%3Fsrc%3Dtopads&is_search=1&src=topads_dynamic_reverse_broadmatch&product_id=505957552&management_type=1&t=ios&dv=ios"
+                                    },
+                                    "applink": "tokopedia://product/505957552",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 294,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 505957552,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/attachment/2021/3/24/65580410/65580410_c672d3dd-a48f-417c-bdfd-be6a68530cc9.jpg",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 576",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "SanDisk Ultra MicroSD 32GB A1 98MB/s microSDHC UHS-I micro sd",
+                                    "price": 80000,
+                                    "priceStr": "Rp80.000",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Pusat",
+                                        "name": "DAX Official"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "30132318",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEHpnhHpUpH_KDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstpbm-7q3OBUsthosUhHpjdopypbm-srcHi6s1Fbm-xgVYpyfYagZUEHseNbsUOHAyF6AHaHsraHsHhbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBke3BHe72OysUOqB2_Z_g-qjBd3BzCHJN1ZMxHuOJO_32uPJNJeMB6q_nO_92tQJh1_9BvzcPR_3OcqV2k1_Cgq1BpZ37N83V9gICiQAB03BxmgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Aom83Ua1sVgHO-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7N5ysomgMV913Bvq1BRZ3BRq3oyuMhsQMhMgJPcQMoNZ_g-q1BpZ3N6qMUpZMhyHj2Nysoj8B2_Z_g-qjjF_OH781N1e_-ozcPE_32-H7OkZ92o17BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjBE_3j7o1OJyRB68jJ7_uz0HJYJ19x617tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstObm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopxPbm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEHpeRHA1DUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?dv=ios&is_search=1&t=ios&src=topads_dynamic_reverse_broadmatch&r=https%3A%2F%2Fwww.tokopedia.com%2Fpulaubekasi%2Fmemory-vgen-32gb-class-10-mmc-micro-sd-hc-card-memory-kelas-10%3Fsrc%3Dtopads&keywords=sd&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&page=1&management_type=1",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sHFH_HaHpJdbm-xgVY789CBUsthbm-FQRo2PcB5QiUEHaFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbfV7PcVsqcOBQSe5Hsnh6Z4abpK5H_176_yhosJpos17HpHfbpJOoAjfH_yhHpyOoAHpoBYxyM1pH_KNyZ7OHsCMb_e7yfHW6AHO6m7hoprpH_naop1fysUXrcNSUiFiy3zwrfo5rM1i6sU76Zdao_nfHAKpHsURHsUpHZFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z9P-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjV2_JoGP3Uao32q17jfZ32-8V21e_C6uJ2t_VPzo1Oku9z6zJ-2_MjFo1OEqchHuJON_7zSP7OWzMxqqBJF33B-r7BW69BxufzFyMFNqO2yeMgxuOV2_fB-P7B2PfBiH72F3s-DPuKpeSBiHBUh3_oZgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Ao6QfUpeMgxuOV2_fB-P7B2PfBs3VgDyfNDgMzIzMNs81jfZ3B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32-HJY_oIB6uJJa_1zS8jOkZ_ooqjBE_uo-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-8jO2oAuozcoN_S2CoJO1qpCvzVVd_BoG6ZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6BDirfh5PIz2QMPwrfuxrMotUB7DUSgBrSo2Qfdi6i-fHiUDUMoDP9o7g9-wq3zwPsUi6sH7opnObm-2rOYj83NxQ3Bs9RoDQRz7q3NSUs27rSuBwe?t=ios&is_search=1&keywords=sd&page=1&src=topads_dynamic_reverse_broadmatch&management_type=1&dv=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEHpnhHpUpH_KDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstpbm-7q3OBUsthosUhHpjdopypbm-srcHi6s1Fbm-xgVYpyfYagZUEHseNbsUOHAyF6AHaHsraHsHhbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBke3BHe72OysUOqB2_Z_g-qjBd3BzCHJN1ZMxHuOJO_32uPJNJeMB6q_nO_92tQJh1_9BvzcPR_3OcqV2k1_Cgq1BpZ37N83V9gICiQAB03BxmgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Aom83Ua1sVgHO-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7N5ysomgMV913Bvq1BRZ3BRq3oyuMhsQMhMgJPcQMoNZ_g-q1BpZ3N6qMUpZMhyHj2Nysoj8B2_Z_g-qjjF_OH781N1e_-ozcPE_32-H7OkZ92o17BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjBE_3j7o1OJyRB68jJ7_uz0HJYJ19x617tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstObm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopxPbm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEHpeRHA1DUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&r=https%3A%2F%2Fwww.tokopedia.com%2Fpulaubekasi%2Fmemory-vgen-32gb-class-10-mmc-micro-sd-hc-card-memory-kelas-10%3Fsrc%3Dtopads&product_id=404724037&t=ios&is_search=1&src=topads_dynamic_reverse_broadmatch&page=1&management_type=1&dv=ios&keywords=sd&uid=148201400"
+                                    },
+                                    "applink": "tokopedia://product/404724037",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/power_merchant_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 233,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 404724037,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/attachment/2019/2/8/154961613654336/154961613654336_abe3189a-520f-44cc-8358-1773102756b2.png",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 506",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "MEMORY Vgen 32GB CLASS 10 ( MMC/ MICRO SD HC/ Card/ Memory kelas 10",
+                                    "price": 62000,
+                                    "priceStr": "Rp62.000",
+                                    "rating": 5,
+                                    "ratingAverage": "5.0",
+                                    "shop": {
+                                        "city": "Bekasi",
+                                        "name": "PULAU BEKASI"
+                                    },
+                                    "wishlist": false
+                                }
+                            ],
+                            "url": "https://www.tokopedia.com/search?q=sd+card+32gb&source=related_keyword&st=product"
+                        },
+                        {
+                            "applink": "tokopedia://search?q=sd+card+16gb&source=related_keyword&st=product",
+                            "keyword": "sd card 16gb",
+                            "product": [
+                                {
+                                    "ads": {
+                                        "id": "41298491",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEoAJa6_K76_JDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhHpjdopypbm-srcHi6syOHmFiy3zwrfo5rM1i6sHa6mdN6AJ7opH7HsrR6A17HaFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfB6epeh_jzuHJN11_V6zV1F_BzzH1NJ33BHe72kgJxGgMHauMxsQ1N5Z325q1OAZ9o-Q9zDguxjPMoW1MgsHjNfyfOuq1Y2Z9P-q9P2yM7NPujau3Bvq1jO_1z6QJNk19BoepCN3Bz-81h11_zgqjO733O3qV2_H3xvzJOd332CH1O1Z92vzOV2_JoGPMoWQcNxupuM3jP3POKaQcW-qMY2_1o-r7BW69BxufzFyMFNPfoW63Wju7dF3A-Dq7BkQfBoe7BpZ37N83V9gICiQABEy1rNPOKaQcW-qMY2_1o-r7BXzsVq3JtO3AoZqVtp_3Bvq1B2_JoG8Bja69BqusB2yf7NHfHau3Bvq1BE_32SP1Y1gRx6zcoE_jz-H7NEgpV6zJO2_JoG8Bja69BqusBE3BPc8ujagfBvq1BN_7zCP1O1yp-vuVVR_32uHJNkyR2oq1tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstpbm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopxPbm-X9foxQMz2gcV7guYxgIHi6sHDUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEHsy7o_yDUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?dv=ios&page=1&src=topads_dynamic_reverse_broadmatch&keywords=sd&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&r=https%3A%2F%2Fwww.tokopedia.com%2Faka-official%2Fmicrosd-sandisk-ultra-16gb-class-10-80mbps-micro-sd-card-16-gb-sdhc%3Fsrc%3Dtopads&is_search=1&management_type=2",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sehHsjdoAjhbm-xgVY789CBUsthbm-FQRo2PcB5QiUEHZFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJNbpJ56m4R6_Jfo_JabprNH_yOH_-wHAPioAVxy3eWoA-i6m77opBib_xMgcJWgMyh63HhgACMgsyO9pKFHV4dHAnXqSCSUiFiy3zwrfo5rM1i6sHa6mdN6AJ7opH7HsrR6A17HaFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfB6epeh_jzuHJN11_V6zV1F_BzzH1NJ33BHe72kgJxGgMHauMxsQ1N5Z325q1OAZ9o-Q9zDguxjPMoW1MgsHjNfyfOuq1Y2Z9P-q9P2yM7NPujau3Bvq1jO_1z6QJNk19BoepCN3Bz-81h11_zgqjO733O3qV2_H3xvzJOd332CH1O1Z92vzOV2_JoGPMoWQcNxupuM3jP3POKaQcW-qMY2_1o-r7BW69BxufzFyMFNPfoW63Wju7dF3A-Dq7BkQfBoe7BpZ37N83V9gICiQABEy1rNPOKaQcW-qMY2_1o-r7BXzsVq3JtO3AoZqVtp_3Bvq1B2_JoG8Bja69BqusB2yf7NHfHau3Bvq1BE_32SP1Y1gRx6zcoE_jz-H7NEgpV6zJO2_JoG8Bja69BqusBE3BPc8ujagfBvq1BN_7zCP1O1yp-vuVVR_32uHJNkyR2oq1tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstpbm-XP3Oig9-wy3zp9R-BrZUEoZFiQBYsy3Njq3zxPcuwy3zpUstpbm-FQRo79fVDgaUE3a-pQcY7PcBXgOYpg3VayfKi9ZFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEHsy7o_yDUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?management_type=2&is_search=1&keywords=sd&page=1&dv=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=topads_dynamic_reverse_broadmatch&t=ios",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEoAJa6_K76_JDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhHpjdopypbm-srcHi6syOHmFiy3zwrfo5rM1i6sHa6mdN6AJ7opH7HsrR6A17HaFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfB6epeh_jzuHJN11_V6zV1F_BzzH1NJ33BHe72kgJxGgMHauMxsQ1N5Z325q1OAZ9o-Q9zDguxjPMoW1MgsHjNfyfOuq1Y2Z9P-q9P2yM7NPujau3Bvq1jO_1z6QJNk19BoepCN3Bz-81h11_zgqjO733O3qV2_H3xvzJOd332CH1O1Z92vzOV2_JoGPMoWQcNxupuM3jP3POKaQcW-qMY2_1o-r7BW69BxufzFyMFNPfoW63Wju7dF3A-Dq7BkQfBoe7BpZ37N83V9gICiQABEy1rNPOKaQcW-qMY2_1o-r7BXzsVq3JtO3AoZqVtp_3Bvq1B2_JoG8Bja69BqusB2yf7NHfHau3Bvq1BE_32SP1Y1gRx6zcoE_jz-H7NEgpV6zJO2_JoG8Bja69BqusBE3BPc8ujagfBvq1BN_7zCP1O1yp-vuVVR_32uHJNkyR2oq1tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstpbm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopxPbm-X9foxQMz2gcV7guYxgIHi6sHDUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEHsy7o_yDUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?r=https%3A%2F%2Fwww.tokopedia.com%2Faka-official%2Fmicrosd-sandisk-ultra-16gb-class-10-80mbps-micro-sd-card-16-gb-sdhc%3Fsrc%3Dtopads&uid=148201400&is_search=1&product_id=243774038&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=topads_dynamic_reverse_broadmatch&keywords=sd&dv=ios&page=1&management_type=2"
+                                    },
+                                    "applink": "tokopedia://product/243774038",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 927,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 243774038,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/product-1/2019/1/8/7916512/7916512_07b41aad-42b8-479b-8fda-ff19c1d0ff65_800_800.jpg",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 5,6 rb",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "MicroSD Sandisk Ultra 16GB Class 10 80MBPS Micro SD Card 16 GB SDHC",
+                                    "price": 56000,
+                                    "priceStr": "Rp56.000",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Barat",
+                                        "name": "AKA Official"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "12034492",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEH_UFHpe76_UDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstabm-7q3OBUsthosUhHpjdopypbm-srcHi6sHOHmFiy3zwrfo5rM1i6sUOoZdaopJd6AUhHsHhopJRbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBke3BHe72OysUOqB2_Z_g-qMWR__-uHjNJZ9PHuJ2D_32-PJNJqcBo8_V23BPcQJh9z_zo8jg2_1zu8JOk__zqe7BpZ37N83V9gICiQAB03BxmgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Aom83Ua1sVgHO-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7N5ysomgMV913Bvq1BRZ3BRq3oyuMhsQMhMgJPcQMoNZ_g-q1BpZ3N6qMUpZMhyHj2Nysoj8B2_Z_g-qjjh_BH781NEz_zvzJBd_32o8JNEz_o-q9P2yp-6PMoWuMgsHBgtyfO6Q7BkQfBoqMoR_c2VP7O1e_z6qMDO_M2s8JYJz_V-QsnYUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstpbm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopxPbm-X9foxQMz2gcV7guYxgIHi6sHDUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUE6ArN6mFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?management_type=1&page=1&dv=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&r=https%3A%2F%2Fwww.tokopedia.com%2Fmemorimurah%2Fsandisk-ultra-a1-micro-sd-card-16gb-98mbps-class-10-garansi-resmi%3Fsrc%3Dtopads&is_search=1&keywords=sd&t=ios&src=topads_dynamic_reverse_broadmatch",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sJaHAH7oAjabm-xgVY789CBUsthbm-FQRo2PcB5QiUEHiFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJRbpj56m4aHAr7H_y7opn5HsnRoAJfoArF9fUpoAyRyfJhb_ViHsjWoAgByaOx6_1Nb_ziy3H7gsCjopepyO4dHACw6AnFbM2FgaUDUMVj9RosQR-BUstao_1XHsrh6AKaH_UpH_rhoaFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z9P-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjV2_JoGP3Uao32q17jfZ320P77au_-6zJBR_VzGQJOkZ9z6zcx2_9jhqu29zMhHu717_92cq1OJu9xoqj773jo-r7BW69BxufzFyMFNqO2yeMgxuOV2_fB-P7B2PfBiH72F3s-DPuKpeSBiHBUh3_oZgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Ao6QfUpeMgxuOV2_fB-P7B2PfBs3VgDyfNDgMzIzMNs81jfZ3B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32-H1N_oIB68j17_7z-8JOk_9x68j1pZ3BRq3Ha_SgsQugMyp-3qcoW_MY-qMY2_32sP7hkz9PouJJ7_M20o1NkyRxvzJ1hZ3dFvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEHaFiQSuWyMua9fVjrOYag9Ji6s1DUMNwyfVXgcBjy9zB9fVjraUEHaFircYpPVYxQcri6BDirfh5PIz2QMPwrfuxrMotUB7DUSgBrSo2Qfdi6i-fHiUDUMoDP9o7g9-wq3zwPsUi6sKR6_KDUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?t=ios&src=topads_dynamic_reverse_broadmatch&page=1&dv=ios&is_search=1&keywords=sd&management_type=1&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEH_UFHpe76_UDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstabm-7q3OBUsthosUhHpjdopypbm-srcHi6sHOHmFiy3zwrfo5rM1i6sUOoZdaopJd6AUhHsHhopJRbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBke3BHe72OysUOqB2_Z_g-qMWR__-uHjNJZ9PHuJ2D_32-PJNJqcBo8_V23BPcQJh9z_zo8jg2_1zu8JOk__zqe7BpZ37N83V9gICiQAB03BxmgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Aom83Ua1sVgHO-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7N5ysomgMV913Bvq1BRZ3BRq3oyuMhsQMhMgJPcQMoNZ_g-q1BpZ3N6qMUpZMhyHj2Nysoj8B2_Z_g-qjjh_BH781NEz_zvzJBd_32o8JNEz_o-q9P2yp-6PMoWuMgsHBgtyfO6Q7BkQfBoqMoR_c2VP7O1e_z6qMDO_M2s8JYJz_V-QsnYUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstpbm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopxPbm-X9foxQMz2gcV7guYxgIHi6sHDUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUE6ArN6mFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?src=topads_dynamic_reverse_broadmatch&t=ios&page=1&r=https%3A%2F%2Fwww.tokopedia.com%2Fmemorimurah%2Fsandisk-ultra-a1-micro-sd-card-16gb-98mbps-class-10-garansi-resmi%3Fsrc%3Dtopads&keywords=sd&management_type=1&uid=148201400&is_search=1&dv=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&product_id=207416470"
+                                    },
+                                    "applink": "tokopedia://product/207416470",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/power_merchant_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 84,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 207416470,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/product-1/2017/9/8/207416470/207416470_b3467ca1-1b29-46ec-a959-4bac4f0d743c_800_800.jpg",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 533",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "SanDisk Ultra A1 Micro SD Card 16gb 98MBps Class 10 - Garansi Resmi",
+                                    "price": 62000,
+                                    "priceStr": "Rp62.000",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Pusat",
+                                        "name": "memorimurah"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "26117551",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEHsyhH_rOo_JDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstpbm-7q3OBUsthosUhHpjdopypbm-srcHi6sHOHmFiy3zwrfo5rM1i6sUOoZdao_J7opr7oAHfopUdoZFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z9P-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjV2_JoGP3Uao32q17jfZ320P77au_-6zJBR_VzGQJOkZ9z6zcx2_9jhqu29zMhHu717_92cq1OJu9xoqj773jo-r7BW69BxufzFyMFNqO2yeMgxuOV2_fB-P7B2PfBiH72F3s-DPuKpeSBiHBUh3_oZgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Ao6QfUpeMgxuOV2_fB-P7B2PfBs3VgDyfNDgMzIzMNs81jfZ3B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32-H1N_oIB6uJ1F_S2sHJNJ__-68jj7_Bo-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-HjYAoI2vzVjh_uzV81N1e_C6qBu2gBJYvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEHaFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpKfomFp6Ard9ZFiQBYsy3Njq3zxPcuwy3zpUstpbm-FQRo79fVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUSgBrSo2Qfdi6i-fHiUDUMoDP9o7g9-wq3zwPsUi6sJa6_1hbm-2rOYj83NxQ3Bs9RoDQRz7q3NSUs27rSuBwe?dv=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&keywords=sd&r=https%3A%2F%2Fwww.tokopedia.com%2Fhp-flashdisk%2Fmicro-sd-hp-uhs-1-u1-16gb-80mb-s%3Fsrc%3Dtopads&page=1&src=topads_dynamic_reverse_broadmatch&management_type=1&t=ios&is_search=1",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sUfH_JRo_1hbm-xgVY789CBUsthbm-FQRo2PcB5QiUEHaFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbfV7PcVsqcOBQSe5Hsnh6m4hHi4pbpJOoAHdo_1Oo_rRo_jpHa4ho_ep6A1Oo_1Rop1NHpowHpUpHfHRysKW6ABBgm7763eOb3VsgcJW6A1FHfyRHcUO6_HNbSCXgaUDUMVj9RosQR-BUstao_1XHs1hoArRoAeposra6A1DUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BRZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32Cq1hAZSuiHsuk3Bo-ojBkqRPoHB1a_jz-P7h1ZMhoqjB7_jztq1ONH3Bqu7gD_VPVoJOEzMBozVud_32ooV2AZ9o-Q_BNyuPjrc-D63Wq3J-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7-Nys-ZHujp1MgxuOV2_fB-P7B2PfBiH72F3s-DPuKp_MYiH7-MyuPzq1Y2Z9P-q9P2yOx3QcoXQcgjz7gXyRB-ojB2Z9o-QjNkysoGQVKaZSBiHfzE3Bo-ojBkZ_V61pzN_BzVHJNEypC6zJ7a_S2-oJN_Z9o-QjNkysoGQVKp_Mhg3J2ky1o-ojBkZ_-vepzE_7zgH1O1z9B6uJJF_M2uq3gzv_7ibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6sHDUMNOQ3-BrBYxgIowrMuhUstObm-X9foxQMz2gcV7guYxgIHi6sHDUSC5rRzwy3hSUs2QUSoDQRz7q3NS9RoBy9-sqm-Pbm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUsthHsjOHZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?keywords=sd&src=topads_dynamic_reverse_broadmatch&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&dv=ios&is_search=1&page=1&management_type=1&t=ios",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEHsyhH_rOo_JDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstpbm-7q3OBUsthosUhHpjdopypbm-srcHi6sHOHmFiy3zwrfo5rM1i6sUOoZdao_J7opr7oAHfopUdoZFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z9P-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjV2_JoGP3Uao32q17jfZ320P77au_-6zJBR_VzGQJOkZ9z6zcx2_9jhqu29zMhHu717_92cq1OJu9xoqj773jo-r7BW69BxufzFyMFNqO2yeMgxuOV2_fB-P7B2PfBiH72F3s-DPuKpeSBiHBUh3_oZgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Ao6QfUpeMgxuOV2_fB-P7B2PfBs3VgDyfNDgMzIzMNs81jfZ3B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32-H1N_oIB6uJ1F_S2sHJNJ__-68jj7_Bo-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-HjYAoI2vzVjh_uzV81N1e_C6qBu2gBJYvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEHaFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpKfomFp6Ard9ZFiQBYsy3Njq3zxPcuwy3zpUstpbm-FQRo79fVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUSgBrSo2Qfdi6i-fHiUDUMoDP9o7g9-wq3zwPsUi6sJa6_1hbm-2rOYj83NxQ3Bs9RoDQRz7q3NSUs27rSuBwe?keywords=sd&product_id=370627130&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&r=https%3A%2F%2Fwww.tokopedia.com%2Fhp-flashdisk%2Fmicro-sd-hp-uhs-1-u1-16gb-80mb-s%3Fsrc%3Dtopads&is_search=1&management_type=1&t=ios&src=topads_dynamic_reverse_broadmatch&page=1&dv=ios&uid=148201400"
+                                    },
+                                    "applink": "tokopedia://product/370627130",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 143,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 370627130,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/attachment/2018/12/3/154385555775933/154385555775933_3233c7b8-89ed-49d5-acda-8503f70b5939.png",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 333",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "Micro SD HP UHS-1 U1 16GB 80Mb/s",
+                                    "price": 56000,
+                                    "priceStr": "Rp56.000",
+                                    "rating": 5,
+                                    "ratingAverage": "5.0",
+                                    "shop": {
+                                        "city": "Jakarta Pusat",
+                                        "name": "HP Storage Official"
+                                    },
+                                    "wishlist": false
+                                }
+                            ],
+                            "url": "https://www.tokopedia.com/search?q=sd+card+16gb&source=related_keyword&st=product"
+                        },
+                        {
+                            "applink": "tokopedia://search?q=sd+card&source=related_keyword&st=product",
+                            "keyword": "sd card",
+                            "product": [
+                                {
+                                    "ads": {
+                                        "id": "44369047",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEoAeposjFoArDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhHpjdopypbm-srcHi6s1FHmFiy3zwrfo5rM1i6sUfHidhHpyfHsypo_HNHpyDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BN_c2z8jY1e9B6zJ7O_1z-HJOEqRPoqBV2_JoGrB2yQAoiH7203Ao6qMUpZMh-qMY2_1o-r7BWo9giQ1NDZ325q1da_9PqzVBN_M2-PJNJyp-oq_nF_3OcQJh9z9xou7u73jz6q77a_Mxvzcx0_3OzHjB2PfBiH72F3s-DPuKa1MhszsBF3jo-ojBke3BHe72fyfODQMV9o3gsZJ2f3jx3qMzc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMHaqIgszsBF3jo-ojBke3BHe72dgVP383u36_CgufzEZ325q1B2PfBsHjNfyfO3gBBXZSgjH7NDZ325q1Ok39BHqjuE_M2g81Nk__Vo8MWE_MB-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-HjN_oAV6ucHp_S2gHjNEu_VvuJ17Z3dFvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpKfomFp6Arf9ZFiQBYsy3Njq3zxPcuwy3zpUstObm-FQRo79fVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUSgBrSo2Qfdi6i-fHiUDUMoDP9o7g9-wq3zwPsUi6sJhoAnNbm-2rOYj83NxQ3Bs9RoDQRz7q3NSUs27rSuBwe?src=topads_dynamic_reverse_broadmatch&is_search=1&t=ios&management_type=1&keywords=sd&page=1&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&r=https%3A%2F%2Fwww.tokopedia.com%2Fsandisk-official%2Fsandisk-extreme-pro-sdxc-uhs-i-card-128gb-170mb-s%3Fsrc%3Dtopads&dv=ios",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6se7HpyNHAeRbm-xgVY789CBUsthbm-FQRo2PcB5QiUEHZFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJNbp15oa4aoA1d6_y7HZ4aoA1d6_y7HuYxHAeFHMHf6ZOBoMe7b_zsy3JWy_1fgZOMop1h6_BBoMJaypCwopnF9prFHmUDUMVj9RosQR-BUstaosUXH_HfosUfHp1p6_Hfbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-81hk192vuJVN_jzoo1OJZ_Co8MWR_32zq1hAZS-q3cFpysoGqOKp_M2iH72DZ325q1OAZ9o-Q_ufyMO6QJBkQfB6HjOR3jzg81NkZ9z6zcHa_3jFHJOWzMhHu7ud_uPVPV2J_MWoHjNt_7ztq7OW1_--q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoqBBN_c2V8jNk39B6qj7h_9208jN2Z9o-QjNkysoGQVKp_Mhg3J2ky1o-ojBkZ_-61peh_BzsH7NE3_-68B1h_OzVoJBXHA7ibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6s1DUMNOQ3-BrBYxgIowrMuhUstObm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUs2QUSoDQRz7q3NS9RoBy9-sqm-Pbm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUsthH_eF6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?dv=ios&t=ios&is_search=1&management_type=1&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&keywords=sd&page=1&src=topads_dynamic_reverse_broadmatch",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEoAeposjFoArDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhHpjdopypbm-srcHi6s1FHmFiy3zwrfo5rM1i6sUfHidhHpyfHsypo_HNHpyDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BN_c2z8jY1e9B6zJ7O_1z-HJOEqRPoqBV2_JoGrB2yQAoiH7203Ao6qMUpZMh-qMY2_1o-r7BWo9giQ1NDZ325q1da_9PqzVBN_M2-PJNJyp-oq_nF_3OcQJh9z9xou7u73jz6q77a_Mxvzcx0_3OzHjB2PfBiH72F3s-DPuKa1MhszsBF3jo-ojBke3BHe72fyfODQMV9o3gsZJ2f3jx3qMzc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMHaqIgszsBF3jo-ojBke3BHe72dgVP383u36_CgufzEZ325q1B2PfBsHjNfyfO3gBBXZSgjH7NDZ325q1Ok39BHqjuE_M2g81Nk__Vo8MWE_MB-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-HjN_oAV6ucHp_S2gHjNEu_VvuJ17Z3dFvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMoxPVY2gIHi6BDa6_rDHpKfomFp6Arf9ZFiQBYsy3Njq3zxPcuwy3zpUstObm-FQRo79fVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUSgBrSo2Qfdi6i-fHiUDUMoDP9o7g9-wq3zwPsUi6sJhoAnNbm-2rOYj83NxQ3Bs9RoDQRz7q3NSUs27rSuBwe?dv=ios&product_id=466395585&keywords=sd&src=topads_dynamic_reverse_broadmatch&is_search=1&management_type=1&uid=148201400&r=https%3A%2F%2Fwww.tokopedia.com%2Fsandisk-official%2Fsandisk-extreme-pro-sdxc-uhs-i-card-128gb-170mb-s%3Fsrc%3Dtopads&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&page=1"
+                                    },
+                                    "applink": "tokopedia://product/466395585",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 178,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 466395585,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/product-1/2019/5/7/24589641/24589641_a0402c69-e6d4-4caa-a56e-f75199e6a2c0_700_700",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 452",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "SanDisk Extreme Pro SDXC UHS-I Card 128GB 170MB/s",
+                                    "price": 649000,
+                                    "priceStr": "Rp649.000",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Pusat",
+                                        "name": "SanDisk Official"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "48918512",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEoAKNH_KOH_UDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstabm-7q3OBUsthosUhHpjdopypbm-srcHi6s1FHmFiy3zwrfo5rM1i6sUfHmdO6AnpHpHh6_y76AnpoZFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z_VHqMr7_32oH1OkqpCouJ1p_M2zH7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBke3BHe72OysUOqB2_Z_g-qMzk_1PzHjOk39BHuVJp_M2-PJNJZMxq1pVt_uzcqJh9192qzJNk3uzSoV2JZMW6q1BpZ37N83V9gICiQAB03BxmgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Aom83Ua1sVgHO-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7N5ysomgMV913Bvq1BRZ3BRq3oyuMhsQMhMgJPcQMoNZ_g-q1BpZ3N6qMUpZMhyHj2Nysoj8B2_Z_g-qjja_1H7H1YJe92o8jOd_OzgHJYJe92617BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjp_3j7H1OEqRx6uJ7O_S2oH1OJ_9x-QsnYUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstObm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopgPbm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEH_J7HAjDUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?page=1&dv=ios&r=https%3A%2F%2Fwww.tokopedia.com%2Fsandisk-official%2Fsandisk-extreme-pro-sdxc-uhs-ii-card-128gb%3Fsrc%3Dtopads&t=ios&is_search=1&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=topads_dynamic_reverse_broadmatch&keywords=sd&management_type=1",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sed6_Jdo_Jabm-xgVY789CBUsthbm-FQRo2PcB5QiUEHiFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbOghyMoW_Z4aHAUhbpH5Hsy56ACjH_rdg_nWoMHN6m77ocgxb3-BopHWg_K7gAefH_rF6AHfbSCXgaUDUMVj9RosQR-BUstaosnXo_KFHpHpH_jfoAKFHp1DUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1jh_c2SoJOk__VoqMDF_uzVH7Nk1_o-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjV2_JoGP3Uao32q17jfZ32jqjOI1_-oqBBN_VzzH7NkZ9z6zJ2t3BHhqJO1zMxHuOVE3jz6qBB1gpzqzJ20_MB-r7BW69BxufzFyMFNqO2yeMgxuOV2_fB-P7B2PfBiH72F3s-DPuKpeSBiHBUh3_oZgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Ao6QfUpeMgxuOV2_fB-P7B2PfBs3VgDyfNDgMzIzMNs81jfZ3B-r7BX_M2iH72D3A-G83UpgI2q17jfZ32-HjOAoAVvzJVE_92o8JY13_CvzJVE_Bo-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-H7O2oAVo8MWd_Bzoo1NE__VozJOdZ3dFvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstirfh5PIz2QMPwrfuxrMotUiFiQSuWyMua9fYM9fVjraUEoZFiQSuWyMua9fVjrOYag9Ji6s1DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6BDirfh5PIz2QMPwrfuxrMotUB7DUSgBrSo2Qfdi6i-fHiUDUMoDP9o7g9-wq3zwPsUi6sJhoAnNbm-2rOYj83NxQ3Bs9RoDQRz7q3NSUs27rSuBwe?is_search=1&t=ios&dv=ios&keywords=sd&page=1&management_type=1&src=topads_dynamic_reverse_broadmatch&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEoAKNH_KOH_UDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstabm-7q3OBUsthosUhHpjdopypbm-srcHi6s1FHmFiy3zwrfo5rM1i6sUfHmdO6AnpHpHh6_y76AnpoZFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z_VHqMr7_32oH1OkqpCouJ1p_M2zH7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBke3BHe72OysUOqB2_Z_g-qMzk_1PzHjOk39BHuVJp_M2-PJNJZMxq1pVt_uzcqJh9192qzJNk3uzSoV2JZMW6q1BpZ37N83V9gICiQAB03BxmgMV913Bvq1BRZ3BRq3UpZSCqHMhO3Aom83Ua1sVgHO-MyuPzq1Y2Z9P-q9P2ysoGrVtaQIuyH7N5ysomgMV913Bvq1BRZ3BRq3oyuMhsQMhMgJPcQMoNZ_g-q1BpZ3N6qMUpZMhyHj2Nysoj8B2_Z_g-qjja_1H7H1YJe92o8jOd_OzgHJYJe92617BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjp_3j7H1OEqRx6uJ7O_S2oH1OJ_9x-QsnYUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-pQcY7PcBXgOYpg3VayfKibm-XP3Oig9-wQfgwy3zpUstObm-XP3Oig9-wy3zp9R-BrZUEoZFiyfV79fBjraUE3pUNoaFp6Ay7bAHdopgPbm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUstirfh5PIz2QMPwrfuxrMotUiFiPMuarfB5QiUEUSyaUiFiyfhOrRzBrBY2gVYfHiUEH_J7HAjDUMBp9fzNQMVWq3owrfh5PIz2QMri6SzaP3uY?keywords=sd&is_search=1&page=1&management_type=1&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&r=https%3A%2F%2Fwww.tokopedia.com%2Fsandisk-official%2Fsandisk-extreme-pro-sdxc-uhs-ii-card-128gb%3Fsrc%3Dtopads&dv=ios&uid=148201400&src=topads_dynamic_reverse_broadmatch&product_id=448007149&t=ios"
+                                    },
+                                    "applink": "tokopedia://product/448007149",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 57,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 448007149,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/3/26/80d178e0-6c98-44fa-be73-e84d46170836.png",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 154",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "SanDisk Extreme Pro SDXC UHS-II Card 128GB",
+                                    "price": 2049000,
+                                    "priceStr": "Rp2.049.000",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Pusat",
+                                        "name": "SanDisk Official"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "48497934",
+                                        "productClickUrl": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEoAK76_rNHpeDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstpbm-7q3OBUsthosUhHpjdopypbm-srcHi6sHOHmFiy3zwrfo5rM1i6sUfomdOos1Ro_KfoA1Oo_Hhbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-HjhkgRxvzJ17_uzS8JYJz_zoucPd_S2uq1hAZS-q3cFpysoGqOKp_M2iH72DZ325q1OAZ9o-Q_ufyMO6QJBkQfB6HjOR3jzg81NkZ9z6zcHa_3jFHJOWzMhHu7ud_uPVPV2J_MWoHjNt_7ztq7OW1_--q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoqBjF_c2uHjN1ypVvzVjF_BzuH1OEz3BHe72E3_UN8u23692qu7gN3_-Sq1Y2Z9B6qjBO_BzVP7NEu9BvzVJF_BzCHJONZsjibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6s1DUMNOQ3-BrBYxgIowrMuhUstObm-sy9zwq3zpUs2QHsjRbAHdoseDHpKRoB7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUsthH_eF6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?page=1&r=https%3A%2F%2Fwww.tokopedia.com%2Fsandisk-official%2Fsandisk-extreme-pro-sdxc-uhs-i-card-64gb-170mb-s%3Fsrc%3Dtopads&src=topads_dynamic_reverse_broadmatch&is_search=1&keywords=sd&dv=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&t=ios&management_type=1",
+                                        "productViewUrl": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sedoAjR6_H7bm-xgVY789CBUsthbm-FQRo2PcB5QiUEHaFiPcBWgZUEH_yaH_HN6ArfHaFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJNbpr5H_J5HseO6AjfoAJ5HseO6AjfoAVwHcHNHfVxo_KWHpjNHZ77HfJab_K7osUWgc1fHMzBHAeOHs1a9prFHV4RHAnXrcNSUiFiy3zwrfo5rM1i6sUfomdOos1Ro_KfoA1Oo_Hhbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-HjhkgRxvzJ17_uzS8JYJz_zoucPd_S2uq1hAZS-q3cFpysoGqOKp_M2iH72DZ325q1OAZ9o-Q_ufyMO6QJBkQfB6HjOR3jzg81NkZ9z6zcHa_3jFHJOWzMhHu7ud_uPVPV2J_MWoHjNt_7ztq7OW1_--q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoqBjF_c2uHjN1ypVvzVjF_BzuH1OEz3BHe72E3_UN8u23692qu7gN3_-Sq1Y2Z9B6qjBO_BzVP7NEu9BvzVJF_BzCHJONZsjibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6s1DUMNOQ3-BrBYxgIowrMuhUstObm-X9foxQMz2gcV7guYxgIHi6s1DUSC5rRzwy3hSUs2QUSoDQRz7q3NS9RoBy9-sqm-Pbm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUsthH_eF6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?keywords=sd&dv=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&is_search=1&page=1&management_type=1&t=ios&src=topads_dynamic_reverse_broadmatch",
+                                        "productWishlistUrl": "https://ta.tokopedia.com/promo/v1/wishlists/8a-xgVY2gmUEoAK76_rNHpeDUMVj9RzNrc1i6sJDUSC5rfB7q3YXUstpbm-7q3OBUsthosUhHpjdopypbm-srcHi6sHOHmFiy3zwrfo5rM1i6sUfomdOos1Ro_KfoA1Oo_Hhbm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-HjhkgRxvzJ17_uzS8JYJz_zoucPd_S2uq1hAZS-q3cFpysoGqOKp_M2iH72DZ325q1OAZ9o-Q_ufyMO6QJBkQfB6HjOR3jzg81NkZ9z6zcHa_3jFHJOWzMhHu7ud_uPVPV2J_MWoHjNt_7ztq7OW1_--q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoqBjF_c2uHjN1ypVvzVjF_BzuH1OEz3BHe72E3_UN8u23692qu7gN3_-Sq1Y2Z9B6qjBO_BzVP7NEu9BvzVJF_BzCHJONZsjibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUSoDQRz7q3NS9RoBy9-sqmUDUMNOQ3-BrBY5gBYxgIHi6s1DUMNOQ3-BrBYxgIowrMuhUstObm-sy9zwq3zpUs2QHsjRbAHdoseDHpKRoB7DUMNwyfVXgcBjy9zB9fVjraUEoZFircYpPVYxQcri6i-pQcY7PcBXgOYpg3VayfKibm-fg9-pq3YXUstiPsUibm-sQIupPcua9fBj9RyaUsthH_eF6ZFiq9owgIBXy3O2yOYpQcY7PcBXgaUEPI-Og97?sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&is_search=1&r=https%3A%2F%2Fwww.tokopedia.com%2Fsandisk-official%2Fsandisk-extreme-pro-sdxc-uhs-i-card-64gb-170mb-s%3Fsrc%3Dtopads&dv=ios&keywords=sd&t=ios&src=topads_dynamic_reverse_broadmatch&product_id=507829304&page=1&uid=148201400&management_type=1"
+                                    },
+                                    "applink": "tokopedia://product/507829304",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/official_store_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 516,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 507829304,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/product-1/2019/7/11/24589641/24589641_0c93aa58-3991-43a2-8462-de62de045252_700_700.png",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 1,2 rb",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "SanDisk Extreme Pro SDXC UHS-I Card 64GB 170MB/s",
+                                    "price": 299900,
+                                    "priceStr": "Rp299.900",
+                                    "rating": 5,
+                                    "ratingAverage": "5.0",
+                                    "shop": {
+                                        "city": "Jakarta Pusat",
+                                        "name": "SanDisk Official"
+                                    },
+                                    "wishlist": false
+                                }
+                            ],
+                            "url": "https://www.tokopedia.com/search?q=sd+card&source=related_keyword&st=product"
+                        },
+                        {
+                            "applink": "tokopedia://search?q=sd+gundam&source=related_keyword&st=product",
+                            "keyword": "sd gundam",
+                            "product": [
+                                {
+                                    "ads": {
+                                        "id": "",
+                                        "productClickUrl": "",
+                                        "productViewUrl": "",
+                                        "productWishlistUrl": ""
+                                    },
+                                    "applink": "tokopedia://product/478596261",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/power_merchant_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 172,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 478596261,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/product-1/2019/5/21/868048/868048_95c18f22-3a33-41e7-bd18-f1b27ad1dd4e_2048_2048.jpg",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 305",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "SD Gundam Sangoku Liu Bei Unicorn Gundam",
+                                    "price": 60000,
+                                    "priceStr": "Rp60.000",
+                                    "rating": 5,
+                                    "ratingAverage": "5.0",
+                                    "shop": {
+                                        "city": "Jakarta Barat",
+                                        "name": "Hobby Japan"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "",
+                                        "productClickUrl": "",
+                                        "productViewUrl": "",
+                                        "productWishlistUrl": ""
+                                    },
+                                    "applink": "tokopedia://product/1681182105",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/power_merchant_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 11,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 1681182105,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/3/18/28bae958-10b5-4265-96e1-5c29d43c32d6.jpg",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 17",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "sd gundam sangoku soketsuden 10",
+                                    "price": 60999,
+                                    "priceStr": "Rp60.999",
+                                    "rating": 5,
+                                    "ratingAverage": "4.8",
+                                    "shop": {
+                                        "city": "Jakarta Pusat",
+                                        "name": "EXSHINE"
+                                    },
+                                    "wishlist": false
+                                },
+                                {
+                                    "ads": {
+                                        "id": "",
+                                        "productClickUrl": "",
+                                        "productViewUrl": "",
+                                        "productWishlistUrl": ""
+                                    },
+                                    "applink": "tokopedia://product/49255935",
+                                    "badges": [
+                                        {
+                                            "imageUrl": "https://images.tokopedia.net/img/power_merchant_badge.png",
+                                            "show": true
+                                        }
+                                    ],
+                                    "countReview": 158,
+                                    "freeOngkir": {
+                                        "imgUrl": "https://images.tokopedia.net/img/restriction-engine/bebas-ongkir/BO_reguler.png",
+                                        "isActive": true
+                                    },
+                                    "id": 49255935,
+                                    "imageUrl": "https://images.tokopedia.net/img/cache/200-square/product-1/2016/6/21/4499750/4499750_aa1492ef-a31e-4000-9040-a76e531fc838.jpg",
+                                    "labelGroups": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 291",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        },
+                                        {
+                                            "position": "eta",
+                                            "title": "Tiba 20 - 21 May",
+                                            "type": "textDarkGrey",
+                                            "url": ""
+                                        }
+                                    ],
+                                    "name": "SD EX Standard Destiny Gundam Bandai",
+                                    "price": 90000,
+                                    "priceStr": "Rp90.000",
+                                    "rating": 5,
+                                    "ratingAverage": "4.9",
+                                    "shop": {
+                                        "city": "Jakarta Barat",
+                                        "name": "Hobby Japan"
+                                    },
+                                    "wishlist": false
+                                }
+                            ],
+                            "url": "https://www.tokopedia.com/search?q=sd+gundam&source=related_keyword&st=product"
+                        }
+                    ],
+                    "position": 6,
+                    "relatedKeyword": ""
+                },
+                "suggestion": {
+                    "currentKeyword": "sd",
+                    "instead": "",
+                    "insteadCount": 0,
+                    "query": "q=sd&rf=false&skip_broadmatch=true",
+                    "suggestion": "",
+                    "suggestionCount": 0,
+                    "text": "Ingin pencarian yang lebih spesifik? Coba cek rekomendasi kami"
+                },
+                "ticker": {
+                    "query": "",
+                    "text": "",
+                    "typeId": 0
+                }
+            }
+        },
+        "global_search_navigation": {
+            "data": {
+                "background": "",
+                "keyword": "",
+                "list": [],
+                "nav_template": "",
+                "see_all_applink": "",
+                "show_topads": false,
+                "source": "",
+                "title": ""
+            }
+        },
+        "productAds": {
+            "data": [
+               
+            ],
+            "header": {
+                "process_time": 0.024242787,
+                "total_data": 6
+            },
+            "status": {
+                "error_code": 0,
+                "message": "OK"
+            },
+            "template": [
+                {
+                    "is_ad": true
+                },
+                {
+                    "is_ad": true
+                },
+                {
+                    "is_ad": false
+                },
+                {
+                    "is_ad": false
+                },
+                {
+                    "is_ad": false
+                },
+                {
+                    "is_ad": true
+                },
+                {
+                    "is_ad": true
+                },
+                {
+                    "is_ad": false
+                },
+                {
+                    "is_ad": false
+                },
+                {
+                    "is_ad": true
+                },
+                {
+                    "is_ad": true
+                },
+                {
+                    "is_ad": false
+                },
+                {
+                    "is_ad": false
+                },
+                {
+                    "is_ad": false
+                }
+            ]
+        },
+        "searchInspirationCarouselV2": {
+            "data": [],
+            "process_time": 0
+        },
+        "searchInspirationWidget": {
+            "data": []
+        }
+    }
+}

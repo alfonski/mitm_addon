@@ -1,0 +1,641 @@
+{
+    "data": {
+        "status": "OK",
+        "chatReplies": {
+            "minReplyTime": "1600925514444",
+            "maxReplyTime": "1603185455971",
+            "block": {
+                "blockedUntil": "2020-03-25T12:59:59.623174+07:00",
+                "isBlocked": false,
+                "isPromoBlocked": false
+            },
+            "hasNext": true,
+            "hasNextAfter": false,
+            "textareaReply": 1,
+            "attachmentIDs": "548168738,548168739,548168740",
+            "contacts": [
+                {
+                    "role": "User",
+                    "userId": 19016250,
+                    "shopId": 3987128,
+                    "interlocutor": false,
+                    "name": "ennoseller",
+                    "tag": "Pengguna",
+                    "thumbnail": "https://accounts.tokopedia.com/image/v1/u/19016250/user_thumbnail/desktop",
+                    "domain": "",
+                    "isOfficial": false,
+                    "isGold": false,
+                    "badge": "",
+                    "status": {
+                        "timestamp": 0,
+                        "timestampStr": "",
+                        "isOnline": false
+                    }
+                },
+                {
+                    "role": "Shop Owner",
+                    "userId": 39467501,
+                    "shopId": 3987128,
+                    "interlocutor": true,
+                    "name": "Meraih mimpi",
+                    "tag": "shop",
+                    "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/3987128/shop_xs_thumbnail/desktop",
+                    "domain": "totokaku",
+                    "isOfficial": false,
+                    "isGold": false,
+                    "badge": "",
+                    "status": {
+                        "timestamp": 1603185696,
+                        "timestampStr": "1603185696",
+                        "isOnline": true
+                    }
+                }
+            ],
+            "list": [
+                {
+                    "date": "24 Sep 2020",
+                    "chats": [
+                        {
+                            "time": "12:31",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10277044995",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "hai ini ready?",
+                                    "replyTime": "1600925514444498000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "inbox",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "time": "12:46",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10277462822",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "hai ini ready?",
+                                    "replyTime": "1600926371800911000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "inbox",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "time": "13:04",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10277946831",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "Uploaded Image",
+                                    "replyTime": "1600927491031661000",
+                                    "status": 1,
+                                    "attachmentID": 566816177,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 566816177,
+                                        "type": 2,
+                                        "attributes": "{\"image_url\":\"https://ecs7.tokopedia.net/img/LUZQDL/2020/9/24/02e28c48-ecbb-4985-b1dc-ef268d3197ab.jpg\",\"image_url_thumbnail\":\"https://ecs7.tokopedia.net/img/cache/100-square/LUZQDL/2020/9/24/02e28c48-ecbb-4985-b1dc-ef268d3197ab.jpg\"}",
+                                        "fallback": {
+                                            "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.",
+                                            "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "30 Sep 2020",
+                    "chats": [
+                        {
+                            "time": "13:07",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10441325026",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "hi",
+                                    "replyTime": "1601446029072237000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "inbox",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "1 Oct 2020",
+                    "chats": [
+                        {
+                            "time": "15:01",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10473529436",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "Uploaded Image",
+                                    "replyTime": "1601539290332602000",
+                                    "status": 1,
+                                    "attachmentID": 578145093,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 578145093,
+                                        "type": 2,
+                                        "attributes": "{\"image_url\":\"https://ecs7.tokopedia.net/img/LUZQDL/2020/10/1/eeb2a99c-751b-4a7c-aa70-426bbdf17a40.jpg\",\"image_url_thumbnail\":\"https://ecs7.tokopedia.net/img/cache/100-square/LUZQDL/2020/10/1/eeb2a99c-751b-4a7c-aa70-426bbdf17a40.jpg\"}",
+                                        "fallback": {
+                                            "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.",
+                                            "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "time": "15:02",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10473546048",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "Uploaded Image",
+                                    "replyTime": "1601539329329957000",
+                                    "status": 1,
+                                    "attachmentID": 578146355,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 578146355,
+                                        "type": 2,
+                                        "attributes": "{\"image_url\":\"https://ecs7.tokopedia.net/img/LUZQDL/2020/10/1/d06c7dbd-14af-4ee0-a75a-441699b88d42.jpg\",\"image_url_thumbnail\":\"https://ecs7.tokopedia.net/img/cache/100-square/LUZQDL/2020/10/1/d06c7dbd-14af-4ee0-a75a-441699b88d42.jpg\"}",
+                                        "fallback": {
+                                            "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.",
+                                            "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "time": "15:09",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10473758062",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "Uploaded Image",
+                                    "replyTime": "1601539791653738000",
+                                    "status": 1,
+                                    "attachmentID": 578161077,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 578161077,
+                                        "type": 2,
+                                        "attributes": "{\"image_url\":\"https://ecs7.tokopedia.net/img/LUZQDL/2020/10/1/cb910010-263a-443f-93be-4fdc7abb41bb.jpg\",\"image_url_thumbnail\":\"https://ecs7.tokopedia.net/img/cache/100-square/LUZQDL/2020/10/1/cb910010-263a-443f-93be-4fdc7abb41bb.jpg\"}",
+                                        "fallback": {
+                                            "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.",
+                                            "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "time": "18:46",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10478542388",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "Uploaded Image",
+                                    "replyTime": "1601552798918787000",
+                                    "status": 1,
+                                    "attachmentID": 578492660,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 578492660,
+                                        "type": 2,
+                                        "attributes": "{\"image_url\":\"https://ecs7.tokopedia.net/img/LUZQDL/2020/10/1/a5e70882-fb3d-43db-8013-758bee168146.jpg\",\"image_url_thumbnail\":\"https://ecs7.tokopedia.net/img/cache/100-square/LUZQDL/2020/10/1/a5e70882-fb3d-43db-8013-758bee168146.jpg\"}",
+                                        "fallback": {
+                                            "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.",
+                                            "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "time": "18:54",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10478705840",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "Uploaded Image",
+                                    "replyTime": "1601553251608757000",
+                                    "status": 1,
+                                    "attachmentID": 578503179,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "",
+                                    "attachment": {
+                                        "id": 578503179,
+                                        "type": 2,
+                                        "attributes": "{\"image_url\":\"https://ecs7.tokopedia.net/img/LUZQDL/2020/10/1/103c8085-c6f9-4eaa-be01-993d7f1ecd54.jpg\",\"image_url_thumbnail\":\"https://ecs7.tokopedia.net/img/cache/100-square/LUZQDL/2020/10/1/103c8085-c6f9-4eaa-be01-993d7f1ecd54.jpg\"}",
+                                        "fallback": {
+                                            "message": "Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.",
+                                            "html": "<div>Pengguna ini mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.19 untuk melihat gambar.</div>"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "20 Oct 2020",
+                    "chats": [
+                        {
+                            "time": "16:17",
+                            "replies": [
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10881351794",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "hai ini add template chat dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt;",
+                                    "replyTime": "1603185443866628000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "inbox",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10881355555",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "hai ini add template chat dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character \n dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt; hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character hai ini add template chat dari katalon apps using special character",
+                                    "replyTime": "1603185455971505000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": false,
+                                    "blastId": 0,
+                                    "source": "inbox",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgId": 190378584,
+                                    "replyId": "10881351794",
+                                    "senderId": 19016250,
+                                    "senderName": "ennoseller",
+                                    "role": "User",
+                                    "msg": "hai ini add template chat dari katalon apps using special character !@#$%^&amp;*()_+{}|&#34;:?&gt;&lt;",
+                                    "replyTime": "1603185443866628000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 0,
+                                    "source": "replied_blast",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "11 Sep 2020",
+                    "chats": [
+                        {
+                            "time": "17:18",
+                            "replies": [
+                                {
+                                    "msgId": 1194317150,
+                                    "replyId": "10025284595",
+                                    "senderId": 5435148,
+                                    "senderName": "Tazkia",
+                                    "role": "Shop Owner",
+                                    "msg": "",
+                                    "replyTime": "1599819500918136000",
+                                    "status": 1,
+                                    "attachmentID": 547916841,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 256857,
+                                    "source": "blast_seller",
+                                    "attachment": {
+                                        "id": 547916841,
+                                        "type": 1,
+                                        "attributes": "{\"url\":\"https://chat.tokopedia.com/tc/v1/redirect/d25a873137dfb92a77ded97c051ac577b1dd90bb3f83fa904657e47f2f41f1f0b6ae9d9fe23b293dc6bf4c43d9d243e0f69401b2c17e82bd1d5bb12d8289a50c50aab7f371d46403e0861caa397cc472a62fde20b5a88b525daa11604d6de7d0af60bc48d30ab55ad51a0a99b27e829c74751e71c4300c82d8b311bc91d059a076acb3f6d5d4d6d8646b9c065c53be8988446e73f101240533928d27ed7f1455d40c5ec5cfc1a919f8c7fbb754a843a066a16a4d74882a98b92f11901348bfe044f46c370a69caaf3ca4fbcb8274fc293b6daece393810b4b1c22cde\",\"image_url\":\"https://ecs7.tokopedia.net/img/cache/100-square/LUZQDL/2020/9/11/0d4f3b3b-2919-4336-8528-4d193c3c4311.jpg\",\"url_2\":\"https://chat.tokopedia.com/tc/v1/redirect/541722ed19ab76ac7835e427a96c6d22d6843b484261f1c5f009f02159cb481a4eff22f2c484daf75937e989f12770b862d011ab30f71bcc592fb44217d6b7f64a9971a5a1cb324060ef5b8c45e2c15e3a9eeab7029e47d9e4558d081dcd633bc053eb1a69a63bedab3ee761997608abc8a566bf97e4dabfac6ea372dcf1267a2dcde867141f4dceb57dc9697d4eb82f46bfb3a3145f9762410de5f4a5137119dcd58f278e4e95492d563616089ae85aeed110a7cd0e1b2efcc7ffa7d0267b67e2c0c6dcae9efac6c4eb0797a8f0fa931a9aa49d17a1624a1bffc6357eaa7dfc\",\"image_url_thumbnail\":\"https://ecs7.tokopedia.net/img/cache/100-square/LUZQDL/2020/9/11/0d4f3b3b-2919-4336-8528-4d193c3c4311.jpg\"}",
+                                        "fallback": {
+                                            "message": "Tokopedia mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.18 untuk melihat gambar.",
+                                            "html": "<div>Tokopedia mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.18 untuk melihat gambar.</div>"
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgId": 1194317150,
+                                    "replyId": "10025284598",
+                                    "senderId": 5435148,
+                                    "senderName": "Tazkia",
+                                    "role": "Shop Owner",
+                                    "msg": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://chat.tokopedia.com/tc/v1/redirect/4137e789c11cec5faf0ba87aa17d35016faeb73d163c0e3a806a2b69e9334038883c205ea09edcaad95ffd4549d4add41a4fd9885e086214acf7e16dc2f6e61dab83efc30d0c8dc9ab6c24e485c39babb7bfc7e13a6402958e51435ef44214ebccd300da6e3cdfd0a678e5a046734ebc7f77968877545578e30bdcc58cdcbe1ecaeb54dc01338d2429dc6c3f2543d95afcef95bf3f249316243a6f687640d5eb8657a4cf0fc7e67c6eff49b8afeb53280b9660f2fafac9fcb23b4cb03d052dd54f5bf26def8d20c5e44a1f17f2cc3a489eaf4fc39c2f973e59fee7fe37680504f3f99c1c5ae9f02630912376f3689141cdef64587a01328a0ca4a9b5bac0bb8773ae3900f2fe3ab65eb064984b1ce660121c54c76d8450e6f7eb74e6c7d346a86a36f7fa6ea2210477718644a79fa688b1db4d1ec65fb35aa721edbd57f105b87cf82e15d731aa778b3a87eea71a82de84028bd5627e12b150b7a3190135a7c6894a92da88544c8384d1f1d266ddbe03e268830f213e316b26168f987f98ccde02f6da5981ab3fa74845498cbecf40a86d8df916708c294c0d7329035c3aa808e429fd32990ee898fee100efb76935bdffa3d05c5ec6133b213f41eaa5bcf187b1dffee48b5fc46d7b149d8c0e7628e2302de4f6041b602bd58dab1c7c206d8ae952a6596d1f05bb6b466ddb14001344cf12195f7e1477a5844aa5d026372d28e44aa090b0f813f9773b2e33c7e7613d7252f1bc50ab13a6314af53f9995a4032c98629b9a668dd44dfc6c64a47c72e249fce62eee544abe58c12e55fcc27ee471f1c174393613d7ff385dcf46ec95a85bd8f18a333344267f1d01300141cfbf7ce85ce1476244ddb3bab264fc5ac12056d066be1028416dc4c9e52d1b8024ed5e4e0bb8bef1987b059af8451d6788e38ddb3b764575adf75455062778b82e68034414da49bbb1981b350d9bf1bc01716c1ef67c57216b869e590307b751c7de8aa0b350f0c48be3ad14697f9ca424b822c113ff65361c47b1806d59bfb810fd59ef049ce050dfbdc4e398aecf8dfcf1204db6b7d93d924b59241d5e42fa4cb3f20306888e7d560c190833656cc48418b0537bc0cb3733fadfe367bb9d9f33ca1534edbb427f80049324ad06c35ccc23cf76f878e2005dba3edb2545de81afc348f867d5544a651ce0aa11a0e6457f46405fcd8a225d8fd85a1508e8930f8249\">https://chat.tokopedia.com/tc/v1/redirect/eba7c45260d9b41ecb112b9d0db9a25169bfc70b3c5d862dd61c82b6bd56965d84e2a203f229918e9262788f1b1ddb27530a7f3acedd5a527b4e8a371406f27ad4f9cd32e92de9e17919d26bb67847177322b23e2a7cd95fd70d0c2877398ef577543442303583d8eb1329cb9a671415d23d8b26f4639380e39930919d474eae2f917196436387758e75e011dfa1dca4fa2e7f7fd1b80e3782c99d0aa9b0d5e18ccf792b354557f2f7f3799a431381eae02c21f527b4945315aa389c347611b2f698458257b7718e90cb4c635702f51d83120968396c976195bba910358cf637c127e2b0c0d38d04</a>",
+                                    "replyTime": "1599819500919136000",
+                                    "status": 1,
+                                    "attachmentID": 548168738,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 256857,
+                                    "source": "blast_seller",
+                                    "attachment": {
+                                        "id": 548168738,
+                                        "type": 3,
+                                        "attributes": "{\"product_id\":1073778672,\"product_profile\":{\"name\":\"Mukena Tazbiya Oak Spring Navy (Mukena Rayon Premium Dewasa)\",\"price\":\"Rp 164.000\",\"price_int\":0,\"image_url\":\"https://ecs7.tokopedia.net/img/cache/200-square/attachment/2020/8/14/66236640/66236640_326b85c9-02c7-4a9f-b294-3ea987492790.jpg\",\"url\":\"https://chat.tokopedia.com/tc/v1/redirect/eba7c45260d9b41ecb112b9d0db9a25169bfc70b3c5d862dd61c82b6bd56965d84e2a203f229918e9262788f1b1ddb27530a7f3acedd5a527b4e8a371406f27ad4f9cd32e92de9e17919d26bb67847177322b23e2a7cd95fd70d0c2877398ef577543442303583d8eb1329cb9a671415d23d8b26f4639380e39930919d474eae2f917196436387758e75e011dfa1dca4fa2e7f7fd1b80e3782c99d0aa9b0d5e18ccf792b354557f2f7f3799a431381eae02c21f527b4945315aa389c347611b2f698458257b7718e90cb4c635702f51d83120968396c976195bba910358cf637c127e2b0c0d38d04\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":672972,\"status\":0,\"min_order\":0,\"category_id\":0,\"remaining_stock\":0,\"category_breadcrumb\":\"\",\"variant\":null,\"wishlist\":false,\"free_ongkir\":{\"is_active\":false,\"image_url\":\"\"},\"rating\":{}}}",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": "https://www.tokopedia.com/mukena-tazkia/mukena-tazbiya-oak-spring-navy-mukena-rayon-premium-dewasa"
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgId": 1194317150,
+                                    "replyId": "10025284599",
+                                    "senderId": 5435148,
+                                    "senderName": "Tazkia",
+                                    "role": "Shop Owner",
+                                    "msg": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://chat.tokopedia.com/tc/v1/redirect/d3437a3d494294015bc658b2cd3f70cee9a3cd4c9e91a480382606633f47722c71a8d7c0c93dbd42f103fdb362a7f1e285aaecb1b6b66fb8112a61d0d3c8beb491d76c2678eb53eebb3f2ee6bfe6eac6dd9448a52c483753925e663daeb6fc9ecd3a2206bb63000feee3e6ce81f3db9dff7f6f96c9eea31bdd4fcf3c16aaa909cf738f2d0c0cc6288f956816779a5e66dff4659a538c100e6878f025698b0d12bab20b4460267f7ded094d22008910e7b669f2b97c64446a324035159a1a6ddb1aea82de2e64cfb007874648b256073d7ae85358ff0b9334089cae8a6346816d82bf2d807140a24246e83502b07e2140ada8fc656904030ab46a5b9b474e387b48d8699b409547c51e26067d29778e315df215753be3d4c4acb2c10789adef147b9cb371925d9d0577912a31762e6b7f88df0eaaf63be9ab450a6e070fc830bf2bd13e73ce85ffe2c0d549f8692a31baf8cfef07794e43c0d060444567edb987b9669df49c705ba9fa70e3fae2b0c678bb301cb26b45ddf2820b143d8e3b7e1822fbed77b74f270adbaa985aef5e08191adffd8608051f25fca604167966dd28499cc83a9b73f58a0c11f2d94e19e5a59f89e258739f63efe6eb9ca122d49238a15c4fb636885f3eb29fa421b3f1e21e9a801dddf67fb7b230ae230feef3db16d1ac4a2d308386e7f03a8a4a60ef2b1f98471f692790a39b3c23c57111eb2314ff4d6689d10552ea1d1b17fc581d4ced44994bbafc3fa7450362848c2f93b55bfdfb452a5e478828eed6821ab8779f84b9a52c8d7e5dee7da0d55fcd209a9d6243934947ace0efdcd0661b41d65dbc26103cf96d2b94aeda9189759fc2313f3e0af4b2f199d68935f560ecdbf155739fb420d7428e4667f9e57ad48485544275e797c4259a484d0e705744f3e387f5bcb4d49aa29738962b9c02a4fadbe8013a6d5b6e427c2ce9fc0d275cff40547d4bcd9c20c6d602600a1916925fe2bedbf517c324387b280c1f33ec9c9b5dc70bf5c86fdbbbd0e594fd8f1412e00a0c72eb28160cc63ccc519f2fc50d769d42876e0693366e4e3911f3e6b153d4305c678640e7775bdcc25c271b55c76cb18bbc90fcc68c57ef8bd54abe19e93e5c008274c91860724b230a2d2831725de9e3b062e483aa8c3fe60981aa78ffac20f7a668f9903d512015d2ed3bb95f8e8e8464d5078c88f1f598b449\">https://chat.tokopedia.com/tc/v1/redirect/97d745336cd31271679fe8894ae2ea4813180527211876b56025ac8e920d50f8bbb60fb83e550f844590108583ce50d9c8289a41a8b946a53c3435da4da20a1b53804ebddbe201bdf7ecf1e5884ae2f4642f76b85aedf43d0083e2b3b1a5407f18ea8d093ee133d805763e3defae481c099f92aea8215432a4dba36c8ac1f2ff2737274bf63be79fd36c97a457c62056f23f77ee2c42c0f76153c01503f7507211ae53ec241f13848fec863f8b827fe1229bc99c4d0ab331e813ac09ab376d628948cec94d6f2e57305043cdf12e445a94bd01e02174d000f1f86c84f303193a00123e93</a>",
+                                    "replyTime": "1599819500920136000",
+                                    "status": 1,
+                                    "attachmentID": 548168739,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 256857,
+                                    "source": "blast_seller",
+                                    "attachment": {
+                                        "id": 548168739,
+                                        "type": 3,
+                                        "attributes": "{\"product_id\":768962456,\"product_profile\":{\"name\":\"Mukena Tazbiya Mandalika Flower Navy\",\"price\":\"Rp 174.000\",\"price_int\":0,\"image_url\":\"https://ecs7.tokopedia.net/img/cache/200-square/product-1/2020/4/3/672972/672972_8136423f-da0e-4480-a91c-57c4a289e999.jpeg\",\"url\":\"https://chat.tokopedia.com/tc/v1/redirect/97d745336cd31271679fe8894ae2ea4813180527211876b56025ac8e920d50f8bbb60fb83e550f844590108583ce50d9c8289a41a8b946a53c3435da4da20a1b53804ebddbe201bdf7ecf1e5884ae2f4642f76b85aedf43d0083e2b3b1a5407f18ea8d093ee133d805763e3defae481c099f92aea8215432a4dba36c8ac1f2ff2737274bf63be79fd36c97a457c62056f23f77ee2c42c0f76153c01503f7507211ae53ec241f13848fec863f8b827fe1229bc99c4d0ab331e813ac09ab376d628948cec94d6f2e57305043cdf12e445a94bd01e02174d000f1f86c84f303193a00123e93\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":672972,\"status\":0,\"min_order\":0,\"category_id\":0,\"remaining_stock\":0,\"category_breadcrumb\":\"\",\"variant\":null,\"wishlist\":false,\"free_ongkir\":{\"is_active\":false,\"image_url\":\"\"},\"rating\":{}}}",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": "https://www.tokopedia.com/mukena-tazkia/mukena-tazbiya-mandalika-flower-navy"
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgId": 1194317150,
+                                    "replyId": "10025284600",
+                                    "senderId": 5435148,
+                                    "senderName": "Tazkia",
+                                    "role": "Shop Owner",
+                                    "msg": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://chat.tokopedia.com/tc/v1/redirect/0d0e835cfaab7c284ccbdec1e5ad458fbe56545f1a3b88bda77976a053c8d27cf4743294365eb9dae4e50d6a4ef5fcecccf595c6cc9a0d634efa78174d246eeb4c9568b08194ef928b9cb02089f005419825e466f3851235508e26b08e7b1c6c41df5f408fc5716e522aab61aa780a2fe37bf9e26cbc4e7199082922fb1d9c219f7776c0a34d5b5e5743521e0482158786970d2e048a6733f55777da5e608f09bcb66e08e5beacc2e4edcfc46b980ca7d13cf89dd7cb642319d25b36e45ab6e05f010d0159bc4d97f6f8ef96dd63b5e1ff7dc6f336a88518c9cf18b020a35539b9a8b64c047263a1af1f5b78605eb345070f79c463bfcd9e9860a525dff4d14d0ce53213d0f7c844d44f6092ce492e02573065a2f99ad0d0c61d18fe7fda6c3de6831f058eae39d5f2daf264e0561dc842e7d8398413b7b13e55f6f699650172abb398e97aca1ff274f74d7a91129368d2621005fa199f7084b219118d0269454eacb250e8e71ca2a4ca1ca16e4ee91588f1a11fd00ac6e888cbb4198d49e8ec6dda90437818ba009bb4181e7a58d3ca87cdf6684bb88ff1de8e9465d4b3b00b6661969e4150152eeb6f73342bcd124584661ad834ba3de7b9815988971b8aa94d27d59e3c6248eb0fc2da9d961159d212ddf92adfd9634f88977cdd17bae4758064be4c7e2ac871815187e881317d4f902371406c4c1a4efcf92bedaf4230d15a4c1fdafc0686de92ae7a1dac1002fbf59723a70a5ea7e20933a23c23bc19a3f9d438ea4de184955021d8459fcd0628a054c98cbdb704b86cbfe09556e2b57001f88a88c2be8bbd8f3b3586ddcfc1b81f1ac357a52b9b63ab9384d48837f50cc16420e66e680e91dfb7d66dd23695310ca1abb8ca286b65278cdae9c5518886f584c9fcf7df10ff3fc5400aef7e428b59cdb84de1ad4c45b857ce84798cac6acd1cc15fde568d31d09ed24f73148c3e500694b03fb78223739f9edee9d4b4bcf64e13843db8887e4f851414664534a8409859d604975e920f61f9dc5a2a30bbfeec788fbbc8bd6b578e1b55c8bea1c068e68e8faef46d5fb15af2c9634599d6e3bd0cd446dc930b4de0cf5dae93375ad6e3bf5d0f1ad636dcc1582629e66d56ec894ae630eae637523b639b62c280d6188d91ec615adc9d525b1b1cdb0c045ac22c54eb8eb21b46db0f2277aeb4a5fc8007f98dae25c7cf\">https://chat.tokopedia.com/tc/v1/redirect/3dadabdde3fa2ef4f754bf24579445a0017f21ea8c262871cec16172c60283b70ebe6b6b0ef9c6282f53e4a31e18da57d3a696bb732d2813aebfceb5ad9bb0ed0a8b212aa795d86de2cd0cf0301d2bd11c0c228fd6eb24cf902220abd34f07b8aa639dbc4156cadd227760196fdd92b9cf051de54eb2339708324e0f4f15b53f5be0661464951dcdf26ba8ccc8f81092895d121deca0f08802763ec4937f71bd17239d11aa71620c00757472360faf2e0aa6a235d1393a8f3822ecc3a7114ee710a259332bc91f34cc384e2944cfb76aa3899cfa9286a3140f15d1adff3ecb8bcbba9ff9</a>",
+                                    "replyTime": "1599819500921136000",
+                                    "status": 1,
+                                    "attachmentID": 548168740,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 256857,
+                                    "source": "blast_seller",
+                                    "attachment": {
+                                        "id": 548168740,
+                                        "type": 3,
+                                        "attributes": "{\"product_id\":897442548,\"product_profile\":{\"name\":\"Mukena Tazbiya LIttle Clover Cream (Mukena Rayon Premium Dewasa)\",\"price\":\"Rp 174.000\",\"price_int\":0,\"image_url\":\"https://ecs7.tokopedia.net/img/cache/200-square/attachment/2020/8/14/66236640/66236640_edb0e180-a2d3-42fb-a025-c40c6f3828a8.jpg\",\"url\":\"https://chat.tokopedia.com/tc/v1/redirect/3dadabdde3fa2ef4f754bf24579445a0017f21ea8c262871cec16172c60283b70ebe6b6b0ef9c6282f53e4a31e18da57d3a696bb732d2813aebfceb5ad9bb0ed0a8b212aa795d86de2cd0cf0301d2bd11c0c228fd6eb24cf902220abd34f07b8aa639dbc4156cadd227760196fdd92b9cf051de54eb2339708324e0f4f15b53f5be0661464951dcdf26ba8ccc8f81092895d121deca0f08802763ec4937f71bd17239d11aa71620c00757472360faf2e0aa6a235d1393a8f3822ecc3a7114ee710a259332bc91f34cc384e2944cfb76aa3899cfa9286a3140f15d1adff3ecb8bcbba9ff9\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":672972,\"status\":0,\"min_order\":0,\"category_id\":0,\"remaining_stock\":0,\"category_breadcrumb\":\"\",\"variant\":null,\"wishlist\":false,\"free_ongkir\":{\"is_active\":false,\"image_url\":\"\"},\"rating\":{}}}",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": "https://www.tokopedia.com/mukena-tazkia/mukena-tazbiya-little-clover-cream-mukena-rayon-premium-dewasa"
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgId": 1194317150,
+                                    "replyId": "10025284601",
+                                    "senderId": 5435148,
+                                    "senderName": "Tazkia",
+                                    "role": "Shop Owner",
+                                    "msg": "Hai Elly Mukena Tazbiya Official Store ada banyak koleksi mukena model kekinian, lho! Nggak cuma itu, nikmati Spesial Diskon hingga 25% yang bisa kamu dapatkan. Tunggu apalagi? Cek sekarang yuk!",
+                                    "replyTime": "1599819500922136000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 256857,
+                                    "source": "blast_seller",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgId": 1194317150,
+                                    "replyId": "10025284601",
+                                    "senderId": 5435148,
+                                    "senderName": "Tazkia",
+                                    "role": "Shop Owner",
+                                    "msg": "123 Hai Elly Mukena Tazbiya Official Store ada banyak koleksi mukena model kekinian, lho! Nggak cuma itu, nikmati Spesial Diskon hingga 25% yang bisa kamu dapatkan. Tunggu apalagi? Cek sekarang yuk!",
+                                    "fraudStatus": 1,
+                                    "replyTime": "1599819500922136000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 256157,
+                                    "source": "blast_seller",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgId": 1194317150,
+                                    "replyId": "10025284601",
+                                    "senderId": 5435148,
+                                    "senderName": "Tazkia",
+                                    "role": "Shop Owner",
+                                    "msg": "123 Hai Elly Mukena Tazbiya Official Store ada banyak koleksi mukena model kekinian, lho! Nggak cuma itu, nikmati Spesial Diskon hingga 25% yang bisa kamu dapatkan. Tunggu apalagi? Cek sekarang yuk!",
+                                    "fraudStatus": 0,
+                                    "replyTime": "1599819500922136000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": true,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 356257,
+                                    "source": "blast_seller",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                },
+                                {
+                                    "msgId": 1194317150,
+                                    "replyId": "10025284601",
+                                    "senderId": 5435148,
+                                    "senderName": "Tazkia",
+                                    "role": "Shop Owner",
+                                    "msg": "123 Hai Elly Mukena Tazbiya Official Store ada banyak koleksi mukena model kekinian, lho! Nggak cuma itu, nikmati Spesial Diskon hingga 25% yang bisa kamu dapatkan. Tunggu apalagi? Cek sekarang yuk!",
+                                    "fraudStatus": 0,
+                                    "replyTime": "1599819500922136000",
+                                    "status": 1,
+                                    "attachmentID": 0,
+                                    "isOpposite": false,
+                                    "isHighlight": false,
+                                    "isRead": true,
+                                    "blastId": 256257,
+                                    "source": "blast_seller",
+                                    "attachment": {
+                                        "id": 0,
+                                        "type": 0,
+                                        "attributes": "",
+                                        "fallback": {
+                                            "message": "",
+                                            "html": ""
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

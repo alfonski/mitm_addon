@@ -1,0 +1,307 @@
+[
+  {
+    "data": {
+      "status": "OK",
+      "chatReplies": {
+        "minReplyTime": "1589369864524",
+        "block": {
+          "blockedUntil": "",
+          "isBlocked": false,
+          "isPromoBlocked": false
+        },
+        "hasNext": false,
+        "textareaReply": 1,
+        "contacts": [
+          {
+            "role": "User",
+            "userId": 2684597,
+            "shopId": 5238789,
+            "interlocutor": false,
+            "name": "Mochamad",
+            "tag": "Pengguna",
+            "thumbnail": "https://accounts.tokopedia.com/image/v1/u/2684597/user_thumbnail/desktop",
+            "domain": "",
+            "isOfficial": false,
+            "isGold": false,
+            "badge": "",
+            "status": {
+              "timestamp": 0,
+              "timestampStr": "",
+              "isOnline": false
+            }
+          },
+          {
+            "role": "Shop Owner",
+            "userId": 47807457,
+            "shopId": 5238789,
+            "interlocutor": true,
+            "name": "legowati 123 &amp; wati",
+            "tag": "Penjual",
+            "thumbnail": "https://imagerouter.tokopedia.com/image/v1/s/5238789/shop_xs_thumbnail/desktop",
+            "domain": "legowati",
+            "isOfficial": false,
+            "isGold": false,
+            "badge": "",
+            "status": {
+              "timestamp": 1589372790,
+              "timestampStr": "1589372790",
+              "isOnline": false
+            }
+          }
+        ],
+        "list": [
+          {
+            "date": "13 May 2020",
+            "chats": [
+              {
+                "time": "18:37",
+                "replies": [
+                  {
+                    "msgId": 995725418,
+                    "replyId": "7486602104",
+                    "senderId": 47807457,
+                    "senderName": "roro",
+                    "role": "Shop Owner",
+                    "msg": "legowati lagi ada promo bebas ongkir hingga Rp 40.000 loh! Dengan min transaksi Rp 50.000 melalui semua metode pembayaran, kamu dapat menikmati bebas ongkir sebanyak 5x transaksi dalam sehari. Tunggu apa lagi? Yuk belanja sekarang!",
+                    "replyTime": "1589369864524407000",
+                    "status": 1,
+                    "attachmentID": 373860674,
+                    "isOpposite": true,
+                    "isHighlight": false,
+                    "isRead": true,
+                    "blastId": 106313,
+                    "attachment": {
+                      "id": 373860674,
+                      "type": 1,
+                      "attributes": "{\"url\":\"https://chat.tokopedia.com/tc/v1/redirect/6cb7932de8fccd71f29e77fd9b9e785d2c7ae3c42e0bc32f44cd0f38bad6861b138eab532e7b32934f35832b8877a1d44b2bfba87fa9d9fcbec6948cb8260a7c54aba8c080cbab3566e54f7e0164f6f29cadf887db49406eb0d04aa703079357b63da803dc2fbb718e2248854802cc24430c89c6b71b64fe853561cbf04d58a461896b992b3ec6c4fc8373498490642315719f306c9e346950c9e2497bb3899bdf88584bf03e401f340a930a3b1e349b15117d500e6412b55dc6034e912de9b8c8bdbd5fb9c71afbf636f3ce67189e443922ee785652f702cbf16aa9\",\"image_url\":\"https://ecs7.tokopedia.net/img/cache/700/attachment/2020/2/26/7986504/7986504_5ec8bc6f-8b89-4372-a885-8a7044a9c380.jpg\"}",
+                      "fallback": {
+                        "message": "Tokopedia mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.18 untuk melihat gambar.",
+                        "html": "\u003cdiv\u003eTokopedia mengirimkan gambar. Mohon cek PlayStore secara berkala dan update aplikasi Tokopedia minimum versi 2.18 untuk melihat gambar.\u003c/div\u003e"
+                      }
+                    }
+                  },
+                  {
+                    "msgId": 995725418,
+                    "replyId": "7486602106",
+                    "senderId": 47807457,
+                    "senderName": "roro",
+                    "role": "Shop Owner",
+                    "msg": "legowati lagi ada promo bebas ongkir hingga Rp 40.000 loh! Dengan min transaksi Rp 50.000 melalui semua metode pembayaran, kamu dapat menikmati bebas ongkir sebanyak 5x transaksi dalam sehari. Tunggu apa lagi? Yuk belanja sekarang!",
+                    "replyTime": "1589369864532444000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": true,
+                    "isHighlight": false,
+                    "isRead": true,
+                    "blastId": 106313,
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"product_id\":626073581,\"product_profile\":{\"name\":\"Hiasan Natal\",\"price\":\"Rp 1.500\",\"price_int\":0,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/12/9/47676617/47676617_3f9cdb38-9e34-4ca0-a190-504d85ec57e0_626_626\",\"url\":\"https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739\\u0026whid=0\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":0,\"status\":0,\"min_order\":0,\"category_id\":0,\"remaining_stock\":0,\"category_breadcrumb\":\"\",\"variant\":[],\"wishlist\":false,\"free_ongkir\":{\"is_active\":false,\"image_url\":\"\"}}}",
+                      "fallback": {
+                        "html": "Halo, barang ini ready. Silakan diorder yaaa",
+                        "message": ""
+                      },
+                      "id": 394405310,
+                      "type": 3
+                    },
+                    "attachmentID": 394405310,
+                    "blastId": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739&whid=0",
+                    "msgId": 906549054,
+                    "replyId": "7764898714",
+                    "replyTime": "1590658569978973000",
+                    "role": "User",
+                    "senderId": 7977933,
+                    "senderName": "Jk",
+                    "status": 1
+                  },
+                  {
+                    "msgId": 995725418,
+                    "replyId": "7486602108",
+                    "senderId": 47807457,
+                    "senderName": "roro",
+                    "role": "Shop Owner",
+                    "msg": "Response modified",
+                    "replyTime": "1589369864532444000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": true,
+                    "blastId": 106313,
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"product_id\":626073581,\"product_profile\":{\"name\":\"Hiasan Natal\",\"price\":\"Rp 1.500\",\"price_int\":0,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/12/9/47676617/47676617_3f9cdb38-9e34-4ca0-a190-504d85ec57e0_626_626\",\"url\":\"https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739\\u0026whid=0\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":0,\"status\":0,\"min_order\":0,\"category_id\":0,\"remaining_stock\":0,\"category_breadcrumb\":\"\",\"variant\":[],\"wishlist\":false,\"free_ongkir\":{\"is_active\":false,\"image_url\":\"\"}}}",
+                      "fallback": {
+                        "html": "Halo, barang ini ready. Silakan diorder yaaa",
+                        "message": ""
+                      },
+                      "id": 394405310,
+                      "type": 3
+                    },
+                    "attachmentID": 394405310,
+                    "blastId": 0,
+                    "isHighlight": false,
+                    "isOpposite": true,
+                    "isRead": false,
+                    "msg": "https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739&whid=0",
+                    "msgId": 906549054,
+                    "replyId": "7764898714",
+                    "replyTime": "1590658569978973000",
+                    "role": "User",
+                    "senderId": 7977933,
+                    "senderName": "Jk",
+                    "status": 1
+                  },
+                  {
+                    "msgId": 995725418,
+                    "replyId": "7486602108",
+                    "senderId": 47807457,
+                    "senderName": "roro",
+                    "role": "Shop Owner",
+                    "msg": "Response modified",
+                    "replyTime": "1589369864532444000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": true,
+                    "isHighlight": false,
+                    "isRead": true,
+                    "blastId": 106313,
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"product_id\":626073581,\"product_profile\":{\"name\":\"Hiasan Natal\",\"price\":\"Rp 1.500\",\"price_int\":0,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/12/9/47676617/47676617_3f9cdb38-9e34-4ca0-a190-504d85ec57e0_626_626\",\"url\":\"https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739\\u0026whid=0\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":0,\"status\":0,\"min_order\":0,\"category_id\":0,\"remaining_stock\":0,\"category_breadcrumb\":\"\",\"variant\":[],\"wishlist\":false,\"free_ongkir\":{\"is_active\":false,\"image_url\":\"\"}}}",
+                      "fallback": {
+                        "html": "Halo, barang ini ready. Silakan diorder yaaa",
+                        "message": ""
+                      },
+                      "id": 394405310,
+                      "type": 3
+                    },
+                    "attachmentID": 394405310,
+                    "blastId": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739&whid=0",
+                    "msgId": 906549054,
+                    "replyId": "7764898714",
+                    "replyTime": "1590658569978973000",
+                    "role": "User",
+                    "senderId": 7977933,
+                    "senderName": "Jk",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"product_id\":626073581,\"product_profile\":{\"name\":\"Hiasan Natal\",\"price\":\"Rp 1.500\",\"price_int\":0,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/12/9/47676617/47676617_3f9cdb38-9e34-4ca0-a190-504d85ec57e0_626_626\",\"url\":\"https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739\\u0026whid=0\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":0,\"status\":0,\"min_order\":0,\"category_id\":0,\"remaining_stock\":0,\"category_breadcrumb\":\"\",\"variant\":[],\"wishlist\":false,\"free_ongkir\":{\"is_active\":false,\"image_url\":\"\"}}}",
+                      "fallback": {
+                        "html": "Halo, barang ini ready. Silakan diorder yaaa",
+                        "message": ""
+                      },
+                      "id": 394405310,
+                      "type": 3
+                    },
+                    "attachmentID": 394405310,
+                    "blastId": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739&whid=0",
+                    "msgId": 906549054,
+                    "replyId": "7764898714",
+                    "replyTime": "1590658569978973000",
+                    "role": "User",
+                    "senderId": 7977933,
+                    "senderName": "Jk",
+                    "status": 1
+                  },
+                  {
+                    "attachment": {
+                      "attributes": "{\"product_id\":626073581,\"product_profile\":{\"name\":\"Hiasan Natal\",\"price\":\"Rp 1.500\",\"price_int\":0,\"image_url\":\"https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/12/9/47676617/47676617_3f9cdb38-9e34-4ca0-a190-504d85ec57e0_626_626\",\"url\":\"https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739\\u0026whid=0\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":0,\"status\":0,\"min_order\":0,\"category_id\":0,\"remaining_stock\":0,\"category_breadcrumb\":\"\",\"variant\":[],\"wishlist\":false,\"free_ongkir\":{\"is_active\":false,\"image_url\":\"\"}}}",
+                      "fallback": {
+                        "html": "Halo, barang ini ready. Silakan diorder yaaa",
+                        "message": ""
+                      },
+                      "id": 394405310,
+                      "type": 3
+                    },
+                    "attachmentID": 394405310,
+                    "blastId": 0,
+                    "isHighlight": false,
+                    "isOpposite": false,
+                    "isRead": false,
+                    "msg": "https://www.tokopedia.com/veloveloshop/hiasan-natal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dattach-product_page%3D1_ob%3D32_q%3D_po%3D3_catid%3D3739&whid=0",
+                    "msgId": 906549054,
+                    "replyId": "7764898714",
+                    "replyTime": "1590658569978973000",
+                    "role": "User",
+                    "senderId": 7977933,
+                    "senderName": "Jk",
+                    "status": 1
+                  },
+                  {
+                    "msgId": 995725418,
+                    "replyId": "7486602108",
+                    "senderId": 47807457,
+                    "senderName": "roro",
+                    "role": "Shop Owner",
+                    "msg": "Modified carousel",
+                    "replyTime": "1589369864532444000",
+                    "status": 1,
+                    "attachmentID": 0,
+                    "isOpposite": false,
+                    "isHighlight": false,
+                    "isRead": true,
+                    "blastId": 106313,
+                    "attachment": {
+                      "id": 0,
+                      "type": 0,
+                      "attributes": "",
+                      "fallback": {
+                        "message": "",
+                        "html": ""
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

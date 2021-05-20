@@ -1,0 +1,18 @@
+{
+    "data": {
+        "chatAttachments": {
+            "list": [
+                {
+                    "id": 903104735,
+                    "type": 3,
+                    "attributes" : "{\"product_id\":1317643904,\"product_profile\":{\"name\":\"NOMOR CANTIK INDOSAT (100 DIGIT) 0816 999 XXX\",\"price\":\"Rp 400.000\",\"price_int\":400000,\"price_before_int\":0,\"discounted_percentage\":0,\"is_campaign_active\":false,\"image_url\":\"https://ecs7.tokopedia.net/img/cache/200-square/product-1/2017/1/14/7555929/7555929_c6b64966-850d-406d-8c90-803d6c93c0ef_540_720.jpg\",\"category_breadcrumb\":\"\",\"url\":\"https://www.tokopedia.com/requestnomor/nomor-cantik-indosat-10-digit-0816-999-xxx-1\",\"playstore_product_data\":{},\"price_before\":\"\",\"drop_percentage\":\"\",\"shop_id\":901993,\"status\":1,\"min_order\":1,\"category_id\":65,\"remaining_stock\":999984,\"category_breadcrumb\":\"\",\"variant\":[],\"free_ongkir\":{\"is_active\":false,\"image_url\":\"https://ecs7.tokopedia.net/img/ic_bebas_ongkir.png\"},\"rating\":{\"rating\":5,\"rating_score\":5,\"count\":43},\"icon_tokocabang\":\"\"}}",
+                    "fallback": {
+                        "message": "You Receive New Attachment Please Open it on new Version App",
+                        "html": "<div>You Receive New Attachment Please Open it on new Version App</div>"
+                    },
+                    "isActual": true
+                }
+            ]
+        }
+    }
+}

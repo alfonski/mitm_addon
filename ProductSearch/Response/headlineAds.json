@@ -1,0 +1,360 @@
+{
+    "data": {
+        "headlineAds": {
+            "data": [
+                {
+                    "ad_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEHpjdHsUhosKDUMVj9RzNrc1i6sHDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhoArF6AHfbm-0g9BRQR-j9fBjUsthHsyOoAndHiFiy3zwrfo5rM1i6sHFoZdRHpnfHpKpHpjNHpn7bm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBkz9uve7BpZ37OPM-W_Mh-qMY2_s-3Qu2Je_CqqjO73uPVouB_HACozVjF_VztQ1NWZ9zvzVjp_uzCP7NE39x68BjOZ3BRq3UpZSCqHMhO3A-ZQcoc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMoUZSgqZVgkgJyNrV2AZ_g-qjV2_JoGPMoWQcNxupuMyp-tPMoc69Cqe7jfZ32Cq1hAZSxjuOgNguyNHVB9gI2-qMY2Z3BRq3Ha_SgsQugM33NGPMep_Mh-qMY2_1o-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-H1NNoIPoqjBE_92uo1O1ypuozcP2gBJYvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstiqRzwg9xxyReibm-XP3Oig9-wQfgwy3zpUstpbm-XP3Oig9-wy3zp9R-BrZUEHaFiQBYsy3Njq3zxPcuwy3zpUst7bm-xyBY7g9o7Usti_iUDUSgBrSo2Qfdi6i-fHi-Y?uid=148201400&keywords=a&template_id_used=3&src=search&cpm_template_req=3%2C4%2C5&click_ad_type=1&r=https%3A%2F%2Fwww.tokopedia.com%2Fbintangterangacc&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&is_search=1&page=1&keyword_correction=a&ob=23",
+                    "ad_ref_key": "39822168",
+                    "applinks": "tokopedia://shop/913087",
+                    "headline": {
+                        "badges": [
+                            {
+                                "image_url": "https://ecs7-p.tokopedia.net/ta/icon/badge/PM-Badge-80.png",
+                                "show": true,
+                                "title": "Power Merchant"
+                            }
+                        ],
+                        "button_text": "Jangan Cek",
+                        "description": "Menjual accessories GoTo original.",
+                        "image": {
+                            "full_ecs": "https://ecs7-p.tokopedia.net/img/cache/100-square/shops-1/2019/1/21/913087/913087_b9b7d80d-bce1-4634-8ad6-08e69b5e8ec6",
+                            "full_url": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sHN6AUaH_ydbm-xgVY789CBUstpbm-FQRo2PcB5QiUEHZFiPcBWgZUEH_yaH_eRHAKpoiFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4hHAnWrRVOy9-BbRotQRCpb_J5Hsnh6Z4hbpUhbpjhHpndoa4NH_HF6APwysBiofedHceWyMoBHZ77osH7b_xxgAyWHAxBosBio31dg3HfUiFiyRCWUstaHmFiqfuNPfYagVY2gmUEH_Ufo_eF6AUDUMVj9RosQR-BUstpHA1XopHFosHdHpHN6_HFomFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z9P-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjuO_7o-r7BWo9giQ1NDZ325q1dauMOqzJJF3M2oPVB9z_ug1pnF_1zgHJh1qcO6Q1B7_7zgH7O1e9P68BBd_S2go1B2PfBiH72F3s-DPuKa1MhszsBF3jo-ojBke3BHe72fyfODQMV9o3gsZJ2f3jx3qMzc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMHaqIgszsBF3jo-ojBke3BHe72dgVP383u36_CgufzEZ325q1B2PfBsHjNfyfO3gBBXZSgjH7NDZ325q1OAZ9o-QjNkysoGQVKp_Mhg3J2ky1o-ojBkZ_V68_zR_32-8jOEu_uoucHO_1zSq3gzv_7ibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUMW79fudy3o7UiFiQSuWyMua9fYM9fVjraUEHaFiQSuWyMua9fVjrOYag9Ji6sHDUMNwyfVXgcBjy9zB9fVjraUEomFiy3-wPcupPmUEUjdibm-fg9-pq3YXUstiPsUibm-ag9Vwqcuxgch2QMuwrI-5gIusPVYsQRuXPmUEHaFiPMBBPfuj9RCaQfzOyRzwq3zpUs2QoAyOoAjdH_HhbAUNosyNHsUN6mF76AURoAHaHsgPwe?src=search&keywords=a&page=1&template_id_used=3&ob=23&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&uid=148201400&is_search=1&cpm_template_req=3%2C4%2C5&keyword_correction=a"
+                        },
+                        "layout": 1,
+                        "name": "Bintang terang acc",
+                        "position": 1,
+                        "shop": {
+                            "city": "Kota Administrasi Jakarta Selatan",
+                            "gold_shop": true,
+                            "id": "913087",
+                            "location": "Kota Administrasi Jakarta Selatan",
+                            "merchant_vouchers": [],
+                            "name": "GoTo Merchandise Shop",
+                            "product": [
+                                {
+                                    "applinks": "tokopedia://product/465498131",
+                                    "campaign": {
+                                        "discount_percentage": 0,
+                                        "original_price": ""
+                                    },
+                                    "count_review_format": "8",
+                                    "id": "465498131",
+                                    "image_product": {
+                                        "image_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEHpjdHsUhosKDUMVj9RzNrc1i6sHDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhoArF6AHfbm-0g9BRQR-j9fBjUsthHsyOoAndHiFiy3zwrfo5rM1i6sHFoZdRHpnfHpKpHpjNHpn7bm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBkz9uve7BpZ37OPM-W_Mh-qMY2_s-3Qu2Je_CqqjO73uPVouB_HACozVjF_VztQ1NWZ9zvzVjp_uzCP7NE39x68BjOZ3BRq3UpZSCqHMhO3A-ZQcoc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMoUZSgqZVgkgJyNrV2AZ_g-qjV2_JoGPMoWQcNxupuMyp-tPMoc69Cqe7jfZ32Cq1hAZSxjuOgNguyNHVB9gI2-qMY2Z3BRq3Ha_SgsQugM33NGPMep_Mh-qMY2_1o-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-H1NNoIPoqjBE_92uo1O1ypuozcP2gBJYvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstiqRzwg9xxyReibm-XP3Oig9-wQfgwy3zpUstpbm-XP3Oig9-wy3zp9R-BrZUEHaFiQBYsy3Njq3zxPcuwy3zpUst7bm-xyBY7g9o7Usti_iUDUSgBrSo2Qfdi6i-fHi-Y?cpm_template_req=3%2C4%2C5&uid=148201400&page=1&click_ad_type=2&product_id=465498131&r=https%3A%2F%2Fwww.tokopedia.com%2Fbintangterangacc%2Fprotective-standing-cover-samsung-galaxy-s10-plus-original&src=search&is_search=1&template_id_used=3&ob=23&t=ios&keyword_correction=a&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&keywords=a",
+                                        "image_url": "https://ecs7-p.tokopedia.net/img/cache/200-square/attachment/2019/5/6/155713586244329/155713586244329_0e4abc47-9fc0-4edb-a238-7c59544d733b.png",
+                                        "product_id": "465498131",
+                                        "product_name": "Protective Standing Cover Samsung Galaxy S10 Plus Original"
+                                    },
+                                    "label_group": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 16",
+                                            "type": "textDarkGrey"
+                                        }
+                                    ],
+                                    "name": "Protective Standing Cover Samsung Galaxy S10 Plus Original",
+                                    "price_format": "Rp 450.000",
+                                    "rating_average": "5.0"
+                                },
+                                {
+                                    "applinks": "tokopedia://product/296692298",
+                                    "campaign": {
+                                        "discount_percentage": 0,
+                                        "original_price": ""
+                                    },
+                                    "count_review_format": "271",
+                                    "id": "296692298",
+                                    "image_product": {
+                                        "image_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEHpjdHsUhosKDUMVj9RzNrc1i6sHDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhoArF6AHfbm-0g9BRQR-j9fBjUsthHsyOoAndHiFiy3zwrfo5rM1i6sHFoZdRHpnfHpKpHpjNHpn7bm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBkz9uve7BpZ37OPM-W_Mh-qMY2_s-3Qu2Je_CqqjO73uPVouB_HACozVjF_VztQ1NWZ9zvzVjp_uzCP7NE39x68BjOZ3BRq3UpZSCqHMhO3A-ZQcoc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMoUZSgqZVgkgJyNrV2AZ_g-qjV2_JoGPMoWQcNxupuMyp-tPMoc69Cqe7jfZ32Cq1hAZSxjuOgNguyNHVB9gI2-qMY2Z3BRq3Ha_SgsQugM33NGPMep_Mh-qMY2_1o-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-H1NNoIPoqjBE_92uo1O1ypuozcP2gBJYvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstiqRzwg9xxyReibm-XP3Oig9-wQfgwy3zpUstpbm-XP3Oig9-wy3zp9R-BrZUEHaFiQBYsy3Njq3zxPcuwy3zpUst7bm-xyBY7g9o7Usti_iUDUSgBrSo2Qfdi6i-fHi-Y?t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&uid=148201400&keyword_correction=a&click_ad_type=2&r=https%3A%2F%2Fwww.tokopedia.com%2Fbintangterangacc%2Fconverter-or-jack-headset-lightning-iphone-7-original&is_search=1&src=search&keywords=a&page=1&cpm_template_req=3%2C4%2C5&template_id_used=3&product_id=296692298&ob=23",
+                                        "image_url": "https://ecs7-p.tokopedia.net/img/cache/200-square/attachment/2018/6/5/152818747936515/152818747936515_d55b5aef-8d44-4a2d-b3a8-adf66f8c1e75.png",
+                                        "product_id": "296692298",
+                                        "product_name": "Converter Or Jack Headset Lightning Iphone 7 Original"
+                                    },
+                                    "label_group": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 567",
+                                            "type": "textDarkGrey"
+                                        }
+                                    ],
+                                    "name": "Converter Or Jack Headset Lightning Iphone 7 Original",
+                                    "price_format": "Rp 125.000",
+                                    "rating_average": "4.9"
+                                },
+                                {
+                                    "applinks": "tokopedia://product/482743226",
+                                    "campaign": {
+                                        "discount_percentage": 0,
+                                        "original_price": ""
+                                    },
+                                    "count_review_format": "8",
+                                    "id": "482743226",
+                                    "image_product": {
+                                        "image_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEHpjdHsUhosKDUMVj9RzNrc1i6sHDUSC5rfB7q3YXUsthbm-7q3OBUsthosUhoArF6AHfbm-0g9BRQR-j9fBjUsthHsyOoAndHiFiy3zwrfo5rM1i6sHFoZdRHpnfHpKpHpjNHpn7bm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBkz9uve7BpZ37OPM-W_Mh-qMY2_s-3Qu2Je_CqqjO73uPVouB_HACozVjF_VztQ1NWZ9zvzVjp_uzCP7NE39x68BjOZ3BRq3UpZSCqHMhO3A-ZQcoc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMoUZSgqZVgkgJyNrV2AZ_g-qjV2_JoGPMoWQcNxupuMyp-tPMoc69Cqe7jfZ32Cq1hAZSxjuOgNguyNHVB9gI2-qMY2Z3BRq3Ha_SgsQugM33NGPMep_Mh-qMY2_1o-r7BX_M2iH72D3Ao6QVByZM2xe7jfZ32-H1NNoIPoqjBE_92uo1O1ypuozcP2gBJYvZUDUSupg9-wq3ei6iUhoAKaHAJ7HAnibm-pg9opq3YX9fBjUstieprazAoVHAyW6_KhHi77HjzAb1JfzJJWe7URHj1Re_JFejUFUiFiy3hSUstiqRzwg9xxyReibm-XP3Oig9-wQfgwy3zpUstpbm-XP3Oig9-wy3zp9R-BrZUEHaFiQBYsy3Njq3zxPcuwy3zpUst7bm-xyBY7g9o7Usti_iUDUSgBrSo2Qfdi6i-fHi-Y?r=https%3A%2F%2Fwww.tokopedia.com%2Fbintangterangacc%2Fbook-cover-keyboard-samsung-galaxy-tab-s5e-original&page=1&keyword_correction=a&product_id=482743226&src=search&is_search=1&click_ad_type=2&ob=23&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&uid=148201400&cpm_template_req=3%2C4%2C5&keywords=a&template_id_used=3",
+                                        "image_url": "https://ecs7-p.tokopedia.net/img/cache/200-square/attachment/2019/5/28/155904153214722/155904153214722_98312c10-5ae9-43ba-a2a0-2ca28d798410.png",
+                                        "product_id": "482743226",
+                                        "product_name": "Book Cover Keyboard Samsung Galaxy Tab S5e Original"
+                                    },
+                                    "label_group": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 18",
+                                            "type": "textDarkGrey"
+                                        }
+                                    ],
+                                    "name": "Book Cover Keyboard Samsung Galaxy Tab S5e Original",
+                                    "price_format": "Rp 1.550.000",
+                                    "rating_average": "5.0"
+                                }
+                            ],
+                            "shop_is_official": false,
+                            "slogan": "Menjual accessories hp original."
+                        },
+                        "template_id": "3"
+                    },
+                    "id": "39822168",
+                    "redirect": "https://www.tokopedia.com/bintangterangacc"
+                },
+                {
+                    "ad_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEo_JNHAHNHArDUMVj9RzNrc1i6sHDUSC5rfB7q3YXUstabm-7q3OBUsthosUhoArF6AHfbm-0g9BRQR-j9fBjUsthHsHaosn7HZFiy3zwrfo5rM1i6sHFoZdRHpnfHpKpHpjNHpn7bm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBkz9u6zVuR_1zCP7OJe9PozJVR_1zCP7O2Z9o-Q_ufyMO6QJBkQfB6HBgW3jzCHV2k_9zgu71O3uHFHJOJ3_CHucxW_MO-PJYJ3_oouJVR_S2g8JNE3_u-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoe7BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjh_Mj7o1OkyRBvuJBR_M2gP7Nk19P681tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-0PVYB8cVsPmUDUMNOQ3-BrBY5gBYxgIHi6sHDUMNOQ3-BrBYxgIowrMuhUstpbm-X9foxQMz2gcV7guYxgIHi6seDUMVi9RzBrRei6i-6UiFiPMuarfB5QiUEUSyaUS7?sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=search&click_ad_type=1&uid=148201400&r=https%3A%2F%2Fwww.tokopedia.com%2Firegerstore&cpm_template_req=3%2C4%2C5&ob=23&is_search=1&keywords=a&page=1&template_id_used=3&t=ios&keyword_correction=a",
+                    "ad_ref_key": "51903907",
+                    "applinks": "tokopedia://shop/2640960",
+                    "headline": {
+                        "badges": [
+                            {
+                                "image_url": "https://ecs7-p.tokopedia.net/ta/icon/badge/PM-Badge-80.png",
+                                "show": true,
+                                "title": "Power Merchant"
+                            }
+                        ],
+                        "button_text": "Jangan Cek Sekarang",
+                        "description": "Cari Kabel Charger Murah Original dan Berkualitas? Cek Disini!!",
+                        "image": {
+                            "full_ecs": "https://ecs7-p.tokopedia.net/img/cache/100-square/shops-1/2017/11/17/2640960/2640960_a2db4875-6b66-4ef4-91a0-9447e5c7a294.jpg",
+                            "full_url": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6s1h6_np6_nRbm-xgVY789CBUstpbm-FQRo2PcB5QiUEHiFiPcBWgZUEH_yaH_eRHAKpoiFircV7qmUEUMusrprWrmN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4hHAnWrRVOy9-BbRotQRCpb_J5Hsnhoa4hHZ4hoa4aoseF6_yFbpUfoAnNosCwy_-jysedop1WoMUfoi77g3y7b_jhy_nW6_e7of1OypPxHsj7bM2FgaUDUMoFQZUEH_yDUMWB89P5rMzwq3ei6sJaHpUfHAehbm-xgVYpyfYagZUEHpnObsrpHAyp6AHp6_jpHAeDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BRZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32VP1NJu9PozJVR_1zCP7OJe9PozJVR_3B-r7BWo9giQ1NDZ325q1dauMOqzJJF3M2oPVB9z_ug1pnF_1zgHJh1qcO6Q1B7_7zgH7O1e9P68BBd_S2go1B2PfBiH72F3s-DPuKa1MhszsBF3jo-ojBke3BHe72fyfODQMV9o3gsZJ2f3jx3qMzc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMHaqIgszsBF3jo-ojBke3BHe72dgVP383u36_CgufzEZ325q1B2PfBsHjNfyfO3gBBXZSgjH7NDZ325q1OAZ9o-QjNkysoGQVKp_Mhg3J2ky1o-ojBkZ_V6q_eO_32s81Y1Z9P6qBBR_M2zP7NNZsjibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUMW79fudy3o7UiFiQSuWyMua9fYM9fVjraUEHaFiQSuWyMua9fVjrOYag9Ji6sHDUMNwyfVXgcBjy9zB9fVjraUEomFiy3-wPcupPmUEUjdibm-fg9-pq3YXUstiPsUibm-ag9Vwqcuxgch2QMuwrI-5gIusPVYsQRuXPmUEHaFiPMBBPfuj9RCaQfzOyRzwq3zpUs2QopJpHsKhosJfbAeRHpeFHAyFoiFOHpJOosJNH_uPwe?uid=148201400&src=search&keywords=a&cpm_template_req=3%2C4%2C5&keyword_correction=a&ob=23&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&is_search=1&page=1&template_id_used=3"
+                        },
+                        "layout": 2,
+                        "name": "iregerstore",
+                        "position": 16,
+                        "shop": {
+                            "city": "Kota Tangerang Selatan",
+                            "gold_shop": true,
+                            "id": "2640960",
+                            "location": "Kota Tangerang Selatan",
+                            "merchant_vouchers": [],
+                            "name": "iregerstore",
+                            "product": [
+                                {
+                                    "applinks": "tokopedia://product/713281616",
+                                    "campaign": {
+                                        "discount_percentage": 0,
+                                        "original_price": ""
+                                    },
+                                    "count_review_format": "49",
+                                    "id": "713281616",
+                                    "image_product": {
+                                        "image_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEo_JNHAHNHArDUMVj9RzNrc1i6sHDUSC5rfB7q3YXUstabm-7q3OBUsthosUhoArF6AHfbm-0g9BRQR-j9fBjUsthHsHaosn7HZFiy3zwrfo5rM1i6sHFoZdRHpnfHpKpHpjNHpn7bm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBkz9u6zVuR_1zCP7OJe9PozJVR_1zCP7O2Z9o-Q_ufyMO6QJBkQfB6HBgW3jzCHV2k_9zgu71O3uHFHJOJ3_CHucxW_MO-PJYJ3_oouJVR_S2g8JNE3_u-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoe7BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjh_Mj7o1OkyRBvuJBR_M2gP7Nk19P681tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-0PVYB8cVsPmUDUMNOQ3-BrBY5gBYxgIHi6sHDUMNOQ3-BrBYxgIowrMuhUstpbm-X9foxQMz2gcV7guYxgIHi6seDUMVi9RzBrRei6i-6UiFiPMuarfB5QiUEUSyaUS7?r=https%3A%2F%2Fwww.tokopedia.com%2Firegerstore%2Faukey-cable-charger-braided-usb-a-to-usb-type-c-kabel-data-hp-tipe-c&keywords=a&keyword_correction=a&ob=23&uid=148201400&src=search&cpm_template_req=3%2C4%2C5&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&click_ad_type=2&template_id_used=3&product_id=713281616&is_search=1&page=1",
+                                        "image_url": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/2/25/23883987/23883987_2aa4b23a-5719-4ff7-926a-852165468af2_1500_1500",
+                                        "product_id": "713281616",
+                                        "product_name": "Aukey Cable Charger Braided USB A to USB type C Kabel Data HP tipe C"
+                                    },
+                                    "label_group": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 113",
+                                            "type": "textDarkGrey"
+                                        }
+                                    ],
+                                    "name": "Aukey Cable Charger Braided USB A to USB type C Kabel Data HP tipe C",
+                                    "price_format": "Rp 84.200",
+                                    "rating_average": "4.8"
+                                },
+                                {
+                                    "applinks": "tokopedia://product/473400606",
+                                    "campaign": {
+                                        "discount_percentage": 0,
+                                        "original_price": ""
+                                    },
+                                    "count_review_format": "74",
+                                    "id": "473400606",
+                                    "image_product": {
+                                        "image_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEo_JNHAHNHArDUMVj9RzNrc1i6sHDUSC5rfB7q3YXUstabm-7q3OBUsthosUhoArF6AHfbm-0g9BRQR-j9fBjUsthHsHaosn7HZFiy3zwrfo5rM1i6sHFoZdRHpnfHpKpHpjNHpn7bm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBkz9u6zVuR_1zCP7OJe9PozJVR_1zCP7O2Z9o-Q_ufyMO6QJBkQfB6HBgW3jzCHV2k_9zgu71O3uHFHJOJ3_CHucxW_MO-PJYJ3_oouJVR_S2g8JNE3_u-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoe7BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjh_Mj7o1OkyRBvuJBR_M2gP7Nk19P681tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-0PVYB8cVsPmUDUMNOQ3-BrBY5gBYxgIHi6sHDUMNOQ3-BrBYxgIowrMuhUstpbm-X9foxQMz2gcV7guYxgIHi6seDUMVi9RzBrRei6i-6UiFiPMuarfB5QiUEUSyaUS7?r=https%3A%2F%2Fwww.tokopedia.com%2Firegerstore%2Fkabel-data-baseus-usb-type-c-quick-charge-3-0-fast-cable-charger-1-m&template_id_used=3&product_id=473400606&is_search=1&cpm_template_req=3%2C4%2C5&keywords=a&click_ad_type=2&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&uid=148201400&ob=23&src=search&page=1&keyword_correction=a",
+                                        "image_url": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/5/15/23883987/23883987_ec5023d4-7bd3-4d9c-a230-283a84bd781e_491_491",
+                                        "product_id": "473400606",
+                                        "product_name": "Kabel Data BASEUS USB Type C Quick Charge 3.0 Fast cable charger 1 M"
+                                    },
+                                    "label_group": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 213",
+                                            "type": "textDarkGrey"
+                                        }
+                                    ],
+                                    "name": "Kabel Data BASEUS USB Type C Quick Charge 3.0 Fast cable charger 1 M",
+                                    "price_format": "Rp 49.200",
+                                    "rating_average": "4.9"
+                                },
+                                {
+                                    "applinks": "tokopedia://product/531561915",
+                                    "campaign": {
+                                        "discount_percentage": 0,
+                                        "original_price": ""
+                                    },
+                                    "count_review_format": "211",
+                                    "id": "531561915",
+                                    "image_product": {
+                                        "image_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEo_JNHAHNHArDUMVj9RzNrc1i6sHDUSC5rfB7q3YXUstabm-7q3OBUsthosUhoArF6AHfbm-0g9BRQR-j9fBjUsthHsHaosn7HZFiy3zwrfo5rM1i6sHFoZdRHpnfHpKpHpjNHpn7bm-pHOYDQfri6i-B812kgJxGgBBXZSgjH7NDZ325q1OAZ9o-Q1dFyfFN8B29zSBgHMP2_fB-P7B2PfBxHByOgAUN8u2c692gHsBN3Bo-ojBkz9u6zVuR_1zCP7OJe9PozJVR_1zCP7O2Z9o-Q_ufyMO6QJBkQfB6HBgW3jzCHV2k_9zgu71O3uHFHJOJ3_CHucxW_MO-PJYJ3_oouJVR_S2g8JNE3_u-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoe7BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjh_Mj7o1OkyRBvuJBR_M2gP7Nk19P681tNUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-0PVYB8cVsPmUDUMNOQ3-BrBY5gBYxgIHi6sHDUMNOQ3-BrBYxgIowrMuhUstpbm-X9foxQMz2gcV7guYxgIHi6seDUMVi9RzBrRei6i-6UiFiPMuarfB5QiUEUSyaUS7?keywords=a&click_ad_type=2&r=https%3A%2F%2Fwww.tokopedia.com%2Firegerstore%2Fkabel-data-baseus-usb-type-c-fast-charger-cable-premium-original-100cm&is_search=1&template_id_used=3&product_id=531561915&ob=23&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&uid=148201400&page=1&cpm_template_req=3%2C4%2C5&keyword_correction=a&t=ios&src=search",
+                                        "image_url": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/4/24/23883987/23883987_186982a3-3dd2-4dc3-b950-0168fe5fd975_487_492.jpg",
+                                        "product_id": "531561915",
+                                        "product_name": "KABEL DATA BASEUS USB Type C Fast CHARGER CABLE PREMIUM ORIGINAL 100cm"
+                                    },
+                                    "label_group": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 551",
+                                            "type": "textDarkGrey"
+                                        }
+                                    ],
+                                    "name": "KABEL DATA BASEUS USB Type C Fast CHARGER CABLE PREMIUM ORIGINAL 100cm",
+                                    "price_format": "Rp 49.200",
+                                    "rating_average": "4.9"
+                                }
+                            ],
+                            "shop_is_official": false,
+                            "slogan": "Cari Kabel Charger Murah Original dan Berkualitas? Cek Disini!!"
+                        },
+                        "template_id": "3"
+                    },
+                    "id": "51903907",
+                    "redirect": "https://www.tokopedia.com/iregerstore"
+                },
+                {
+                    "ad_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEH_nfopeRoseObm-xgVY789CBUstpbm-FQRo2PcB5QiUEHaFiPcBWgZUEH_yaH_eRHAKpoiFiqfuNPfYagVY2gmUEHsnpHp1R6_Ufbm-xgVYpyfYagZUEHpnObsrpHAyp6AHp6_jpHAeDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BRZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32VP1O_Z9o-Q_ufyMO6QJBkQfB6HBgW3jzCHV2k_9zgu71O3uHFHJOJ3_CHucxW_MO-PJYJ3_oouJVR_S2g8JNE3_u-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoe7BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjh_jH7H7NEu_Vo8j1O_jz0o1NJZ3BM1_7YUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-0PVYB8cVsPmUDUMNOQ3-BrBY5gBYxgIHi6sHDUMNOQ3-BrBYxgIowrMuhUstpbm-X9foxQMz2gcV7guYxgIHi6seDUMVi9RzBrRei6i-6UiFiPMuarfB5QiUEUSyaUS7?sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&keywords=a&cpm_template_req=3%2C4%2C5&src=search&page=1&click_ad_type=1&ob=23&uid=148201400&r=https%3A%2F%2Fwww.tokopedia.com%2F2red-ridelec&is_search=1&keyword_correction=a&t=ios&template_id_used=3",
+                    "ad_ref_key": "106747645",
+                    "applinks": "tokopedia://shop/2845865",
+                    "headline": {
+                        "badges": [
+                            {
+                                "image_url": "https://ecs7-p.tokopedia.net/ta/icon/badge/PM-Badge-80.png",
+                                "show": true,
+                                "title": "Power Merchant"
+                            }
+                        ],
+                        "button_text": "Jangan Cek Sekarang",
+                        "description": "Ada promo menarik untuk produk ori buatan Indonesia.",
+                        "image": {
+                            "full_ecs": "https://ecs7-p.tokopedia.net/img/cache/100-square/GAnVPX/2021/5/10/8c927045-493b-4c24-9171-5743033e21b5.png",
+                            "full_url": "https://ta.tokopedia.com/promo/v1/views/8a-2rOYDQfPwgcV7yZUEHZFiy3zwq3ei6sJFosr7opy7oZFiy3zwPIBFgZUEHaFircYpq9z2Qfdi6sHDUSz2Q31i6sJfHsJ7opndHpyDUSCxPcKi6i-ByRHRb9nXPcY0QRCBgcBxbMNBPmY2Q3r5yfVsqc15H_nFb9ohP3VagZYIe3N31VK5HsnaHZ4ObpJFbpxs6_URHAeOb_eNHfUWocHaom7NH_rhb_1RoAHFHpoBHsVioZNFQMribm-src7i6sJabm-0g9BRQR-j9fBjUstaHAHpo_rNHsyDUMVj9RosQR-BUstpHA1XopHFosHdHpHN6_HFomFirpowQcYSUstig9BGqMzUZMggQj2fgAo6QJBkQfBoe7BpZ3O6HcoD692qu7gN3_-Sq1Y2Z9P-q9P2y_-3o3ea69BqzsBE3_UN8u2_Z_g-qjuO_uo-r7BWo9giQ1NDZ325q1dauMOqzJJF3M2oPVB9z_ug1pnF_1zgHJh1qcO6Q1B7_7zgH7O1e9P68BBd_S2go1B2PfBiH72F3s-DPuKa1MhszsBF3jo-ojBke3BHe72fyfODQMV9o3gsZJ2f3jx3qMzc69Cqe7jfZ32Cq1hAZSgsQ3hXyurOgMHaqIgszsBF3jo-ojBke3BHe72dgVP383u36_CgufzEZ325q1B2PfBsHjNfyfO3gBBXZSgjH7NDZ325q1OAZ9o-QjNkysoGQVKp_Mhg3J2ky1o-ojBkZ_V6epep_S2uH1OEz_u6zcDO_jz-q3gzv_7ibm-Orfua9fBjUstiH_edHsnhoAnFUiFirfuprfB5QBY2gmUEUjHRHjepz_nfb_jdH_UWoA-JeaOCojzCb1omop-Vo7JhHJ-mHmUDUMVDgaUEUMW79fudy3o7UiFiQSuWyMua9fYM9fVjraUEHaFiQSuWyMua9fVjrOYag9Ji6sHDUMNwyfVXgcBjy9zB9fVjraUEomFiy3-wPcupPmUEUjdibm-fg9-pq3YXUstiPsUibm-ag9Vwqcuxgch2QMuwrI-5gIusPVYsQRuXPmUEHaFiPMBBPfuj9RCaQfzOyRzwq3zpUs2QH_rFosj7os1aoZF76_jdH_jOHAjDo_nFoAeFoAUN997?cpm_template_req=3%2C4%2C5&template_id_used=3&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=search&ob=23&uid=148201400&is_search=1&keywords=a&page=1&keyword_correction=a"
+                        },
+                        "layout": 2,
+                        "name": "2red",
+                        "position": 28,
+                        "shop": {
+                            "city": "Kota Administrasi Jakarta Utara",
+                            "gold_shop": true,
+                            "id": "2845865",
+                            "location": "Kota Administrasi Jakarta Utara",
+                            "merchant_vouchers": [],
+                            "name": "2red",
+                            "product": [
+                                {
+                                    "applinks": "tokopedia://product/1706946525",
+                                    "campaign": {
+                                        "discount_percentage": 0,
+                                        "original_price": ""
+                                    },
+                                    "count_review_format": "3",
+                                    "id": "1706946525",
+                                    "image_product": {
+                                        "image_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEH_nfopeRoseObm-xgVY789CBUstpbm-FQRo2PcB5QiUEHaFiPcBWgZUEH_yaH_eRHAKpoiFiqfuNPfYagVY2gmUEHsnpHp1R6_Ufbm-xgVYpyfYagZUEHpnObsrpHAyp6AHp6_jpHAeDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BRZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32VP1O_Z9o-Q_ufyMO6QJBkQfB6HBgW3jzCHV2k_9zgu71O3uHFHJOJ3_CHucxW_MO-PJYJ3_oouJVR_S2g8JNE3_u-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoe7BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjh_jH7H7NEu_Vo8j1O_jz0o1NJZ3BM1_7YUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-0PVYB8cVsPmUDUMNOQ3-BrBY5gBYxgIHi6sHDUMNOQ3-BrBYxgIowrMuhUstpbm-X9foxQMz2gcV7guYxgIHi6seDUMVi9RzBrRei6i-6UiFiPMuarfB5QiUEUSyaUS7?uid=148201400&template_id_used=3&product_id=1706946525&cpm_template_req=3%2C4%2C5&r=https%3A%2F%2Fwww.tokopedia.com%2F2red-ridelec%2Fwhitelab-brightening-face-serum-ridelec-white-lab-01&is_search=1&keyword_correction=a&ob=23&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&src=search&keywords=a&page=1&click_ad_type=2",
+                                        "image_url": "https://ecs7-p.tokopedia.net/img/cache/200-square/VqbcmM/2021/5/13/5dd52f19-a4fd-4528-a090-c9b2ef723445.jpg",
+                                        "product_id": "1706946525",
+                                        "product_name": "Whitelab Brightening Face Serum / ridelec / white lab 01"
+                                    },
+                                    "label_group": [
+                                        {
+                                            "position": "offers",
+                                            "title": "Grosir",
+                                            "type": "lightGrey"
+                                        },
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 8",
+                                            "type": "textDarkGrey"
+                                        }
+                                    ],
+                                    "name": "Whitelab Brightening Face Serum / ridelec / white lab 01",
+                                    "price_format": "Rp 75.000",
+                                    "rating_average": "5.0"
+                                },
+                                {
+                                    "applinks": "tokopedia://product/499819509",
+                                    "campaign": {
+                                        "discount_percentage": 0,
+                                        "original_price": ""
+                                    },
+                                    "count_review_format": "7",
+                                    "id": "499819509",
+                                    "image_product": {
+                                        "image_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEH_nfopeRoseObm-xgVY789CBUstpbm-FQRo2PcB5QiUEHaFiPcBWgZUEH_yaH_eRHAKpoiFiqfuNPfYagVY2gmUEHsnpHp1R6_Ufbm-xgVYpyfYagZUEHpnObsrpHAyp6AHp6_jpHAeDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BRZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32VP1O_Z9o-Q_ufyMO6QJBkQfB6HBgW3jzCHV2k_9zgu71O3uHFHJOJ3_CHucxW_MO-PJYJ3_oouJVR_S2g8JNE3_u-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoe7BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjh_jH7H7NEu_Vo8j1O_jz0o1NJZ3BM1_7YUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-0PVYB8cVsPmUDUMNOQ3-BrBY5gBYxgIHi6sHDUMNOQ3-BrBYxgIowrMuhUstpbm-X9foxQMz2gcV7guYxgIHi6seDUMVi9RzBrRei6i-6UiFiPMuarfB5QiUEUSyaUS7?t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&uid=148201400&page=1&template_id_used=3&ob=23&r=https%3A%2F%2Fwww.tokopedia.com%2F2red-ridelec%2Fhac-t1a21-cctv-kamera-2mp-dahua-indoor-murah-paket-ridelec&click_ad_type=2&product_id=499819509&keyword_correction=a&src=search&is_search=1&keywords=a&cpm_template_req=3%2C4%2C5",
+                                        "image_url": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/7/2/25989224/25989224_68cc9e2e-ed04-48fd-be01-3bc3e6c76dd8_1152_1152",
+                                        "product_id": "499819509",
+                                        "product_name": "HAC-T1A21 / CCTV / Kamera 2mp / dahua / indoor / murah / paket RIDELEC"
+                                    },
+                                    "label_group": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 64",
+                                            "type": "textDarkGrey"
+                                        }
+                                    ],
+                                    "name": "HAC-T1A21 / CCTV / Kamera 2mp / dahua / indoor / murah / paket RIDELEC",
+                                    "price_format": "Rp 180.000",
+                                    "rating_average": "5.0"
+                                },
+                                {
+                                    "applinks": "tokopedia://product/500440429",
+                                    "campaign": {
+                                        "discount_percentage": 0,
+                                        "original_price": ""
+                                    },
+                                    "count_review_format": "8",
+                                    "id": "500440429",
+                                    "image_product": {
+                                        "image_click_url": "https://ta.tokopedia.com/promo/v1/clicks/8a-xgVY2gmUEH_nfopeRoseObm-xgVY789CBUstpbm-FQRo2PcB5QiUEHaFiPcBWgZUEH_yaH_eRHAKpoiFiqfuNPfYagVY2gmUEHsnpHp1R6_Ufbm-xgVYpyfYagZUEHpnObsrpHAyp6AHp6_jpHAeDUSHp9fh5gaUEUMuNZM2jZJ2M33NGPMep_Mh-qMY2_1o-r7BW_sCsQABE3BPc8ujagfBvq1BRZ3BRq3JausujHsBN3jyN8Bja69Bq17jfZ32VP1O_Z9o-Q_ufyMO6QJBkQfB6HBgW3jzCHV2k_9zgu71O3uHFHJOJ3_CHucxW_MO-PJYJ3_oouJVR_S2g8JNE3_u-q9P2ysoGrVtaQIuyHB-Dy7yNrV2AZ_g-qjV2_JoGPMoWQcNxupuMy7xGPB2UuM2jzsBF3jo-ojBke3BHe72fyfODQMV9o3gsHMxfy7yNrV2AZ_g-qjV2_JoG8cz9uSBBusjF3uPj8jBkQfB-q9P2yp-6PMoWuMggQj2fgAo6QJBkQfBoe7BpZ3N6qMUpZMhyH7ND3uxGqMVAZ_g-qjjh_jH7H7NEu_Vo8j1O_jz0o1NJZ3BM1_7YUiFiP9oBrBY2gmUEUsJ76AUFH_eFHmUDUSoBrRo2QfNwq3ei6i-Aop-JH71Foi7N6AJab_eazJHWe_gJeZOAesraz_PCH_Cmesnibm-xQcri6i-0PVYB8cVsPmUDUMNOQ3-BrBY5gBYxgIHi6sHDUMNOQ3-BrBYxgIowrMuhUstpbm-X9foxQMz2gcV7guYxgIHi6seDUMVi9RzBrRei6i-6UiFiPMuarfB5QiUEUSyaUS7?uid=148201400&r=https%3A%2F%2Fwww.tokopedia.com%2F2red-ridelec%2Fcctv-dahua-outdoor-2mp-cooper-hac-b1a21p-ridelec-paket-rid&src=search&keywords=a&page=1&product_id=500440429&t=ios&sid=C72D3E06-9812-42DC-A6DA-CB72E7A10BB0&is_search=1&cpm_template_req=3%2C4%2C5&template_id_used=3&keyword_correction=a&click_ad_type=2&ob=23",
+                                        "image_url": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/7/2/25989224/25989224_cb91bbe5-c63e-44ed-b03e-7d12dfca08b6_1152_1152",
+                                        "product_id": "500440429",
+                                        "product_name": "cctv / dahua / outdoor / 2mp COOPER / HAC B1A21P / ridelec / paket RID"
+                                    },
+                                    "label_group": [
+                                        {
+                                            "position": "integrity",
+                                            "title": "Terjual 62",
+                                            "type": "textDarkGrey"
+                                        }
+                                    ],
+                                    "name": "cctv / dahua / outdoor / 2mp COOPER / HAC B1A21P / ridelec / paket RID",
+                                    "price_format": "Rp 175.000",
+                                    "rating_average": "5.0"
+                                }
+                            ],
+                            "shop_is_official": false,
+                            "slogan": "Ada promo menarik untuk produk ori buatan Indonesia."
+                        },
+                        "template_id": "3"
+                    },
+                    "id": "106747645",
+                    "redirect": "https://www.tokopedia.com/2red-ridelec"
+                }
+            ],
+            "header": {
+                "process_time": 0.02141696,
+                "total_data": 3
+            },
+            "status": {
+                "error_code": 0,
+                "message": "OK"
+            }
+        }
+    }
+}

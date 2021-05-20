@@ -1,0 +1,18 @@
+[
+    {
+        "data": {
+            "notifcenter_deleteReminderBump": {
+                "links": {
+                    "self": ""
+                },
+                "status": "OK",
+                "server_proccess_time": 0,
+                "server": "notif-center",
+                "data": {
+                    "is_success": 1
+                },
+                "message_error": []
+            }
+        }
+    }
+]

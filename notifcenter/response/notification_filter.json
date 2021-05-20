@@ -1,0 +1,42 @@
+[
+    {
+        "data": {
+            "notifcenter_filter_v2": {
+                "notifcenter_tagList": {
+                    "list": [
+                        {
+                            "tag_id": 12,
+                            "tag_key": "transaction",
+                            "tag_name": "Pembelian 132",
+                            "status": 1,
+                            "create_by": 77226139,
+                            "create_time_unix": 1603252754,
+                            "update_by": 77226139,
+                            "update_time_unix": 1603252754
+                        },
+                        {
+                            "tag_id": 2,
+                            "tag_key": "promotion",
+                            "tag_name": "Promo",
+                            "status": 1,
+                            "create_by": 22796090,
+                            "create_time_unix": 1524455695,
+                            "update_by": 22796090,
+                            "update_time_unix": 1524455695
+                        },
+                        {
+                            "tag_id": 1,
+                            "tag_key": "for_you",
+                            "tag_name": "Info",
+                            "status": 1,
+                            "create_by": 22796090,
+                            "create_time_unix": 1524455695,
+                            "update_by": 22796090,
+                            "update_time_unix": 1524455695
+                        }
+                    ]
+                }
+            }
+        }
+    }
+]
